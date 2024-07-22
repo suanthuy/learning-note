@@ -4,7 +4,11 @@ _Link: https://www.youtube.com/watch?v=vRm77DETg-s_
 
 ![](./Images/mock-test-1-2.png)
 
+Attention all just forfeit customers we are having a huge sale with great deals in every single Department kids shoes are 50 of the regular price and women's sport shoes at 25 percent up please take advantage of the great bargains because the sale is only available for the two-day holiday weekend have a great holiday and thanks for shopping at Just 4 feet
+
 ![](./Images/mock-test-1-3.png)
+
+Good morning and welcome to home decor House West Superstore we're helping you build and perfect your home is our pleasure this month we have our annual spring sale which offers some great bargains in the kitchen Department we have a 20 discount on all dishwashers refrigerators and other kitchen appliances if that's product you don't see on a warehouse floor we will audit for you free of charge and delivered to your home within three days please enjoy your shopping experience at home decor and come again
 
 ![](./Images/mock-test-1-4.png)
 
@@ -14,7 +18,11 @@ This is a picture of two people sitting in chairs by the water. They seem to be 
 
 ![](./Images/mock-test-1-6.png)
 
+This is a picture of two people sitting in chairs by the water they seem to be relaxing in the Sun and enjoying the nice day the man is drinking something and the woman appears to be sitting with her legs crossed there's a black back on the grass next to the woman and the trees is casting a shadow across the grass I think it is a clear bright possibly in the spring or the fall
+
 ![](./Images/mock-test-1-7.png)
+
+this picture shows a square with many people doing various things in the middle of the picture a father and his two children are playing by in the fountain on the right there are two teenagers sitting on a bench watching the family play in the background several people are sitting under umbrellas and one of them appears to be eating ice cream it looks like a very relaxing afternoon in this
 
 ![](./Images/mock-test-1-8.png)
 
@@ -37,73 +45,6 @@ This is a picture of two people sitting in chairs by the water. They seem to be 
 
 ## Transcript
 
-00:00:00.000 in this part of the test you will read
-00:00:02.040 aloud the text on the screen you will
-00:00:04.440 have 45 seconds to prepare then you will
-00:00:07.080 have 45 seconds to read the text aloud
-00:00:10.019 begin preparing now
-00:00:57.840 begin reading now
-00:00:59.760 attention all just forfeit customers we
-00:01:03.480 are having a huge sale with great deals
-00:01:06.240 in every single Department kids shoes
-00:01:09.299 are 50 of the regular price and women's
-00:01:13.200 sport shoes at 25 percent up please take
-00:01:17.159 advantage of the great bargains because
-00:01:19.560 the sale is only available for the
-00:01:22.380 two-day holiday weekend have a great
-00:01:25.080 holiday and thanks for shopping at Just
-00:01:27.659 4 feet
-00:01:29.340 begin preparing now
-00:02:17.280 begin reading now
-00:02:19.200 good morning and welcome to home decor
-00:02:22.440 House West Superstore we're helping you
-00:02:25.440 build and perfect your home is our
-00:02:27.959 pleasure this month we have our annual
-00:02:31.020 spring sale which offers some great
-00:02:33.120 bargains in the kitchen Department we
-00:02:36.300 have a 20 discount on all dishwashers
-00:02:40.220 refrigerators and other kitchen
-00:02:42.480 appliances if that's product you don't
-00:02:45.780 see on a warehouse floor we will audit
-00:02:48.900 for you free of charge and delivered to
-00:02:51.720 your home within three days please enjoy
-00:02:54.720 your shopping experience at home decor
-00:02:57.360 and come again
-00:02:59.220 in this part of the test you will
-00:03:01.200 describe the picture on the screen as
-00:03:02.879 much as detail as you can
-00:03:04.920 you will have 45 seconds to prepare your
-00:03:07.500 response
-00:03:08.640 then you will have 30 seconds to speak
-00:03:10.739 about the picture begin preparing now
-00:03:58.739 foreign
-00:04:00.080 speaking now
-00:04:01.920 this is a picture of two people sitting
-00:04:04.980 in chairs by the water
-00:04:06.840 they seem to be relaxing in the Sun and
-00:04:09.239 enjoying the nice day the man is
-00:04:12.000 drinking something and the woman appears
-00:04:14.580 to be sitting with her legs crossed
-00:04:17.040 there's a black back on the grass next
-00:04:20.279 to the woman and the trees is casting a
-00:04:23.880 shadow across the grass I think it is a
-00:04:27.540 clear bright possibly in the spring or
-00:04:30.660 the fall
-00:04:31.740 foreign
-00:04:32.940 begin preparing now
-00:05:21.060 begin speaking now
-00:05:23.340 this picture shows a square with many
-00:05:26.039 people doing various things in the
-00:05:28.919 middle of the picture a father and his
-00:05:31.560 two children are playing by in the
-00:05:33.539 fountain
-00:05:34.680 on the right there are two teenagers
-00:05:36.780 sitting on a bench watching the family
-00:05:39.419 play
-00:05:40.560 in the background several people are
-00:05:42.840 sitting under umbrellas and one of them
-00:05:45.479 appears to be eating ice cream it looks
-00:05:48.780 like a very relaxing afternoon in this
 00:05:51.840 part of the test you will answer three
 00:05:53.759 questions
 00:05:55.139 for each question you will have three
