@@ -42,72 +42,17 @@ Well the bot meeting will be had on March 19th and you should go to conference r
 
 ![](./Images/mock-test-1-13.png)
 
-You will have lunch in the cafeteria at noon you should put your name down on the board in front of the cafeteria before 10 am.
-
 ![](./Images/mock-test-1-14.png)
+
+You will have lunch in the cafeteria at noon you should put your name down on the board in front of the cafeteria before 10 am.
 
 ![](./Images/mock-test-1-15.png)
 
+Again speaking now sure there are two events in conference room B. Once is at 10 am the sales manager will give a speech called impeccable sales strategy. The other will start at 11 am. All participants will discuss statement of accounts for the first half year. 
+
 ![](./Images/mock-test-1-16.png)
 
+Well I would much rather work in a group one main reason is that I don't have another person there pushing me then I get distracted too easily often I have projects to do alone but can't get started or can't stay working on them consistently so I get distracted and wander up to complete another task the other main reason why I like working with a group is that I find it much easier to brainstorm for ideas when you have several people with different personalities and all talking together and trying to figure out I really enjoy having someone else to talk and modeling over different ideas and thoughts to see what can work or what can't work for such reason I prefer to work in a group
 
-## Transcript
 
-00:07:41.520 in this part of the test you will answer
-00:07:43.740 three questions based on the information
-00:07:45.479 provided
-00:07:46.979 you will have 45 seconds to read the
-00:07:49.319 information before the question begin
-00:07:51.840 for each question you will have three
-00:07:53.940 seconds to prepare
-00:07:55.740 you will have 15 seconds to respond to
-00:07:58.199 question 8 and 9 and 30 seconds to
-00:08:00.539 respond to question 10. begin preparing
-00:08:03.300 now
-00:08:48.959 foreign
-00:08:51.140 meeting and where should I go to
-00:08:53.100 participate in the meeting
-00:08:55.080 begin preparing now
-00:09:00.560 begin speaking now
-00:09:19.860 begin speaking now
-00:09:31.740 question 10 could you please tell me all
-00:09:34.200 events in the conference room B
-00:09:36.420 begin preparing now
-00:09:42.779 again speaking now sure there are two
-00:09:46.680 events in conference room B once is at
-00:09:50.820 10 am the sales manager will give a
-00:09:54.240 speech called impeccable sales strategy
-00:09:57.779 the other will start at 11 am all
-00:10:01.260 participants will discuss statement of
-00:10:04.200 accounts for the first half year
-00:10:06.959 in this part of the test you will give
-00:10:09.120 your opinion about a specific topic
-00:10:11.640 be sure to say as much as you can in the
-00:10:13.800 time allowed
-00:10:15.060 you will have 30 seconds to prepare
-00:10:17.820 then you will have 60 seconds to speak
-00:10:20.040 Some people prefer to work in a group
-00:10:22.260 While others prefer to work alone
-00:10:24.779 which do you prefer and why begin
-00:10:27.360 preparing now
-00:10:59.060 begin speaking now
-00:11:01.760 well I would much rather work in a group
-00:11:05.279 one main reason is that I don't have
-00:11:08.160 another person there pushing me then I
-00:11:11.339 get distracted too easily often I have
-00:11:14.760 projects to do alone but can't get
-00:11:17.760 started or can't stay working on them
-00:11:20.700 consistently
-00:11:22.140 so I get distracted and wander up to
-00:11:25.079 complete another task
-00:11:26.760 the other main reason why I like working
-00:11:29.700 with a group is that I find it much
-00:11:33.120 easier to brainstorm for ideas when you
-00:11:36.360 have several people with different
-00:11:38.160 personalities and all talking together
-00:11:41.040 and trying to figure out I really enjoy
-00:11:44.700 having someone else to talk and modeling
-00:11:47.279 over different ideas and thoughts to see
-00:11:50.940 what can work or what can't work for
-00:11:54.899 such reason I prefer to work in a group
 
