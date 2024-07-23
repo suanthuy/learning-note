@@ -1,10 +1,10 @@
 _Link: https://www.youtube.com/watch?v=vRm77DETg-s_
 
-![](./Images/mock-test-1-1.png)
+![](./Images/mock-test-1-1.png) 
 
 ![](./Images/mock-test-1-2.png)
 
-Attention all just forfeit customers we are having a huge sale with great deals in every single Department kids shoes are 50 of the regular price and women's sport shoes at 25 percent up please take advantage of the great bargains because the sale is only available for the two-day holiday weekend have a great holiday and thanks for shopping at Just 4 feet
+Attention all just for feet customers we are having a huge sale with great deals in every single Department kids shoes are 50 of the regular price and women's sport shoes at 25 percent up please take advantage of the great bargains because the sale is only available for the two-day holiday weekend have a great holiday and thanks for shopping at Just 4 feet
 
 ![](./Images/mock-test-1-3.png)
 
@@ -18,21 +18,26 @@ This is a picture of two people sitting in chairs by the water. They seem to be 
 
 ![](./Images/mock-test-1-6.png)
 
-This is a picture of two people sitting in chairs by the water they seem to be relaxing in the Sun and enjoying the nice day the man is drinking something and the woman appears to be sitting with her legs crossed there's a black back on the grass next to the woman and the trees is casting a shadow across the grass I think it is a clear bright possibly in the spring or the fall
+This picture shows a square with many people doing various things in the middle of the picture a father and his two children are playing by in the fountain on the right there are two teenagers sitting on a bench watching the family play in the background several people are sitting under umbrellas and one of them appears to be eating ice cream it looks like a very relaxing afternoon in this
 
 ![](./Images/mock-test-1-7.png)
 
-this picture shows a square with many people doing various things in the middle of the picture a father and his two children are playing by in the fountain on the right there are two teenagers sitting on a bench watching the family play in the background several people are sitting under umbrellas and one of them appears to be eating ice cream it looks like a very relaxing afternoon in this
-
 ![](./Images/mock-test-1-8.png)
+
+Well I usually shop a list twice a week since I generally love buying things online. I particularly like shopping at Vinmart. They offer pretty good items at competitive prices.
 
 ![](./Images/mock-test-1-9.png)
 
+Well it was a laptop computer and it's cost me more than one thousand dollars.
+
 ![](./Images/mock-test-1-10.png)
+
+Well I don't think that any harm in buying jewelry online as long as you do some careful research before buying anything. I'm buying from a reputable online jewelry store is probably the cheapest most convenient way to get jewelry these days.
 
 ![](./Images/mock-test-1-11.png)
 
 ![](./Images/mock-test-1-12.png)
+Well the bot meeting will be had on March 19th and you should go to conference rooms A and B question 9 is there lunch time begin preparing now
 
 ![](./Images/mock-test-1-13.png)
 
@@ -62,32 +67,11 @@ this picture shows a square with many people doing various things in the middle 
 00:06:18.900 you shop online on average
 00:06:21.419 begin preparing now
 00:06:27.419 begin speaking now
-00:06:29.580 well I usually shop a list twice a week
-00:06:32.940 since I generally love buying things
-00:06:35.819 online I particularly like shopping at
-00:06:38.940 finmart they offer pretty good items at
-00:06:42.000 competitive prices question six what is
-00:06:45.479 the most expensive item you've bought
-00:06:46.860 Lately from an online store and how much
-00:06:48.780 did it cost
 00:06:50.160 begin preparing now
 00:06:56.160 begin speaking now
-00:06:58.500 well it was a laptop computer and it's
-00:07:02.280 cost me more than one thousand dollars
-00:07:04.800 question seven would you consider
-00:07:07.139 purchasing jewelry from an online
-00:07:08.580 shopping mall instead of local jewelry
-00:07:10.620 shops
 00:07:11.759 why or why not
 00:07:13.860 again preparing now
 00:07:19.800 begin speaking now
-00:07:21.960 well I don't think that any harm in
-00:07:25.259 buying jewelry online as long as you do
-00:07:28.319 some careful research before buying
-00:07:30.780 anything I'm buying from a reputable
-00:07:33.660 online jewelry store is probably the
-00:07:36.539 cheapest most convenient way to get
-00:07:38.940 jewelry these days
 00:07:41.520 in this part of the test you will answer
 00:07:43.740 three questions based on the information
 00:07:45.479 provided
@@ -104,10 +88,6 @@ this picture shows a square with many people doing various things in the middle 
 00:08:53.100 participate in the meeting
 00:08:55.080 begin preparing now
 00:09:00.560 begin speaking now
-00:09:03.180 well the bot meeting will be had on
-00:09:06.000 March 19th and you should go to
-00:09:08.940 conference rooms A and B question 9 is
-00:09:12.779 there lunch time begin preparing now
 00:09:19.860 begin speaking now
 00:09:22.140 you will have lunch in the cafeteria at
 00:09:25.080 noon you should put your name down on
