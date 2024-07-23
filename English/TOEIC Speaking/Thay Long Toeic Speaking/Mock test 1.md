@@ -37,9 +37,12 @@ Well I don't think that any harm in buying jewelry online as long as you do some
 ![](./Images/mock-test-1-11.png)
 
 ![](./Images/mock-test-1-12.png)
-Well the bot meeting will be had on March 19th and you should go to conference rooms A and B question 9 is there lunch time begin preparing now
+
+Well the bot meeting will be had on March 19th and you should go to conference rooms A and B question 9 is there lunch time begin preparing now.
 
 ![](./Images/mock-test-1-13.png)
+
+You will have lunch in the cafeteria at noon you should put your name down on the board in front of the cafeteria before 10 am.
 
 ![](./Images/mock-test-1-14.png)
 
@@ -50,28 +53,6 @@ Well the bot meeting will be had on March 19th and you should go to conference r
 
 ## Transcript
 
-00:05:51.840 part of the test you will answer three
-00:05:53.759 questions
-00:05:55.139 for each question you will have three
-00:05:57.360 seconds to prepare
-00:05:59.039 you will have 15 seconds to respond to
-00:06:01.500 question 5 and 6 and 30 seconds to
-00:06:04.020 respond to question 7. imagine that a
-00:06:06.600 U.S marketing firm is doing research in
-00:06:08.580 your country
-00:06:09.840 you have agreed to participate in a
-00:06:11.940 telephone interview about online
-00:06:13.259 shopping malls
-00:06:15.060 question five what is your favorite
-00:06:16.979 online shopping mall and how often do
-00:06:18.900 you shop online on average
-00:06:21.419 begin preparing now
-00:06:27.419 begin speaking now
-00:06:50.160 begin preparing now
-00:06:56.160 begin speaking now
-00:07:11.759 why or why not
-00:07:13.860 again preparing now
-00:07:19.800 begin speaking now
 00:07:41.520 in this part of the test you will answer
 00:07:43.740 three questions based on the information
 00:07:45.479 provided
@@ -89,10 +70,6 @@ Well the bot meeting will be had on March 19th and you should go to conference r
 00:08:55.080 begin preparing now
 00:09:00.560 begin speaking now
 00:09:19.860 begin speaking now
-00:09:22.140 you will have lunch in the cafeteria at
-00:09:25.080 noon you should put your name down on
-00:09:27.779 the board in front of the cafeteria
-00:09:29.940 before 10 am
 00:09:31.740 question 10 could you please tell me all
 00:09:34.200 events in the conference room B
 00:09:36.420 begin preparing now
