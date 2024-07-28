@@ -4,7 +4,11 @@ _Link: https://www.youtube.com/watch?v=lgKUIkjDTAk_
 
 ![](./Images/mock-test-11-2.png)
 
+Are you hungry for the best pizza in the city? Then cause a top of the pizza for quick delivery of our fresh hot pizza. In addition to a wide selection of pizzas, and toppings, we also make delicious pasta dishes, salads, and breadsticks. For your convenience, you can even place your order online for quick pick up for or delivery. So the next time you're thinking about what to do for dinner give us a call and let us take of everything.
+
 ![](./Images/mock-test-11-3.png)
+
+As a guess of High Point Hotel, all travelers can enjoy free access to our modern fitness center. Located on the 15th floor, the center offers you all of the latest exercise equipment to help you stay in shape. The Phoenix Center has personal trainers to make sure you get the most of your workouts. When your workout is finished, you can relax in large outdoor swimming pool that offers great views of the city.
 
 ![](./Images/mock-test-11-4.png)
 
@@ -44,31 +48,8 @@ _Link: https://www.youtube.com/watch?v=lgKUIkjDTAk_
 00:00:14.880 have 45 seconds to read the text aloud
 00:00:17.880 begin preparing now
 00:01:05.640 begin reading now
-00:01:07.760 are you hungry for the best pizza in the
-00:01:10.799 city then cause a top of the pizza for
-00:01:13.740 quick delivery of our fresh hot pizza in
-00:01:17.580 addition to a wide selection of pizzas
-00:01:20.040 and toppings we also make delicious
-00:01:22.560 pasta dishes salads and breadsticks for
-00:01:26.759 your convenience you can even place your
-00:01:29.159 order online for quick pick up for or
-00:01:32.580 delivery so the next time you're
-00:01:35.220 thinking about what to do for dinner
-00:01:37.439 give us a call and let us take of
-00:01:40.140 everything
 00:01:43.380 begin preparing now
 00:02:31.020 begin reading now
-00:02:32.959 as a guess of High Point Hotel all
-00:02:36.840 travelers can enjoy free access to our
-00:02:39.660 modern fitness center located on the
-00:02:43.019 15th floor the center offers you all of
-00:02:46.200 the latest exercise equipment to help
-00:02:48.959 you stay in shape the Phoenix Center has
-00:02:52.379 personal trainers to make sure you get
-00:02:55.019 the most of your workouts when your
-00:02:57.959 workout is finished you can relax in
-00:03:00.720 large outdoor swimming pool that offers
-00:03:03.660 great views of the city
 00:03:08.220 in this part of the test you will
 00:03:10.200 describe the picture on the screen as
 00:03:11.879 much as detail as you can
