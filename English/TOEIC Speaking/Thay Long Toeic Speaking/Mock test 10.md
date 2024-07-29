@@ -37,15 +37,21 @@ I like to play computer game for the following reasons. First, I play computer g
 
 ![](./Images/mock-test-10-11.png)
 
-All seminars start at 2PM and finish at 4 pm they are taking place at top City Hotel Grand Ballroom who will be leading the seminar on buyer profiles
 
 ![](./Images/mock-test-10-12.png)
 
-Samantha Leoni will be leading that seminar. She is the director of Midlink Properties.
+All seminars start at 2PM and finish at 4 PM. They are taking place at Top City Hotel, Grand Ballroom. 
+
 
 ![](./Images/mock-test-10-13.png)
 
+Who will be leading the seminar on buyer profiles?
+
+Samantha Leoni will be leading that seminar. She is the director of Midlink Properties.
+
 ![](./Images/mock-test-10-14.png)
+
+Would you tell me the first seminar in detail?
 
 Certainly. The first seminar, which is on Monday April 23rd will be about supply and demand situations. The instructor will be Andrea Beety, who is a professor at Windham University. You definitely do not want to meet this seminar as it will lay the foundation for the following topics
 
@@ -53,5 +59,5 @@ Certainly. The first seminar, which is on Monday April 23rd will be about supply
 
 ![](./Images/mock-test-10-16.png)
 
-There is no doubt in my mind that owning a house is better than renting I feel this way for two main reasons most importantly owning a house is a wise Financial investment house prices usually rise considerably over time so the value of your investment increases if you rent a house you have to pay a lot of money every month and that money is gone forever even if you paid rent for 50 years you still would not own the property so it's complete waste of money not only that if you rent the landlord can add ask you to leave at any time that's very inconvenient especially if you work nearby or have children attending a local school therefore my preference is to buy rather than rent if I can afford to do so
+There is no doubt in my mind that owning a house is better than renting. I feel this way for two main reasons. Most importantly owning a house is a wise Financial investment house prices, usually rise considerably over time so the value of your investment increases. If you rent a house you have to pay a lot of money every month and that money is gone forever. Even if you paid rent for 50 years, you still would not own the property, so it's complete waste of money. Not only that, if you rent, the landlord can add ask you to leave at any time. That's very inconvenient, especially if you work nearby or have children attending a local school. Therefore, my preference is to buy rather than rent if I can afford to do so.
 
