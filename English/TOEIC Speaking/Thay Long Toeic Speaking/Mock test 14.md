@@ -2,13 +2,15 @@ _Link: https://www.youtube.com/watch?v=lScVsWNRPA4_
 
 ![](./Images/mock-test-14-1.png)
 
-now fairies man store has been providing the area with some of the funest man's fashions for the last 50 years this weekend fairies will have a winter clearance sale to make room for their entire spring collection during the sale Shoppers will enjoy the scouts up to 50% on all winter items to make sure that the stores valued customers can enjoy the weekend sale fairies will be open from 10:00 a.m. to 10
 
 ![](./Images/mock-test-14-2.png)
 
-now the 23rd annual movie critics Awards will take place next Saturday at 700 p.m. at the Grand Hotel the event will award today's top actors directors and others who have worked to create some of the best files of the year if you wish to attend please contact the hotel as soon as possible since seting for the public will be limited cameras will not be allowed Inside the Hotel photos can be only taken Outdoors before or after the event.
+Ferry's Men store has been providing the area with some of the finest man's fashions for the last 50 years. This weekend, Ferry's will have a winter clearance sale to make room for their entire spring collection. During the sale, shoppers will enjoy the scouts up to 50% on all winter items. To make sure that the store's valued customers can enjoy the weekend sale, Ferry's will be open from 10:00 A.M to 10 P.M.
+
 
 ![](./Images/mock-test-14-3.png)
+
+The 23rd annual Movie Critics Awards will take place next Saturday at 700 p.m. at the Grand Hotel. The event will award today's top actors directors and others who have worked to create some of the best files of the year if you wish to attend please contact the hotel as soon as possible since seting for the public will be limited cameras will not be allowed Inside the Hotel photos can be only taken Outdoors before or after the event.
 
 ![](./Images/mock-test-14-4.png)
 
