@@ -1,47 +1,9 @@
-_Link: https://www.youtube.com/watch?v=1qC1H1QsccU
+_Link: https://www.youtube.com/watch?v=1qC1H1QsccU_
 
 ![](./Images/mock-test-3-1.png)
 
 ![](./Images/mock-test-3-2.png)
 
-![](./Images/mock-test-3-3.png)
-
-![](./Images/mock-test-3-4.png)
-
-![](./Images/mock-test-3-5.png)
-
-![](./Images/mock-test-3-6.png)
-
-![](./Images/mock-test-3-7.png)
-
-![](./Images/mock-test-3-8.png)
-
-![](./Images/mock-test-3-9.png)
-
-![](./Images/mock-test-3-10.png)
-
-![](./Images/mock-test-3-11.png)
-
-![](./Images/mock-test-3-12.png)
-
-![](./Images/mock-test-3-13.png)
-
-![](./Images/mock-test-3-14.png)
-
-![](./Images/mock-test-3-15.png)
-
-![](./Images/mock-test-3-16.png)
-
-
-## Transcript
-
-00:00:00.000 in this part of the test you will read
-00:00:02.100 aloud the text on the screen you will
-00:00:04.500 have 45 seconds to prepare then you will
-00:00:07.140 have 45 seconds to read the text aloud
-00:00:10.019 begin preparing now
-00:00:57.840 begin reading now
-00:00:59.760 foreign
 00:01:02.780 Museum of cultural arts our collection
 00:01:06.540 features more than 700 artifacts
 00:01:10.020 including Native American Relic totem
@@ -50,8 +12,9 @@ _Link: https://www.youtube.com/watch?v=1qC1H1QsccU
 00:01:20.640 local musicians after we finish the tour
 00:01:24.000 today you are encouraged to visit our
 00:01:27.240 gift shop beside the front entrance
-00:01:32.580 begin preparing now
-00:02:20.160 begin reading now
+
+![](./Images/mock-test-3-3.png)
+
 00:02:23.160 hello and thank you for calling the
 00:02:25.920 Buffalo vet and breakfast
 00:02:27.980 regretably we are commonly closed for
@@ -61,15 +24,9 @@ _Link: https://www.youtube.com/watch?v=1qC1H1QsccU
 00:02:41.160 have any questions stay on the line and
 00:02:44.220 an oval Raider where we would do shortly
 00:02:46.700 thank you and have a wonderful day
-00:02:52.920 in this part of the test you will
-00:02:54.840 describe the picture on the screen as
-00:02:56.519 much as detail as you can
-00:02:58.560 you will have 45 seconds to prepare your
-00:03:01.080 response
-00:03:02.340 then you will have 30 seconds to speak
-00:03:04.440 about the picture
-00:03:06.480 begin preparing now
-00:03:53.340 foreign begin speaking now
+
+![](./Images/mock-test-3-4.png)
+
 00:03:56.940 there are two men in a blue collar room
 00:04:00.180 looking at one another in this picture
 00:04:02.900 they are both wearing light colored
@@ -80,9 +37,9 @@ _Link: https://www.youtube.com/watch?v=1qC1H1QsccU
 00:04:16.260 man on the right is wearing a t-shirt
 00:04:18.540 and is holding a cup in his left hand
 00:04:22.040 both men are smiling at each other
-00:04:26.160 foreign
-00:04:28.080 begin preparing now
-00:05:15.840 begin speaking now
+
+![](./Images/mock-test-3-5.png)
+
 00:05:17.880 there are two women in this picture the
 00:05:21.360 woman on the left has long blonde hair
 00:05:23.940 and the woman on the right has long
@@ -95,18 +52,9 @@ _Link: https://www.youtube.com/watch?v=1qC1H1QsccU
 00:05:41.759 the brunette is holding up a light blue
 00:05:44.759 blouse to her chest to check how it
 00:05:47.400 would look on her
-00:05:49.919 in this part of the test you will answer
-00:05:52.020 three questions
-00:05:53.880 for each question you will have three
-00:05:55.860 seconds to prepare
-00:05:57.600 you will have 15 seconds to respond to
-00:06:00.060 question 5 and 6 and 30 seconds to
-00:06:02.580 respond to question seven imagine that
-00:06:05.160 an American marketing firm is doing
-00:06:06.720 research in your country
-00:06:08.699 you have agreed to participate in a
-00:06:10.860 telephone interview about your vacation
-00:06:12.360 preferences
+
+![](./Images/mock-test-3-6.png)
+
 00:06:14.699 how often do you take a vacation and who
 00:06:16.860 do you usually go with begin preparing
 00:06:19.440 now
@@ -115,6 +63,9 @@ _Link: https://www.youtube.com/watch?v=1qC1H1QsccU
 00:06:30.060 with my close friends I usually go
 00:06:32.639 during my summer break because that's
 00:06:35.460 the only time I can have a long vacation
+
+![](./Images/mock-test-3-7.png)
+
 00:06:42.479 do you prefer to go on vacation in your
 00:06:44.699 own country or abroad
 00:06:46.500 begin preparing now
@@ -128,9 +79,11 @@ _Link: https://www.youtube.com/watch?v=1qC1H1QsccU
 00:07:11.100 some people like to go on vacation to
 00:07:13.259 relax While others prefer excitement and
 00:07:15.539 adventure
-00:07:16.800 what do you look for in a vacation begin
-00:07:19.620 preparing now
-00:07:24.680 begin speaking now
+
+![](./Images/mock-test-3-8.png)
+
+00:07:16.800 what do you look for in a vacation?
+
 00:07:27.360 well for me I prefer to experience
 00:07:30.479 excitement and Adventure on my vacation
 00:07:33.800 that's because I like to do challenging
@@ -142,17 +95,9 @@ _Link: https://www.youtube.com/watch?v=1qC1H1QsccU
 00:07:51.660 experiences therefore I think it's
 00:07:54.419 better for me to go somewhere through
 00:07:56.940 fun and interesting activities in this
-00:08:00.240 part of the test you will answer three
-00:08:02.099 questions based on the information
-00:08:03.479 provided
-00:08:04.979 you will have 45 seconds to read the
-00:08:07.440 information before the question begin
-00:08:10.020 for each question you will have three
-00:08:12.060 seconds to prepare
-00:08:13.740 you will have 15 seconds to respond to
-00:08:16.259 question 8 and 9 and 30 seconds to
-00:08:18.539 respond to question 10.
-00:08:20.879 begin preparing now
+
+![](./Images/mock-test-3-9.png)
+
 00:09:07.940 how long will the seminar last
 00:09:11.459 begin preparing now
 00:09:17.700 begin speaking now foreign
@@ -164,8 +109,7 @@ _Link: https://www.youtube.com/watch?v=1qC1H1QsccU
 00:09:40.740 will be packed during lunch time
 00:09:42.899 will there be a spot where I can eat my
 00:09:44.940 lunch
-00:09:46.320 begin preparing now
-00:09:52.440 begin speaking now
+
 00:09:55.019 actually it won't be necessary for you
 00:09:57.899 to bring a long lunch will be available
 00:10:01.019 at no extra cost and will be soaked in
@@ -176,6 +120,9 @@ _Link: https://www.youtube.com/watch?v=1qC1H1QsccU
 00:10:15.540 take part in an important telephone
 00:10:16.860 conference with some clients from Hong
 00:10:19.380 Kong
+
+![](./Images/mock-test-3-10.png)
+
 00:10:20.339 can you tell me what part of the program
 00:10:21.899 I'll miss out on begin preparing now
 00:10:29.220 begin speaking now
@@ -188,21 +135,19 @@ _Link: https://www.youtube.com/watch?v=1qC1H1QsccU
 00:10:53.220 by Mike Owen finally you were missed out
 00:10:56.940 on an open discussion starting at 3 30
 00:11:00.660 pm
-00:11:03.300 in this part of the test you will give
-00:11:05.399 your opinion about a specific topic
-00:11:07.920 be sure to say as much as you can in the
-00:11:10.140 time allowed
-00:11:11.339 you will have 30 seconds to prepare
-00:11:14.160 then you will have 60 seconds to speak
-00:11:16.380 some people choose to read news online
-00:11:18.600 and others prefer to read a newspaper
-00:11:21.600 in which way do you prefer to read news
-00:11:23.519 and why
-00:11:24.959 give specific reasons and examples to
-00:11:27.480 support your preference
-00:11:29.880 begin preparing now
-00:12:01.800 foreign
-00:12:03.260 speaking now
+
+![](./Images/mock-test-3-11.png)
+
+![](./Images/mock-test-3-12.png)
+
+![](./Images/mock-test-3-13.png)
+
+![](./Images/mock-test-3-14.png)
+
+![](./Images/mock-test-3-15.png)
+
+![](./Images/mock-test-3-16.png)
+
 00:12:05.760 personally I would rather get news
 00:12:09.120 online than read it in a newspaper for
 00:12:13.079 starters it's more convenient in many
@@ -222,3 +167,4 @@ _Link: https://www.youtube.com/watch?v=1qC1H1QsccU
 00:12:57.899 events to online news instead of a
 00:13:01.200 newspaper
 00:13:03.839 foreign
+
