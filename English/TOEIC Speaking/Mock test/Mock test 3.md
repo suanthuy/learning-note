@@ -56,9 +56,9 @@ Actually, it won't be necessary for you to bring along lunch. Lunch will be avai
 
 ![](./Images/mock-test-3-13.png)
 
-Unfortunately I have to leave it two in the afternoon because I'm scheduled to take part in an important telephone conference with some clients from Hong Kong can you tell me what part of the program I'll miss out on begin preparing now
+Unfortunately I have to leave it two in the afternoon because I'm scheduled to take part in an important telephone conference with some clients from Hong Kong. Can you tell me what part of the program I'll miss out on?
 
-well you will be missing three sections headphone 2 pm to 4 30 PM first you will be missing part of Kim jong's talk about marketing through social networks next you won't hear the case study about Fido Telecom online marketing strategy given by Mike Owen finally you were missed out on an open discussion starting at 3 30 pm
+Well. You will be missing three sections held 2 pm to 4 30 PM. First, you will be missing part of Kim Jone's talk about marketing through social networks. Next you won't hear the case study about Faisai Telecom's online marketing strategy given by Mike Owen. Finally you were missed out on an open discussion starting at 3 30 pm.
 
 ![](./Images/mock-test-3-14.png)
 
@@ -66,22 +66,5 @@ well you will be missing three sections headphone 2 pm to 4 30 PM first you will
 
 ![](./Images/mock-test-3-16.png)
 
-personally I would rather get news
-online than read it in a newspaper for
-starters it's more convenient in many
-ways for example I can read all the word
-next new papers from anywhere via my
-laptop or mobile phone so I don't even
-have to go out to the store to buy them
-moreover mostly is free to read online
-the other thing is that news websites
-are more current than papers
-newspaper only give an update on a
-situation at the time of printing
-whereas online news is totally up to the
-minute therefore you can get the latest
-news without waiting that is why I think
-it's better to catch up with current
-events to online news instead of a
-newspaper
+Personally, I would rather get news online than read it in a newspaper. For starters, it's more convenient in many ways. For example, I can read all the word next newpapers from anywhere, via my laptop or mobile phone. So, I don't even have to go out to the store to buy them. Moreover, mostly it is free to read online. The other thing is that news websites are more current than papers. Newspaper only give an update on a situation at the time of printing, whereas online news is totally up to the minute. Therefore, you can get the latest news without waiting. That is why I think it's better to catch up with current events through online news instead of a newspaper.
 
