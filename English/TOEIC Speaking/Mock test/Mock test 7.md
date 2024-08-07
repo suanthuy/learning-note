@@ -2,152 +2,60 @@
 
 ![](./Images/mock-test-7-1.png)
 
-00:01:00.300 this is Ian Galloway with this morning's
-00:01:03.239 commuto update so traffic congestion in
-00:01:07.380 the Uptown area is causing major delays
-00:01:10.740 for motorists trying to enter the city
-00:01:13.860 center
-00:01:15.060 those heading out now are advised to
-00:01:18.360 take an alternative route if possible
-00:01:21.720 in addition there has also been a major
-00:01:25.259 accident involving a truck and a
-00:01:28.619 passenger vehicle on a Western Boulevard
-00:01:32.580 traffic in this area is heavy but
-00:01:36.119 flowing steadily and should be back to
-00:01:38.880 normal soon
+this is Ian Galloway with this morning's commuto update so traffic congestion in the Uptown area is causing major delays for motorists trying to enter the city center those heading out now are advised to take an alternative route if possible in addition there has also been a major accident involving a truck and a passenger vehicle on a Western Boulevard traffic in this area is heavy but flowing steadily and should be back to normal soon
 
 ![](./Images/mock-test-7-2.png)
 
-00:02:32.599 and now it's time to present the
-00:02:35.819 employee of the year award
-00:02:38.099 this prestigious prize go to the
-00:02:41.580 employee who has made the biggest
-00:02:43.760 contribution to our company's
-00:02:46.200 performance over the last year
-00:02:49.260 the recipient is given a one thousand
-00:02:52.739 dollars bonus five extra days of
-00:02:56.400 vacation leave and a certificate signed
-00:02:59.879 by the CEO
-00:03:01.680 I'd like you all to applaud Jen
-00:03:05.040 Henderson from Administration
-00:03:08.220 Jen please come up on stage to collect
-00:03:11.760 your award
+It's time to present the employee of the year award this prestigious prize go to the employee who has made the biggest contribution to our company's performance over the last year the recipient is given a one thousand dollars bonus five extra days of vacation leave and a certificate signed by the CEO I'd like you all to applaud Jen Henderson from Administration Jen please come up on stage to collect your award
 
 ![](./Images/mock-test-7-3.png)
 
-00:04:19.500 here is a picture taken at a big lecture
-00:04:22.139 hall in the foreground there are
-00:04:24.240 students sitting in wooden seats and the
-00:04:26.699 class looks very full most of the
-00:04:29.040 students are looking down so they're
-00:04:30.960 probably taking notes in the middle I
-00:04:34.199 can see some long tables with papers and
-00:04:36.660 other items on them in the background a
-00:04:39.479 teacher is standing with his back to the
-00:04:41.580 students he's wearing a brown sweater
-00:04:44.100 and blue jeans and is writing something
-00:04:46.199 on the Blackboard with chalk overall it
-00:04:49.199 looks like a typical classroom scene
+There is a picture taken at a big lecture hall in the foreground there are students sitting in wooden seats and the class looks very full most of the students are looking down so they're probably taking notes in the middle I can see some long tables with papers and other items on them in the background a teacher is standing with his back to the students he's wearing a brown sweater and blue jeans and is writing something on the Blackboard with chalk overall it looks like a typical classroom scene
 
 ![](./Images/mock-test-7-4.png)
 
-00:05:43.199 this is a snapshot taken on a sidewalk
-00:05:45.660 in a city what I noticed first in the
-00:05:48.300 picture is the father and his young son
-00:05:50.400 going somewhere together the father is
-00:05:52.919 pushing a stroller and the little child
-00:05:55.620 is having his father push the stroller
-00:05:58.199 the sidewalk there walking on looks very
-00:06:00.720 neat and clean and I can also see a
-00:06:03.600 bench on it in the background there are
-00:06:06.000 some cars parked on both sides of the
-00:06:08.280 street overall it looks like a clean
-00:06:10.560 City and the father and son made me
-00:06:13.080 smile
+This is a snapshot taken on a sidewalk in a city what I noticed first in the picture is the father and his young son going somewhere together the father is pushing a stroller and the little child is having his father push the stroller the sidewalk there walking on looks very neat and clean and I can also see a bench on it in the background there are some cars parked on both sides of the street overall it looks like a clean City and the father and son made me smile
 
 ![](./Images/mock-test-7-5.png)
 
-00:06:28.380 respond to question seven imagine that
-00:06:30.840 an American marketing firm is doing
-00:06:32.460 research in your country
-00:06:34.560 you have agreed to participate in a
-00:06:36.600 telephone interview about gardening
-00:06:39.180 do you enjoy working in the garden
-00:06:41.819 begin preparing now
-00:06:47.819 begin speaking now
-00:06:50.220 well yes I do very much because I find
-00:06:53.340 it relaxing so whenever I have free time
-00:06:56.940 on the weekend I plant some flowers and
-00:07:00.300 water and trim them
+respond to question seven imagine that an American marketing firm is doing research in your country you have agreed to participate in a telephone interview about gardening do you enjoy working in the garden
+
+well yes I do very much because I find it relaxing so whenever I have free time on the weekend I plant some flowers and water and trim them
 
 ![](./Images/mock-test-7-6.png)
 
-00:07:06.660 how often do you do gardening at home
-00:07:09.840 begin preparing now
-00:07:16.139 speaking now
-00:07:17.759 well I usually do gardening once or
-00:07:21.060 twice a week on the weekends I am so
-00:07:24.060 busy during the week so the only time I
-00:07:26.699 can devote to gardening is on the
-00:07:29.160 weekends
+how often do you do gardening at home
+
+well I usually do gardening once or twice a week on the weekends I am so busy during the week so the only time I can devote to gardening is on the weekends
 
 ![](./Images/mock-test-7-7.png)
 
 
-00:07:33.120 would you rather spend time in your own
-00:07:35.099 garden or visit a large public garden
+would you rather spend time in your own garden or visit a large public garden
 
-00:07:46.979 um for me I would prefer to visit a
-00:07:49.380 large public garden the reason is that
-00:07:51.900 public gardens have a wide variety of
-00:07:54.599 beautiful plants and flowers while my
-00:07:57.780 own garden has only a limited variety
-00:08:00.840 for example when I went to the Botanical
-00:08:04.139 Garden near my house I was amazed by all
-00:08:07.860 the different kinds of flowers and
-00:08:09.840 plants and I had a great time there
-00:08:14.400 in this part of the test you will answer
-00:08:16.500 three questions based on the information
-00:08:18.240 provided
+for me I would prefer to visit a large public garden the reason is that public gardens have a wide variety of beautiful plants and flowers while my own garden has only a limited variety for example when I went to the Botanical Garden near my house I was amazed by all the different kinds of flowers and plants and I had a great time there in this part of the test you will answer three questions based on the information provided
 
 ![](./Images/mock-test-7-8.png)
 
-00:09:23.060 I have an appointment after work
-00:09:26.220 when exactly will we get back from the
-00:09:28.140 venue
-00:09:30.000 begin preparing now
-00:09:36.060 begin speaking now
-00:09:39.480 um we are scheduled to get back to the
-00:09:41.760 office at 4 40 in the afternoon so you
-00:09:44.940 are free to go after that
+I have an appointment after work when exactly will we get back from the venue
+
+um we are scheduled to get back to the office at 4 40 in the afternoon so you are free to go after that
+
 ![](./Images/mock-test-7-9.png)
 
-00:09:47.880 I heard we are expected to organize our
-00:09:49.980 own transportation to the Essex
-00:09:51.600 Corporate Center
-00:09:53.160 is this correct
-00:09:55.080 begin preparing now
-00:10:01.080 begin speaking now
-00:10:03.360 actually it's not you will write in a
-00:10:06.480 private coach arranged by the company
-00:10:09.140 just wait outside the office at 9 00 am
-00:10:12.899 and you'll be picked up and don't be
-00:10:15.060 late
-00:10:18.060 I've never been to a team building day
-00:10:19.860 before
+I heard we are expected to organize our
+own transportation to the Essex
+Corporate Center
+is this correct
+
+actually it's not you will write in a private coach arranged by the company just wait outside the office at 9 00 am and you'll be picked up and don't be late I've never been to a team building day before
+
 ![](./Images/mock-test-7-10.png)
 
-00:10:21.060 what sorts of things does it involve
-00:10:25.680 begin preparing now
-00:10:31.339 begin speaking now there will be three
-00:10:34.860 kinds of sessions you're going to attend
-00:10:37.440 first of all you'll be taking part in
-00:10:40.200 teamwork exercise and games in the
-00:10:42.779 morning next in the afternoon there will
-00:10:46.019 be a seminar on communicating at work
-00:10:48.839 and finally a brainstorming session on
-00:10:52.740 improving cooperation I'm sure you're
-00:10:55.920 going to enjoy the programs
+what sorts of things does it involve
+
+there will be three kinds of sessions you're going to attend first of all you'll be taking part in teamwork exercise and games in the morning next in the afternoon there will be a seminar on communicating at work and finally a brainstorming session on improving cooperation I'm sure you're going to enjoy the programs
+
 ![](./Images/mock-test-7-11.png)
 
 ![](./Images/mock-test-7-12.png)
@@ -156,24 +64,5 @@
 
 ![](./Images/mock-test-7-14.png)
 
-00:12:00.480 well in my opinion I think I would
-00:12:03.720 definitely accept an offer to work
-00:12:05.940 abroad first of all it would be
-00:12:08.339 interesting and beneficial to live in
-00:12:10.620 another country I could learn about an
-00:12:13.380 unfamiliar culture and meet people who
-00:12:16.860 are totally different from me it would
-00:12:19.920 also help me establish responsibility
-00:12:22.860 and make myself a stronger person
-00:12:26.180 although it would be a bit tough and
-00:12:28.920 challenging at times second it would
-00:12:31.680 give me an advantage in the job market
-00:12:33.839 for a promotion or career advancement
-00:12:37.640 these days employers prefer employees
-00:12:40.740 who have work experience abroad because
-00:12:43.500 that means they are capable of working
-00:12:46.260 in a variety of environments and
-00:12:49.200 speaking second languages therefore I
-00:12:51.899 think I'd happily accept an opportunity
-00:12:54.420 to work abroad
+well in my opinion I think I would definitely accept an offer to work abroad first of all it would be interesting and beneficial to live in another country I could learn about an unfamiliar culture and meet people who are totally different from me it would also help me establish responsibility and make myself a stronger person although it would be a bit tough and challenging at times second it would give me an advantage in the job market for a promotion or career advancement these days employers prefer employees who have work experience abroad because that means they are capable of working in a variety of environments and speaking second languages therefore I think I'd happily accept an opportunity to work abroad
 
