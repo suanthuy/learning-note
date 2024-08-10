@@ -50,7 +50,20 @@ Under is some common mistake habit:
 Rules for stressing:
 
 - Rule 1: 2-syllable words
-	- Most 2-syllable Nouns and Adjective
+	- Most 2-syllable Nouns and Adjective --> 1st syllable Stress
+	- Most 2-syllable Verbs --> 2nd syllable Stress
+	- Some words that can be Noun and Verb: different stresses
+- Rule 2: 3 or more sysllables words
+	- Stress on adjacent sounds: -ic, -ics, -ian, -tion, -sion
+	- Stress on sounds: -ade, -ee, -ese, -eer, -eete, -oo, -oon, -aire, -ique
+	- Stress on the 3rd sound from the bottom: -al, -ful, -y, -ate
+
+Rules for the ending s/es, ed
+
+- Pronouncing "ed" endings
+	- t after the voiceless sounds p, k, f, s, ts, s, th
+	- id after t, d
+
 
 
 
