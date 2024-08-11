@@ -6,6 +6,7 @@
 	- [Introduction on reading a passage](#introduction-on-reading-a-passage)
 	- [How to answer](#how-to-answer)
 		- [Instructions on reading a passage](#instructions-on-reading-a-passage)
+- [Part 2: Describe pictures](#part-2%3A-describe-pictures)
 
 ## Part 1: Read the text
 
@@ -139,11 +140,105 @@ Common topics:
 
 - Holidays and travel
 - Office
+- Shopping
+- Pinic / Camping
+- Common public area
+- Entertainment and leisure activities
+- Hourehold chorses
+- Outdoor and street scenes
+
+Evaluation Criteria:
+
+- Pronunciation
+- Intonation and Stress
+- Vocabulary
+- Grammar
+- Cohesion of ideas
+
+### How to answer
+
+#### Steps to answer 
+
+While preparing, you should:
+
+- Define a descriptive method (descriptive order)
+- Come up with key words or phrases and take note
+
+While speaking, you should:
+
+1. Give a general statement of the picture
+1. Describe focused objects
+1. Describe surrounding objects
+1. Give your own opinion at the end
+
+#### Types of the pictures
+
+Type of pictures --> Human-centered pictures, Landscape-centered pictures --> one person, more than one, with human, without human.
+
+	Human-centered pictures: One person
+
+	- Method: Center --> surrounding
+	- Features of main object: appearance, clothes, actions,...
+---
+	Human-centered pictures: More than one
+
+	- Method: Center --> surrounding, Main object --> Foreground --> Background
+	- Features of main objects: appearance, clothes, actions, facial expression.
+---
+	Landscape-centered pictures: with human
+
+	- Method: Foreground --> Background (people --> buildings --> mountain and sky)
+	- Features of main objects: appearance, clothes, actions, facial expression,...
+---
+	Landscape-centered pictures: without human
+
+	- Method: Foreground --> Background (beach --> sea and sky, chairs and table --> buildings and sea --> mountain and sky)
+	- Features of main objects: quantity, color, shape, position,...
+
+#### Answer structure
+
+Answer structure: Human-centered pictures
+
+|Opening| Describe the location or main object|
+|:-------|:-------------------------------------|
+|**Main point 1**| Mention the main object and describe in detail:<br> appearance, clothes, action, facial expression|
+|**Main point 2**|Mention the surrounding sub-object|
+|**Conslusion**|Give personal opition or comment about the atmosphere of the picture|
+
+Test-takers should use:
+
+- participle phrase (The boy is sitting down waiting to begin his meal)
+- prepositions (There is a bicycle next to the man)
 
 
+Answer structure: Landscape-centered pictures
 
+|Opening|Mention the location and some main object|
+|:-------|:-------------------------------------|
+|**Main point 1**|Describe the foreground or one side|
+|**Main point 2**|Describe the background or the other side|
+|**Conslusion**|Give personal opinion or comment about the atmosphere of the picture|
 
+Test-takers should use:
 
+- quantities: a few, many, some, several,...
+- color: red, blue, coloful,...
+- size: big, small, large,...
+- shape: round, square,...
+- materials: wooden, metal, plastic,...
+
+The response should be:
+
+- At least 5 sentences
+- Various of sentence types (relative clauses, complex sentences,...)
+
+### Usefull note
+
+Test-taken should use:
+
+- present simple and present continuous
+- There is + a/an + singular noun
+- There are + plural noun
 
 
 
