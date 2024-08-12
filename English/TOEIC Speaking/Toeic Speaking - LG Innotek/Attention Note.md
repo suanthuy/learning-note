@@ -240,5 +240,61 @@ Test-taken should use:
 - There is + a/an + singular noun
 - There are + plural noun
 
+Test-taken should use adverb of direction:
+
+*forward, backward, toward, away from, ahead, from above/below, toward the front/back, under, behind, to the left/right/side, toward the center, over*
+
+Advanced gammar structure
+
+- Compound sentence
+	- FANBOYS = for, and, nor, but, or, yet, so
+		- Example: There is a girl with long hair and she is wearing a colorful dress.
+	- Conjunctive Adverd: besides, however, ...
+		- Example: It looks like the children are having meal; however, there is one child sleeping in the right corner.
+- Complex sentence
+	- as, since, because, while
+		- Example: I think the season must be fail since the grass is yellow and some of leaves are red.
+	- Relative pronouns: who, which, whom
+		- Example: The man who is wearing black suit is looking at the phone.
+
+Complex sentence:
+
+- Relative clause
+	- Example: There is an old man who is wearing glasses sitting behind the desk.
+- Reduced relative clause
+	- Example: There is an old man wearing glasses sitting behind the desk.
+
+
+Expressing certainty / uncertainty
+
+|Uncertain|Somewhat sure|Very sure|
+|:--------:|:-------------:|:---------:|
+|I'm not positive...|possibly|It's certain (that)...|
+|I'm not sure...|perhaps|surely/definitely|
+|might be/could be|maybe|must be|
+||I guess/think + adj<br>It looks like + noun/clause<br>It seems to be + noun||
+
+Example:
+
+- These people are **definitely** at their office.
+- The woman who is sitting in the middle **must be** the boss.
+- **It looks like** the others are waiting for her response.
+
+Expressing your own feeling or opinion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
