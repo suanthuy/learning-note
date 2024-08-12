@@ -244,7 +244,7 @@ Test-taken should use adverb of direction:
 
 *forward, backward, toward, away from, ahead, from above/below, toward the front/back, under, behind, to the left/right/side, toward the center, over*
 
-Advanced gammar structure
+#### Advanced gammar structure
 
 - Compound sentence
 	- FANBOYS = for, and, nor, but, or, yet, so
@@ -257,7 +257,7 @@ Advanced gammar structure
 	- Relative pronouns: who, which, whom
 		- Example: The man who is wearing black suit is looking at the phone.
 
-Complex sentence:
+#### Complex sentence
 
 - Relative clause
 	- Example: There is an old man who is wearing glasses sitting behind the desk.
@@ -265,7 +265,7 @@ Complex sentence:
 	- Example: There is an old man wearing glasses sitting behind the desk.
 
 
-Expressing certainty / uncertainty
+#### Expressing certainty / uncertainty
 
 |Uncertain|Somewhat sure|Very sure|
 |:--------:|:-------------:|:---------:|
@@ -280,13 +280,65 @@ Example:
 - The woman who is sitting in the middle **must be** the boss.
 - **It looks like** the others are waiting for her response.
 
-Expressing your own feeling or opinion
+#### Expressing your own feeling or opinion
 
+**Overall, it must be** a sunny day since there are shadows on the ground.
 
+**it looks like** a busy scene of downtown at night.
 
+**it seems like** a happy family picnic.
 
+### Topic vocabulary
 
+#### Hotel
 
+Noun
+- People: *receptionist, housekeeper, bellman, guest, valet, manager, staff*
+- Things: *front desk, reception, floor, vending machine, linen (sheets, blankets, tablecloth), elevator*
+- Areas: *restaurant, indoor pool, lobby, gym/workout, room, bar, sauna, games room*
+
+Verb
+- *check in, check out, book, complain,...*
+
+Adjective
+- *noisy, crowed, comfortable, enjoyable*
+
+#### Office / Workplace
+
+Noun
+- People: *colleague/coworker, supervisor, staff, worker,...*
+- Areas: *workroom, canteen, coffee bar, meeting room*
+- Things: *meeting, conference, report, speech, photocopier, fax machine, printer, moniter, folder, document, flip chart,...*
+
+Verb
+- *give a speech, hold a meeting, fill out a form, discuss, explain, check, respond,...*
+
+Adjective
+- *relaxed, professional, boring, tired, stressed/stressful*
+
+#### Restaurant / Eating out
+
+Noun
+- Areas: *cafe/coffee shop, park,...*
+- People: *diner, customer, chef, waifer/waitress,...*
+- Things: *beverage/drink, menu, plate, bowl, cup, dessert, bill,...*
+
+Verb
+- *have a meal, study the menu, set out/the table, wait for a table, have a picnic/party, pour, serve, taste, tip, pay, enjoy, order,...*
+
+Adjective
+- *fresh, frozen, delicious, tasty, high-class, cozy,...*
+
+### Common mistakes and solution
+
+1. Fail to follow the answer structure
+	- solution: opening - main point 1 - main point 2 - conclusion
+2. Describe in too much detail and repeat the ideas
+	- Focus on the common and distinguishing features
+	- Do not overuse one sentence structure
+3. Stop speaking when encountering unknown words
+	- Using other words with the same or close meaning
+	- Describe unknown words in an indirect way
 
 
 
