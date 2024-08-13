@@ -6,7 +6,11 @@
 	- [Introduction on reading a passage](#introduction-on-reading-a-passage)
 	- [How to answer](#how-to-answer)
 		- [Instructions on reading a passage](#instructions-on-reading-a-passage)
+		- [Model structures and supportive knowledge](#model-structures-and-supportive-knowledge)
+
 - [Part 2: Describe pictures](#part-2%3A-describe-pictures)
+	- []()
+	- []()
 
 ## Part 1: Read the text
 
@@ -342,8 +346,85 @@ Adjective
 4. Fail to give your own opinion
 	- Remember the answer structure: opening - main idea - conclusion.
 
+## Part 3: Respond to questions
 
+### Introduction
 
+The test-taker is asked to respond to some question. The test-taker needs to answer 3 questions. For each question, the test-taker will have 3 seconds for preparing, 15 seconds for answering question 5 and 6, 30 seconds for responding to question 7.
+
+Common topic
+- Holiday and travel
+- Health and sports
+- Shopping
+- Friends and family
+- Dining and entertainment
+- News
+- Housing
+- Neighorhood
+
+### How to answer
+
+#### Question Types:
+
+- Time
+	- How long have you...?
+	- When do you usually...?
+	- How early/late...?
+- Frequency
+	- How often do you...?
+- Places
+	- Where would you...?
+- Method
+	- How do you...?
+- People/Thing
+	- Who do you...with/to?
+	- What kind of ... do you like?
+- Opinion
+	- What do you think about...?
+	- How do you feel about...?
+- Advantages
+	- What do you like about...?
+- Factor
+	- What is the most important factor when...?
+- Reasons
+	- Why do you like/choose...?
+- Choices
+	- How do you like...?
+- Description
+	- Describe ...
+- Yes/No question
+	- Do you/Are you...?
+- Embedded question
+	- Could you tell me...?
+
+#### Model Structure
+
+For question 5 and 6, you should have 1 main idea following 1 or 2 supporting ideas.
+
+For question 7, firstly, you should restate the question. Then, continue with 2-3 supporting ideas + detail/example. Finally, end with a summary.
+
+Example question 5 and 6:
+
+|Question|What kind of programs do you usually watch?|
+|--------|-------------------------------------------|
+|Main idea|I spend most of my time watching cookery programs.|
+|Supporting ideas|I'm now working as a cook at a local restaurant. By watching these shows, I've gained a lot of useful experience in food preparation|
+
+Example question 7:
+
+|Question|Describe your favorite TV program|
+|--------|-------------------------------------------|
+|Main idea|My all-time favorite TV program called MasterChef is both informative and exciting.|
+|Supporting ideas|This show helps to improve my knowledge about a wide range of cuisines around the globe. For example, I've learned that Thailand food is quite spicy while risotto is a typical Italian dish.<br>In addition, I find every single episode of this program	really exciting. When the candidates compete against each other under intense pressure, I always feel a thrill of excitement and cannot stay still.|
+|Summary|In short, this program has left an indelible mark on me.|
+
+#### Supportive Knowledge
+
+1. Like/ dislike
+
+|Like|Dislike|
+|----|-------|
+|I really like/ enjoy/ love...<br>I'm interested in/ fond of/ into/ keen on...<br>I'm a big/ avid/ huge fan of...|I dislike...|
 
 
 
