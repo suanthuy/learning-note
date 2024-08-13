@@ -339,6 +339,8 @@ Adjective
 3. Stop speaking when encountering unknown words
 	- Using other words with the same or close meaning
 	- Describe unknown words in an indirect way
+4. Fail to give your own opinion
+	- Remember the answer structure: opening - main idea - conclusion.
 
 
 
