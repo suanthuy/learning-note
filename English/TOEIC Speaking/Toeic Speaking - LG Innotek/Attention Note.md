@@ -424,12 +424,65 @@ Example question 7:
 
 |Like|Dislike|
 |----|-------|
-|I really like/ enjoy/ love...<br>I'm interested in/ fond of/ into/ keen on...<br>I'm a big/ avid/ huge fan of...|I dislike...|
+|I really like/ enjoy/ love...<br>I'm interested in/ fond of/ into/ keen on...<br>I'm a big/ avid/ huge fan of...|I dislike...<br>Ex: I dislike watching horror films.<br>I hate...<br>I detest<br>I can't stand...|
 
+2. It takes me ... to ...
 
+|Sample answer|Other structures|
+|-------------|---------------|
+|It takes me 20 minutes to walk to work.<br>It takes her 5 minutes to finish her homework.|I spend ... doing sth|
 
+3. I (go to the cinema) ... a day/month/year
 
+|Sample answer|Other structures|
+|-------------|----------------|
+|I go to the cinema twice a month.<br>Well, I occasionally go to the cinema once a month on my payday.|all the time, most of the time<br>on a daily/regular basis, every day, every week, ...<br>Adverbs of frequency: always, usually, often, sometimes, hardly ever, seldom, never, ...|
 
+4. The reason why I like/hate/ ... is ...
+
+|Sample answer|Other structures|
+|-------------|----------------|
+|The reason why I enjoy watching movies is it helps me to relax and to learn many things that can't be taught in textbooks.|A is important because/because of ...<br>Due to the fact that ...<br>Since ...|
+
+5. The best place to ... is ...
+
+|Sample answer|Other structures|
+|-------------|----------------|
+|The best place to hang out with my friends is a coffee shop.|My favorite place is ...<br>I would like to go to ... to do sth|
+
+6. The most important factor is ...
+
+|Sample answer|Other structures|
+|-------------|----------------|
+|The most important factor is the quality of products.|My priority is ...<br>The most essential factor is ...|
+
+7. I think/	belive that ...
+
+|Sample answer|Other structures|
+|-------------|----------------|
+|I think cinema tickets have become a lot cheaper than a few years ago.|I belive/ I suppose<br>To my mind<br>In my opinion/ view/ way of thinking, ...<br>From my perspective/ point of view, ...|
+
+8. Transition words and phrases
+
+- Reason: The reason is that .../ This is because ...
+- Additions: Furthermore .../ Also ... /In addition ...
+- Contrast: On the one hand .../ However .../ Nevertheless .../ In contrast ...
+- Sequece: First(ly) .../ Second(ly) ...
+- Example: For example .../ For instance
+- Result: As a result .../ therefore .../ thus ...
+- Conclusion: In short .../ to sum up ...
+
+### Common mistakes and the solutions
+
+|Mistakes|Solutions|
+|--------|---------|
+|Off-topic responses to questions|Read the question carefully. Find: name of topic (end of the direction) + focus on that.<br>Identify how many parts in the question. Give a direct answer to the question.|
+|Poor time management|Check the time on the screen. Use suggested structures for Q5-6-7.|
+|Lack of ideas|Use the method 5W1H (when, where, who, what, why, how). Take examples from the test taker's life, country or even a lie.|
+|Wrong use of gammar|Identify the tense in the question. Speak at a moderate pace to control grammar.|
+|Repeat the same words or phrases|Prepare: Synonyms. Structures to paraphrase. Vocabulary lists for familiar topics.|
+|Too short answers|Apply the learnt structures to answer.|
+|Overuse complex structures|Use complex structures appropriately. Avoid overusing for better speaking.|
 
 
 
