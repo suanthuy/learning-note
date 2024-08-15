@@ -484,5 +484,59 @@ Example question 7:
 |Too short answers|Apply the learnt structures to answer.|
 |Overuse complex structures|Use complex structures appropriately. Avoid overusing for better speaking.|
 
+## Part 4: Respond to questions using the information provide
+
+### Introduction
+
+Firtly, you need to read the information in the question. You will have 45 seconds to read the information before question begin. You will have 3 seconds to prepare and 15 seconds to respond to question 8 and 9. You will hear question 10 two times. You will have 3 seconds to prepare and 30 seconds to respond to question 10.
+
+Common topics:
+- Tour schedules
+- Event schedules
+- Flight schedules
+- Business schedules
+
+### How to answer
+
+#### Instructions on responding to the questions
+
+|Question 8-10|Steps to answer the questions|
+|-------------|-----------------------------|
+|Step 1|Read the given information|
+|Step 2|Analyze and identify types of information|
+|Step 3|Listen to context and questions|
+|Step 4|Identify the answer in the provided information to answer the questions|
+
+#### Model structures and supportive knowledge
+
+##### Types of questions
+
+|Information questions|Example|Answer|Key note|
+|---------------------|-------|------|--------|
+|Location questions|Where is the seminar going to be held?|The seminar is going to be held at Fire Building in Room A|Where<br>In, at, on + place|
+|Time questions|When does the seminar start?|It starts at 7 a.m|In, at, on, by + time|
+|People questions|Who is the speaker?|Ms. Nark will be in charge of delivering the opening speech|In charge of, lead by, represented by...<br>Pronounce name of people|
+|Price questions|How much is the ticket?|It costs $25|How much<br>Cost + money|
+
+|Types of questions|Example|Answer|
+|------------------|-------|------|
+|Yes/ No questions|I heard that the CEO will give the opening speech, is that right?<br>Is lunch included in the ticket?|Of course I can, sir/ ma'am. Let's me see here.<br>I'm really sorry, but...<br>I'm afraid that...|
+|Detailed - activity questions|I have some free time in the morning. What activites can I take part in?|In the morning, there are three activities in the event. Firtly, ... Secondly, ... Lastly, ...|
+
+##### Supportive knowledge
+
+- Strategies
+	- Read for keywords
+
+
+
+
+
+
+
+
+
+
+
 
 
