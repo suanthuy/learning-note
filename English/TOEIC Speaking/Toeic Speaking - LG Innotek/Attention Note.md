@@ -25,7 +25,7 @@ The candidate is given:
 
 Type of text: Office issues, News, Sales, Advertisement, Announcements, ...
 
-Assessment criteria --> Pronunciation, Intonation and Stress --> Word Stress, Sentence Stress, Suitable for each type of the text
+Assessment criteria &#8594; Pronunciation, Intonation and Stress &#8594; Word Stress, Sentence Stress, Suitable for each type of the text
 
 ### How to answer
 
@@ -64,8 +64,8 @@ Under is some common mistake habit:
 Rules for stressing:
 
 - Rule 1: 2-syllable words
-	- Most 2-syllable Nouns and Adjective --> 1st syllable Stress
-	- Most 2-syllable Verbs --> 2nd syllable Stress
+	- Most 2-syllable Nouns and Adjective &#8594; 1st syllable Stress
+	- Most 2-syllable Verbs &#8594; 2nd syllable Stress
 	- Some words that can be Noun and Verb: different stresses
 - Rule 2: 3 or more sysllables words
 	- Stress on adjacent sounds: -ic, -ics, -ian, -tion, -sion
@@ -177,26 +177,26 @@ While speaking, you should:
 
 #### Types of the pictures
 
-Type of pictures --> Human-centered pictures, Landscape-centered pictures --> one person, more than one, with human, without human.
+Type of pictures &#8594; Human-centered pictures, Landscape-centered pictures &#8594; one person, more than one, with human, without human.
 
 	Human-centered pictures: One person
 
-	- Method: Center --> surrounding
+	- Method: Center &#8594; surrounding
 	- Features of main object: appearance, clothes, actions,...
 ---
 	Human-centered pictures: More than one
 
-	- Method: Center --> surrounding, Main object --> Foreground --> Background
+	- Method: Center &#8594; surrounding, Main object &#8594; Foreground &#8594; Background
 	- Features of main objects: appearance, clothes, actions, facial expression.
 ---
 	Landscape-centered pictures: with human
 
-	- Method: Foreground --> Background (people --> buildings --> mountain and sky)
+	- Method: Foreground &#8594; Background (people &#8594; buildings &#8594; mountain and sky)
 	- Features of main objects: appearance, clothes, actions, facial expression,...
 ---
 	Landscape-centered pictures: without human
 
-	- Method: Foreground --> Background (beach --> sea and sky, chairs and table --> buildings and sea --> mountain and sky)
+	- Method: Foreground &#8594; Background (beach &#8594; sea and sky, chairs and table &#8594; buildings and sea &#8594; mountain and sky)
 	- Features of main objects: quantity, color, shape, position,...
 
 #### Answer structure
@@ -654,21 +654,21 @@ Idea Brainstorming:
 
 #### Sample Answer
 
-I prefer to use public transportation for some reasons. --> State opinion.
+I prefer to use public transportation for some reasons. &#8594; State opinion.
 
-First, it helps me to save money. --> Key point 1
+First, it helps me to save money. &#8594; Key point 1
 
-because having a car is expensive. --> Supporting detail 1
+because having a car is expensive. &#8594; Supporting detail 1
 
-Second, when I travel by public transpot, I don't have to worry about the weather. --> Key point 2
+Second, when I travel by public transpot, I don't have to worry about the weather. &#8594; Key point 2
 
-I can sit back and enjoy my journey. --> Supporting detal 2
+I can sit back and enjoy my journey. &#8594; Supporting detal 2
 
-Besides, I can eat a lot of food and drink while travelling. --> Supporting detail 2
+Besides, I can eat a lot of food and drink while travelling. &#8594; Supporting detail 2
 
-Last, it helps to reduce traffic congestion and the amount of fumes fro personal vehicles. --> Key point 3
+Last, it helps to reduce traffic congestion and the amount of fumes fro personal vehicles. &#8594; Key point 3
 
-which makes the surrounding environment cleaner. --> Supporting detail 3
+which makes the surrounding environment cleaner. &#8594; Supporting detail 3
 
 In general, I think that taking public transport is a better choice.
 
