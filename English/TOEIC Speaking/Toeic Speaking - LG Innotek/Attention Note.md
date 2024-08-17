@@ -526,17 +526,162 @@ Common topics:
 ##### Supportive knowledge
 
 - Strategies
-	- Read for keywords
+	1. Read for keywords to identify information	(especially notice information with * signal).
+	1. Use time filler to get more time to find information.
+		- Give me just a minute to look into that, sir/ ma'am.
+		- Let's see here.
+	1. Use a summary sentence to start Question 10.
+	1. Use a proper speed to answer.
+	1. Use the provided information to answer.
+	1. Practice talking	about time, date, location, and cost regularly.
+	1. Use pronounce like it, both of them instead.
+
+### Common mistakes
+
+#### Possible mistakes and the solutions
+
+1. Be able to hear only a few words in the questions.
+	- Scan keywords in the text and read this sentence instead of not answering.
+1. Mishear the Wh-questions like When and Where.
+	- Answer both time and place information.
+1. Produce long answers without key information.
+	- Only focus on the helpful information for the answer.
+1. Don't answer the question with enough fluency.
+	- Regularly pratice speaking and familiarize yourself with the different types of information.
+1. Fail to pronounce proper name.
+	- Regularly practice.
+
+## Part 5: Express opinion
+
+### Introduction
+
+In this part, you will give your opinion about a specific topic. Be sure to say as much as you can in the time allowed. You will have 45 seconds to prepare. Then you will have 60 seconds to speak.
+
+The question is displayed on the screen and read by a narrator.
+
+|Question types|Description|Example|
+|--------------|-----------|-------|
+|Preference|Which do you think is better and why? Which do you prefer and why?|Do you prefer to keep your old clothes or books that you don't use anymore instead of getting rid of them? Why?<br>Give specific reasons and details to support your opinion.|
+|Agreement|Do you agree or disagree ...? Would you be in favor of ...?|Do you agree or disagree that high school student should be obligated to learn how to play a musical instrument?<br>Give	specific reasons and detail to support your opinion.|
+|Opinion|What is your opinion? What do you think?|Some people think that the company should increase the salary of all employees every year. Other think that the company should increase the salary of the employees who only bring good results.<br>What is your opinion on this matter?<br>Give specific reasons and details to support your opinion.|
+
+Evaluation criteria on a scale from 0-5
+1. Pronunciation, intonation, stress
+1. Grammar vocabulary
+1. Cohesion
+1. Content relevance and completeness
 
 
+Especially for question 11, the candidate is also evaluated on
+1. Respond appropriately to the task
+1. State opinion clearly
+1. Support opinion with examples
 
+### How to answer
 
+#### Answer process
 
+1. Identify question type
+1. Take note, prepare ideas and supporting details
+1. Develop an answer using suggested structures and answer outline
 
+#### Answer outline
 
+- State opinion
+- Introduce supporting inforamtion
+	- Key point 1 - Supporting detail 1
+	- Key point 2 - Supporting detail 2
+	- Key point 3 - Supporting detail 3
+- Restate opinion
 
+#### Model structures supportive knowledge
 
+State opinion - giving a basic statement of your opinion
 
+|Opinion|Agreement|Preference|
+|-------|---------|----------|
+|I think that ...<br>I don't believe that ...<br>In my opinion, ...|I agree with the statement that ...<br>I disagree with the opinion that ...|I would prefer<br>I would rather|
 
+Introduce supporting information
 
+|Opinion|Agreement|Preference|
+|-------|---------|----------|
+|I feel this way for several reasons<br>There are a number of reasons I feel this way|I agree with this statement because of some reasons<br>I disagree with it for several reasons|I prefer/ I don't prefer X for a few reasons<br>There are benefits and drawbacks for both but I think X is better because|
+
+Support opinion with key points
+
+|General|Examples|
+|-------|--------|
+|For one thing,...<br>For another thing,...<br>First,.../ First of all,...<br>Second(ly),...<br>Third(ly),...<br>Next,...<br>Furthermore,...<br>Finally,...|First, studying abroad enables students to experience different styles of education.<br>Secondly, they have more chances to take in a new culture.<br>Finally, by communicating with other people, students can enhance their foregin language skills.|
+
+	Notice: Use structures consistently (eg: First,	Second, Finally)
+
+Give the additional details to key point
+
+|Giving reasons|Giving Examples|
+|--------------|---------------|
+|The main reason is...<br>My first/ second/ third reason for thinking this is (that) ...<br>My last/ final reason for this view is ...|For example ...<br>Let me give you an example of what I'm talking about.<br>Here's one example.|
+
+Restate opinion to close
+
+- In general, I see that ...
+- In conclusion,
+- Overall, I would say ...
+- All in all, I'd have to say ...
+- As you can see, there are a lot of reasons why ...
+
+Example:
+
+Topic: Do you agree or disagree that high school student should be obligated to learn a musical instrument?
+
+State opinion: I agree that high school students should be obligated to learn a musical instrument.
+
+Restate opinion:
+1. Advanced: In general, I think that it is compulsory for high school students to learn a musical instrument.
+1. Simple: In general, I think that high school student should be oligated to learn a musical instrument.
+
+#### Example
+
+Question: Many people prefer driving their own cars, while others would	rather use public transportation. Which do you prefer? Explain why.
+
+Idea Brainstorming:
+- State opinion: prefer public transportation
+- Introduce supporting information:
+	- Key point 1: Save money. Supporting details 1: car - expensive.
+	- Key point 2: Don't have to worry about weather. Supporting details 2: Sit and enjoy & eat and drink.
+	- Key point 3: Reduce traffic congestion and fumes. Supporting details 3: Make the enviroment cleaner.
+- Restate opinion
+
+#### Sample Answer
+
+I prefer to use public transportation for some reasons. --> State opinion.
+
+First, it helps me to save money. --> Key point 1
+
+because having a car is expensive. --> Supporting detail 1
+
+Second, when I travel by public transpot, I don't have to worry about the weather. --> Key point 2
+
+I can sit back and enjoy my journey. --> Supporting detal 2
+
+Besides, I can eat a lot of food and drink while travelling. --> Supporting detail 2
+
+Last, it helps to reduce traffic congestion and the amount of fumes fro personal vehicles. --> Key point 3
+
+which makes the surrounding environment cleaner. --> Supporting detail 3
+
+In general, I think that taking public transport is a better choice.
+
+### Common mistakes and the solutions
+
+|Mistakes|Solutions|
+|--------|---------|
+|Misunderstand the question, lose focus on the topic|Read the question carefully and underline keywords in the question|
+|Waste time choosing opinion|Pick an opinion quickly as the test does not assess the accuracy in read life|
+|Be inconsistent with stated viewpoint|Keep proving chosen opinion during the talk|
+|Don't know how to give examples|Examples can be from the candidate's life, country, a friend's life or even a lie|
+|Fail to organize ideas following the answer outline|Organize ideas following the suggested answer outline and take note ideas for better speaking|
+|Allocate time inappropriately|Control time, prepare the same number of key points and supporting details to balance the length of each key point|
+|Speak less than the given time|Prepare 2-3 key points with supporting details for each in order to fill the whole minute|
+|Overuse complex structures|Use complex structures appropriately, avoid overusing for better speaking|
 
