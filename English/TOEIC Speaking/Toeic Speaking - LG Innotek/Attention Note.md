@@ -7,10 +7,12 @@
 	- [How to answer](#how-to-answer)
 		- [Instructions on reading a passage](#instructions-on-reading-a-passage)
 		- [Model structures and supportive knowledge](#model-structures-and-supportive-knowledge)
-
+	- [Common mistakes](#common-mistakes)
 - [Part 2: Describe pictures](#part-2%3A-describe-pictures)
-	- []()
-	- []()
+	- [Introduction on describing pictures](#introduction-on-describing-pictures)
+	- [How to answer](#how-to-answer-2)
+		- [Step to answer](#steps-to-answer)
+		- [Types of the pictures](#types-of-the-pictures)
 
 ## Part 1: Read the text
 
@@ -179,25 +181,12 @@ While speaking, you should:
 
 Type of pictures &#8594; Human-centered pictures, Landscape-centered pictures &#8594; one person, more than one, with human, without human.
 
-	Human-centered pictures: One person
-
-	- Method: Center &#8594; surrounding
-	- Features of main object: appearance, clothes, actions,...
----
-	Human-centered pictures: More than one
-
-	- Method: Center &#8594; surrounding, Main object &#8594; Foreground &#8594; Background
-	- Features of main objects: appearance, clothes, actions, facial expression.
----
-	Landscape-centered pictures: with human
-
-	- Method: Foreground &#8594; Background (people &#8594; buildings &#8594; mountain and sky)
-	- Features of main objects: appearance, clothes, actions, facial expression,...
----
-	Landscape-centered pictures: without human
-
-	- Method: Foreground &#8594; Background (beach &#8594; sea and sky, chairs and table &#8594; buildings and sea &#8594; mountain and sky)
-	- Features of main objects: quantity, color, shape, position,...
+|Types of the pictures|Answer|
+|---------------------|------|
+|Human-centered pictures: One person|Method: Center &#8594; surrounding<br>Features of main objects: appearance, clothes, actions,...|
+|Human-centered pictures: More than one|Method: Center &#8594; surrounding, Main object &#8594; Foregroud &#8594; Background<br>Features of main objects: appearance, clothes, actions, facial expression.|
+|Landscape-centered pictures: with human|Method: Foreground &#8594; Background (people &#8594; buildings &#8594; mountain and sky)<br>Features of main objects: appearance, clothes, actions, facial expression,...|
+|Landscape-centered pictures: without human|Method: Foreground &#8594; Background (beach &#8594; sea and sky, chairs and table &#8594; buildings and sea &#8594; mountain and sky)<br>Features of main objects: quantity, color, shape, position,... |
 
 #### Answer structure
 
