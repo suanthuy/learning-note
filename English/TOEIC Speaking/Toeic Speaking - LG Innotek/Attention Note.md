@@ -2,17 +2,65 @@
 
 ## Table of content
 
-- [Part 1: Read the text](#part-1%3A-read-the-text)
-	- [Introduction on reading a passage](#introduction-on-reading-a-passage)
-	- [How to answer](#how-to-answer)
-		- [Instructions on reading a passage](#instructions-on-reading-a-passage)
-		- [Model structures and supportive knowledge](#model-structures-and-supportive-knowledge)
-	- [Common mistakes](#common-mistakes)
-- [Part 2: Describe pictures](#part-2%3A-describe-pictures)
-	- [Introduction on describing pictures](#introduction-on-describing-pictures)
-	- [How to answer](#how-to-answer-2)
-		- [Step to answer](#steps-to-answer)
-		- [Types of the pictures](#types-of-the-pictures)
+- [TOEIC Speaking Note](#toeic-speaking-note)
+  - [Table of content](#table-of-content)
+  - [Part 1: Read the text](#part-1-read-the-text)
+    - [Introduction on reading a passage](#introduction-on-reading-a-passage)
+    - [How to answer](#how-to-answer)
+      - [Instructions on reading a passage](#instructions-on-reading-a-passage)
+      - [Model structures and supportive knowledge](#model-structures-and-supportive-knowledge)
+        - [Pronounce correct stress/ending sound](#pronounce-correct-stressending-sound)
+        - [Connect sounds](#connect-sounds)
+        - [Stress a sentence (intonation)](#stress-a-sentence-intonation)
+        - [Break sentence when reading](#break-sentence-when-reading)
+        - [Read date, money, email, website, degrees Celsius](#read-date-money-email-website-degrees-celsius)
+    - [Common mistakes](#common-mistakes)
+      - [Reading speed](#reading-speed)
+      - [Pronunciation](#pronunciation)
+      - [Intonation](#intonation)
+      - [Stress](#stress)
+  - [Part 2: Describe pictures](#part-2-describe-pictures)
+    - [Introduction on describing pictures](#introduction-on-describing-pictures)
+    - [How to answer](#how-to-answer-1)
+      - [Steps to answer](#steps-to-answer)
+      - [Types of the pictures](#types-of-the-pictures)
+      - [Answer structure](#answer-structure)
+    - [Usefull note](#usefull-note)
+      - [Advanced gammar structure](#advanced-gammar-structure)
+      - [Complex sentence](#complex-sentence)
+      - [Expressing certainty / uncertainty](#expressing-certainty--uncertainty)
+      - [Expressing your own feeling or opinion](#expressing-your-own-feeling-or-opinion)
+    - [Topic vocabulary](#topic-vocabulary)
+      - [Hotel](#hotel)
+      - [Office / Workplace](#office--workplace)
+      - [Restaurant / Eating out](#restaurant--eating-out)
+    - [Common mistakes and solution](#common-mistakes-and-solution)
+  - [Part 3: Respond to questions](#part-3-respond-to-questions)
+    - [Introduction](#introduction)
+    - [How to answer](#how-to-answer-2)
+      - [Question Types:](#question-types)
+      - [Model Structure](#model-structure)
+      - [Supportive Knowledge](#supportive-knowledge)
+    - [Common mistakes and the solutions](#common-mistakes-and-the-solutions)
+  - [Part 4: Respond to questions using the information provide](#part-4-respond-to-questions-using-the-information-provide)
+    - [Introduction](#introduction-1)
+    - [How to answer](#how-to-answer-3)
+      - [Instructions on responding to the questions](#instructions-on-responding-to-the-questions)
+      - [Model structures and supportive knowledge](#model-structures-and-supportive-knowledge-1)
+        - [Types of questions](#types-of-questions)
+        - [Supportive knowledge](#supportive-knowledge-1)
+    - [Common mistakes](#common-mistakes-1)
+      - [Possible mistakes and the solutions](#possible-mistakes-and-the-solutions)
+  - [Part 5: Express opinion](#part-5-express-opinion)
+    - [Introduction](#introduction-2)
+    - [How to answer](#how-to-answer-4)
+      - [Answer process](#answer-process)
+      - [Answer outline](#answer-outline)
+      - [Model structures supportive knowledge](#model-structures-supportive-knowledge)
+      - [Example](#example)
+      - [Sample Answer](#sample-answer)
+    - [Common mistakes and the solutions](#common-mistakes-and-the-solutions-1)
+
 
 ## Part 1: Read the text
 
@@ -147,7 +195,10 @@ Common topics:
 - Holidays and travel
 - Office
 - Shopping
-- Pinic / Camping
+- Health and sports
+- News
+- Dining
+- Pinic/ Camping
 - Common public area
 - Entertainment and leisure activities
 - Hourehold chorses
@@ -179,7 +230,15 @@ While speaking, you should:
 
 #### Types of the pictures
 
-Type of pictures &#8594; Human-centered pictures, Landscape-centered pictures &#8594; one person, more than one, with human, without human.
+``` mermaid
+%%{init : {'flowchart' : {'default' : "elk"}}}%%
+
+flowchart TD
+	A[Types of the pictures] --> B[Human-centered pictures] 
+	A --> C[Landscape-centered pictures]
+	B --> D[One person] & E[More than one]
+	C --> F[With human] & G[Without human]
+```
 
 |Types of the pictures|Answer|
 |---------------------|------|
@@ -225,7 +284,7 @@ The response should be:
 - At least 5 sentences
 - Various of sentence types (relative clauses, complex sentences,...)
 
-### Usefull note
+#### Usefull note
 
 Test-taken should use:
 
@@ -324,16 +383,12 @@ Adjective
 
 ### Common mistakes and solution
 
-1. Fail to follow the answer structure
-	- solution: opening - main point 1 - main point 2 - conclusion
-2. Describe in too much detail and repeat the ideas
-	- Focus on the common and distinguishing features
-	- Do not overuse one sentence structure
-3. Stop speaking when encountering unknown words
-	- Using other words with the same or close meaning
-	- Describe unknown words in an indirect way
-4. Fail to give your own opinion
-	- Remember the answer structure: opening - main idea - conclusion.
+|Mistakes|Solutions|
+|--------|---------|
+|Fail to follow the answer structure|opening - main point 1 - main point 2 - conclusion|
+|Describe in too much detail and repeat the ideas|Focus on the common and distinguishing features<br>Do not overuse one sentence structure|
+|Stop speaking when encountering unknown words|Using other words with the same or close meaning<br>Describe unknown words in an indirect way|
+|Fail to give your own opinion|Remember the answer structure: opening - main idea - conclusion|
 
 ## Part 3: Respond to questions
 
@@ -353,21 +408,16 @@ Common topic
 
 ### How to answer
 
-#### Question Types:
+#### Question Types
 
-- Time
-	- How long have you...?
-	- When do you usually...?
-	- How early/late...?
-- Frequency
-	- How often do you...?
-- Places
-	- Where would you...?
-- Method
-	- How do you...?
-- People/Thing
-	- Who do you...with/to?
-	- What kind of ... do you like?
+|Question types|Examples|
+|--------------|--------|
+|Time|How long have you...?<br>When do you usually...?<br>How early/ late...?|
+|Frequency|How often do you...?|
+|Places|Where would you...?|
+|Method|How do you...?|
+|People/ Thing|Who do you... with/ to?<br>What kind of ... do you like?|
+
 - Opinion
 	- What do you think about...?
 	- How do you feel about...?
