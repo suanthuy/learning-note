@@ -412,29 +412,19 @@ Common topic
 
 |Question types|Examples|
 |--------------|--------|
-|Time|How long have you...?<br>When do you usually...?<br>How early/ late...?|
-|Frequency|How often do you...?|
-|Places|Where would you...?|
-|Method|How do you...?|
-|People/ Thing|Who do you... with/ to?<br>What kind of ... do you like?|
-
-- Opinion
-	- What do you think about...?
-	- How do you feel about...?
-- Advantages
-	- What do you like about...?
-- Factor
-	- What is the most important factor when...?
-- Reasons
-	- Why do you like/choose...?
-- Choices
-	- How do you like...?
-- Description
-	- Describe ...
-- Yes/No question
-	- Do you/Are you...?
-- Embedded question
-	- Could you tell me...?
+|Time|How long have you ...?<br>When do you usually ...?<br>How early/late ...?|
+|Frequency|How often do you ...?|
+|Places|Where would you ...?|
+|Method|How do you ...?|
+|People/ Thing|Who do you ... with/ to?<br>What kind of ... do you like?|
+|Opinion|What do you think about ...?<br>How do you feel about ...?|
+|Advantages|What do you like about ...?|
+|Factor|What is the most important factor when ...?|
+|Reasons|Why do you like/choose ...?|
+|Choices|How do you like ...?|
+|Description|Describe ...|
+|Yes/ No question|Do you/ Are you ...?|
+|Embedded question|Could you tell me ...?|
 
 #### Model Structure
 
