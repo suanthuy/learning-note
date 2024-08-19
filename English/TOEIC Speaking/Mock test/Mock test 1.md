@@ -4,11 +4,11 @@ _Link: https://www.youtube.com/watch?v=vRm77DETg-s_
 
 ![](./Images/mock-test-1-2.png)
 
-Attention all just for feet customers we are having a huge sale with great deals in every single Department kids shoes are 50 of the regular price and women's sport shoes at 25 percent up please take advantage of the great bargains because the sale is only available for the two-day holiday weekend have a great holiday and thanks for shopping at Just 4 feet
+Attention all just for feet customers, we are having a huge sale with great deals in every single department. Kids shoes are 50% off the regular price, and women's sport shoes at 25 percent off. Please take advantage of the great bargains because the sale is only available for the two-day holiday weekend. Have a great holiday and thanks for shopping at Just For feet.
 
 ![](./Images/mock-test-1-3.png)
 
-Good morning and welcome to home decor House West Superstore we're helping you build and perfect your home is our pleasure this month we have our annual spring sale which offers some great bargains in the kitchen Department we have a 20 discount on all dishwashers refrigerators and other kitchen appliances if that's product you don't see on a warehouse floor we will audit for you free of charge and delivered to your home within three days please enjoy your shopping experience at home decor and come again
+Good morning and welcome to home decor housewares superstore where helping you build and perfect your home is our pleasure. This month, we have our annual spring sale which offers some great bargains. In the kitchen department, we have a 20% discount on all dishwashers, refrigerators and other kitchen appliances, if there is a product you don't see on our warehouse floor, we will order for you free of charge and deliver it to your home within three days. Please enjoy your shopping experience at home decor and come again.
 
 ![](./Images/mock-test-1-4.png)
 
