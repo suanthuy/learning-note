@@ -18,7 +18,7 @@ This is a picture of two people sitting in chairs by the water. They seem to be 
 
 ![](./Images/mock-test-1-6.png)
 
-This picture shows a square with many people doing various things in the middle of the picture a father and his two children are playing by in the fountain on the right there are two teenagers sitting on a bench watching the family play in the background several people are sitting under umbrellas and one of them appears to be eating ice cream it looks like a very relaxing afternoon in this
+This picture shows a square with many people doing various things. In the middle of the picture, a father and his two children are playing by in the fountain. On the right, there are two teenagers sitting on a bench watching the family play. In the background, several people are sitting under umbrellas and one of them appears to be eating ice cream. It looks like a very relaxing afternoon.
 
 ![](./Images/mock-test-1-7.png)
 
