@@ -16,9 +16,13 @@ Good morning and welcome to home decor housewares superstore where helping you b
 
 This is a picture of two people sitting in chairs by the water. They seem to be relaxing in the Sun and enjoying the nice day the man is drinking something and the woman appears to be sitting with her legs crossed. There's a black back on the grass next to the woman and the trees is casting a shadow across the grass I think it is a clear bright possibly in the spring or the fall.
 
+The image shows two people sitting on folding chairs by the edge of a body of water, possibly a lake or river. They are facing away from the camera, looking out at the water where several boats can be seen. In the distance, there’s a city skyline, suggesting this might be an urban park or recreational area. The day appears to be clear with few clouds, and there’s a tree branch overhanging at the top left corner, indicating they might be sitting under or near a tree. It looks like a peaceful setting, perfect for relaxing and enjoying the view.
+
 ![](./Images/mock-test-1-6.png)
 
 This picture shows a square with many people doing various things. In the middle of the picture, a father and his two children are playing by in the fountain. On the right, there are two teenagers sitting on a bench watching the family play. In the background, several people are sitting under umbrellas and one of them appears to be eating ice cream. It looks like a very relaxing afternoon.
+
+The image shows a public space with a stone sphere fountain at the center. Two individuals, whose faces are not visible, are interacting with the fountain; one appears to be an adult leaning on the sphere, and the other seems to be a child reaching out towards it. In the background, there are several people seated at outdoor tables, suggesting a dining or social area. The setting is outdoors during daylight, with trees and buildings faintly visible in the distance.
 
 ![](./Images/mock-test-1-7.png)
 
