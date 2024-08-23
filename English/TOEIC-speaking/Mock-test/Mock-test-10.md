@@ -4,7 +4,7 @@ _Link: https://www.youtube.com/watch?v=KcarZoQWL4o_
 
 ![](./Images/mock-test-10-2.png)
 
-This is a special report from the National Weather Service. Beginning early this evening, we can expect heavy snowfall in the Dayton area. The snow will make the evening commute very slow. Commuters are encouraged to leave work as soon as possible to avoid light traffic jams on major roads. The service also says that the snowfall will continue through the night and that we can expect at least 30 centimeters of snow by the morning
+This is a special report from the National Weather Service. Beginning early this evening, we can expect heavy snowfall in the Dayton area. The snow will make the evening commute very slow. Commuters are encouraged to leave work as soon as possible to avoid light traffic jams on major roads. The service also says that the snowfall will continue through the night and that we can expect at least 30 centimeters of snow by the morning.
 
 ![](./Images/mock-test-10-3.png)
 

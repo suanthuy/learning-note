@@ -58,7 +58,7 @@ Sure there are two events in conference room B. Once is at 10 am the sales manag
 
 ![](./Images/mock-test-1-17.png)
 
-Well I would much rather work in a group. One main reason is that I don't have another person there pushing me. Then I get distracted too easily often I have projects to do alone but can't get started or can't stay working on them consistently, so I get distracted and wander up to complete another task. The other main reason why I like working with a group is that I find it much easier to brainstorm for ideas when you have several people with different personalities and all talking together and trying to figure out. I really enjoy having someone else to talk and modeling over different ideas and thoughts to see what can work or what can't work. For such reason, I prefer to work in a group.
+Well I would mucht rather work in a group. One main reason is that I don't have another person there pushing me. Then I get distracted too easily often I have projects to do alone but can't get started or can't stay working on them consistently, so I get distracted and wander up to complete another task. The other main reason why I like working with a group is that I find it much easier to brainstorm for ideas when you have several people with different personalities and all talking together and trying to figure out. I really enjoy having someone else to talk and modeling over different ideas and thoughts to see what can work or what can't work. For such reason, I prefer to work in a group.
 
 
 
