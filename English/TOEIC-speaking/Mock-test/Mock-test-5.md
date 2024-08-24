@@ -16,10 +16,17 @@ This Saturday, world-famous author, James Wright, will be at Bookword's downtown
 
 This is a picture taken at an outdoor market. In the foreground, you can see a man selling some small items. It's hard to make out exactly what they are, but I think they might be chess boards and pieces. In the middle of the picture, there are stalls and a lot of people are browsing through them. People are busy examining the goods for sale. And also, some umbrellas have been put up because it's a hot and sunny day.
 
+The image depicts an outdoor market scene in what appears to be a historical town square. The architecture surrounding the square features multi-story buildings with classic European facades in various earthy tones. The market is bustling with activity; numerous stalls are set up, each displaying a variety of goods for sale.
+
+In the foreground, there is a stall with an array of fruits neatly arranged in boxes, and another stall seems to display chess boards and pieces. People are scattered throughout the scene, some browsing the stalls while others converse in groups. The sky is clear, suggesting it is a pleasant day for an outdoor market.
 
 ![](./Images/mock-test-5-6.png)
 
 This picture shows some customers sitting in a cafe. The first thing, I can see in this picture is a young couple sitting by the window. The couple is engaged in conversation, wearing casual clothes. On the right, another couple is sitting by the wall and talking. On the left, there is a guy sitting by himself and using his laptop computer. Overall, it looks like a trendy and stylish coffee shop.
+
+The image shows a cozy café or restaurant with a warm, inviting atmosphere. The walls are painted a soft orange, adding to the cozy feel. There are four individuals seated at different tables, but their faces are pixelated for privacy. The furniture is wooden, contributing to the rustic charm of the place.
+
+In the background, there’s a window with some writing on it, though it’s not clear enough to read. The décor includes wall-mounted lamps and a plant near the window, enhancing the ambiance. The overall setting suggests a relaxed environment, perfect for enjoying a meal or a cup of coffee.
 
 ![](./Images/mock-test-5-7.png)
 

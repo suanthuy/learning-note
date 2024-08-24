@@ -16,9 +16,21 @@ We are fortunate to have a very special guest today, Jonathan Ferguson. He is on
 
 This picture was taken in a classroom. Some people who seem to be students are in a group discussing something. A woman on the right is holding a red folder and gesturing. I think she's giving a lecture or an explanation to the class. Next to her a man in a blue sweater is folding his arms and looking at the lecture. The rest of the students are also looking at her and listening carefully
 
+
+The image shows a group of individuals standing in what appears to be an indoor setting, possibly a classroom or meeting room. The faces of the individuals are obscured with brown blocks, likely for privacy reasons.
+
+Center Individual: One person stands in the center holding a white paper and is dressed in a blue shirt with dark pants.
+Right Side: To the right of the central figure, another person is holding a red folder.
+Others: There are additional people around them, some also holding papers.
+Background: The room has a grayish floor and neutral-colored walls, with items like chairs and tables visible in the background.
+
 ![](./Images/mock-test-4-16.png)
 
 This is a picture of a food vendor preparing a meal. On the left, a main in a red jacket seems to be buying some bread. There are two people on the right side of the picture. One is pointing at the vendor and the other is carrying something on his shoulder. Two motorbikes are parked in front of the shop. I can see a few men passing by in the back. The people look busy so I guess this picture was taken in the morning
+
+The image shows an outdoor street food scene. At the center, there is a person with their face obscured, standing behind a food stall and actively cooking, as indicated by the steam rising from the pots on the stall. The stall features ornate metalwork and several pots on its surface.
+
+To the left, there are individuals facing away from the camera, seemingly waiting or watching the cooking process. In front of the stall, to the right, there is a parked motorcycle with “YAMAHA” written on it. The background reveals other people and buildings, suggesting a bustling urban environment.
 
 ![](./Images/mock-test-4-6.png)
 

@@ -16,9 +16,13 @@ As a guess of Highpoint Hotel, all travelers can enjoy free access to our modern
 
 This picture was taken in an auditorium. People are sitting on red and white seats facing the stage. On the stage, there is a man looks like he is addressing the audience. In the background, I can see an upper level of seating in the auditorium, where more people are sitting. There are various spotlights in the ceiling of the auditorium and there seems to be a screen of the wall of the stage. The auditorium looks comfortable and well equipped.
 
+The image shows a large indoor auditorium filled with people seated in rows of red chairs. The auditorium has multiple levels, with balconies around the perimeter where more people are seated. At the front, there’s a stage with a few individuals standing, possibly addressing the audience or performing. The setting suggests a formal event or gathering, such as a lecture, concert, or theatrical performance, taking place in a well-designed hall that enhances visibility and acoustics.
+
 ![](./Images/mock-test-11-6.png)
 
 The picture was taken in a quiet street. There are two people walking away in the distance only one of whom is really invisible. The man is wearing blue short and grey sleeveless shirt. He seems to be carrying a bag. These are cars parked on the right hand side of the road. Both sides of the road are lined with tall streetlights. The street looks calm and peaceful as there is no traffic and the man is working in the road.
+
+The image shows a street lined with multistory buildings, each showcasing different architectural styles and colors. Parked cars are visible along the curb, and there are signs attached to the buildings. The sky appears overcast, giving the scene a somewhat muted ambiance. It looks like an urban residential area.
 
 ![](./Images/mock-test-11-7.png)
 

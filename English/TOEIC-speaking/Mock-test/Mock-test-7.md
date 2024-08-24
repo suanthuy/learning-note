@@ -17,9 +17,19 @@ And now it's time to present the Employee of the Year award. This prestigious pr
 
 Here is a picture taken at a big lecture hall. In the foreground, there are students sitting in wooden seats and the class looks very full. Most of the students are looking down, so they are probably taking notes. In the middle, I can see some long tables with papers and other items on them. In the background, a teacher is standing with his back to the students. He's wearing a brown sweater and blue jeans and he is writing something on the blackboard with chalk. Overall, it looks like a typical classroom scene.
 
+
+The image shows a classroom setting where students are seated and facing a blackboard filled with mathematical equations and text. In the foreground, you can see the backs of students’ heads, some of whom are using laptops. The middle ground features rows of desks, and in the background, a lecturer is writing on the blackboard.
+This scene captures a typical higher education environment, particularly in mathematics or science-related courses, where complex problems are being taught and solved.
+
+The blackboard contains several lines of mathematical work involving algebraic expressions and equations.
+
 ![](./Images/mock-test-7-6.png)
 
 This is a snapshot taken on a sidewalk in a city. What I noticed first in the picture is a father and his young son going somewhere together. The father is pushing a stroller and the little child is helping his father push the stroller. The sidewalk they are walking on looks very neat and clean, and I can also see a bench on it. In the background, there are some cars parked on both sides of the road. Overall, it looks like a clean city street and the father and son made me smile.
+
+The image captures a moment in an urban setting featuring an adult and a child in a stroller. The adult, whose face is not visible, stands beside the stroller, while the child appears to be reaching out towards them. Behind them, there are parked cars, including a blue one directly behind and red ones further away. The background also includes buildings with windows, street lamps, and a bench on the right side. Other people are visible in the distance, though they are not clearly discernible.
+
+This scene seems to highlight a typical day in the city, possibly focusing on themes of caregiving and daily life.
 
 ![](./Images/mock-test-7-7.png)
 

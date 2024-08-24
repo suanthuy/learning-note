@@ -16,9 +16,13 @@ Greetings Vin mart shoppers! We would like to announce that the store will be cl
 
 This picture was taken in a classroom. Some people who seemed to be students are in a group discussing something. A woman on the right is holding a red folder and gesturing. I think she's giving a lecture or an explanation to the class. Next to her, a man in blue sweater is folding his arms and looking at the lecturer. Judging by their facial expressions, the students seem to be paying close attention to what's being said.
 
+The image shows a group of people in what looks like a classroom or workshop setting. Some are seated on stools and chairs, while others are standing. The room has a casual vibe with exposed ceiling beams and fluorescent lighting. There’s a number “3” on the wall, which might indicate a room or station number. The faces of the individuals are obscured for privacy.
+
 ![](./Images/mock-test-13-6.png)
 
 Now this is a picture of a beach. In the main focus of the picture, there is a woman and an older man looking at something. The man is wearing a hat and a checkered shirt. He's carrying a camera around his neck and putting somewhere. He might be explaining something to the woman. She seems to be listening to him and putting her hands in her jacket pocket. Behind them, some people are strolling along to the beach and sitting on the rocks relaxing. The sun is shining and people seem to be enjoying some time off.
+
+The image shows an outdoor scene by the seaside. In the foreground, there’s a person wearing a hat, extending their arm as if pointing at something. Interestingly, a seagull in mid-flight is perfectly aligned with the person’s extended arm, creating an illusion that the person has large bird wings. In the background, you can see several people near camping gear on the shore and others walking along the water’s edge. The sunlight reflects beautifully off the water’s surface, adding a serene touch to the scene.
 
 ![](./Images/mock-test-13-7.png)
 

@@ -16,9 +16,17 @@ Want to develop health and flexibility while cultivating the inner arts of medit
 
 This is a picture of people relaxing on a beach. Some people are getting a tan while others are enjoying the water. I can see one woman on the right is lying on her side. There is an empty chair and a flag in the middle of the photo. In the background, there are palm trees and large houses on the side of the hill. It looks like a hot summer day, and so it is important to remember to apply suntan lotion.
 
+The image shows a serene beach scene. In the foreground, there’s an empty white sun lounger facing the sea, inviting someone to relax and enjoy the view. The sand is light-colored, and various beachgoers are scattered around, some lying on towels and others sitting on chairs. Towards the right side of the image, a red flag is planted in the sand, likely indicating a warning or a designated swimming area.
+
+In the background, the sea is calm with no visible waves, and the sky is clear blue. On the left side, there’s a hill with greenery and buildings that appear to be hotels or apartments overlooking the beach. The overall scene captures a peaceful and leisurely day at the beach.
+
 ![](./Images/mock-test-6-6.png)
 
 This is a picture of a man giving a speech to an audience. The man is standing on a stage with a big screen behind him. I can see a woman sitting at a table that has microphones set up for others to have a panel discussion. The entire audience is focused on his speech. I can tell people in the audience are probably taking notes. I think the man is giving a speech at a university.
+
+The image shows an indoor setting where a presentation or lecture is taking place. On the left side, there’s a person standing at a podium, appearing to be speaking or presenting. To the right, another individual is seated at a table facing the audience, possibly moderating or waiting for their turn to speak.
+
+In front of this table, several audience members are looking towards the speaker, though individual details are not clear due to the angle and resolution. The background features a large projection screen with bullet points, likely related to a technical or academic topic, but the text is too blurry to read precisely. The venue has wood-paneled walls and a semi-circular shape, suggesting it might be an auditorium or conference hall. A logo with the text “BATH” is visible on the screen, which could indicate the location or organization associated with this event.
 
 ![](./Images/mock-test-6-7.png)
 

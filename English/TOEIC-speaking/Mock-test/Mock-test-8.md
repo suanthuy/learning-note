@@ -17,9 +17,15 @@ For the best in comfort while traveling, book your next day here at Cozy Town Su
 
 This picture was taken at a busy office. The main focus of the picture is many employees concentrating on their work. The woman on the left is looking over a man's shoulders and he seems to be showing her something on his monitor. Beside them there is a woman talking on the phone and using the computer at the same time. Next to her is another woman sitting and talking to the man who's leaning over her desk. Overall, I guess it looks like a typical scene of the office.
 
+The image shows a modern office environment with several people working at their desks. The office has an industrial design, featuring exposed brick walls and large windows that let in plenty of natural light. Each desk is equipped with computers, and there are various papers and work-related items scattered around, indicating a busy and active workspace. The faces of the individuals have been obscured with brown rectangles for privacy.
+
+This scene captures a typical day in a bustling office, highlighting the collaborative and dynamic nature of the work being done.
+
 ![](./Images/mock-test-8-6.png)
 
 This picture was taken at a barbecue party outdoors. The main focus of the picture is a group of people attending the party. The man on the left is serving the barbecue, holding a cooking utensil in one hand. The others are enjoying the food and gossiping about something together next to him. In the background, I can also find a deep blue sky without any clouds. Overall, I guess it looks like a casual party among close friend.
+
+The image shows a group of people gathered around a table outdoors. Their faces are obscured by brown rectangular censor bars. One person is standing at a barbecue grill, wearing a chef’s hat and holding cooking utensils. Another person, seated at the table, is wearing a blue top and a red apron, seemingly engaged in conversation or an activity with the others around the table. The setting suggests a social gathering or meal being prepared and enjoyed outside under clear skies.
 
 ![](./Images/mock-test-8-7.png)
 

@@ -2,7 +2,6 @@ _Link: https://www.youtube.com/watch?v=lScVsWNRPA4_
 
 ![](./Images/mock-test-14-1.png)
 
-
 ![](./Images/mock-test-14-2.png)
 
 Ferry's Men store has been providing the area with some of the finest man's fashions for the last 50 years. This weekend, Ferry's will have a winter clearance sale to make room for their entire spring collection. During the sale, shoppers will enjoy the scouts up to 50% on all winter items. To make sure that the store's valued customers can enjoy the weekend sale, Ferry's will be open from 10:00 A.M to 10 P.M.
@@ -14,12 +13,17 @@ The 23rd annual Movie Critics Awards will take place next Saturday at 7 p.m at t
 
 ![](./Images/mock-test-14-4.png)
 
-This is a picture of a street. There are two tram racks on the road, and there is a tram on one of the tracks. The tram is white with a red stripe along the side of each carriage. In the background, there are four large buildings. On the left-hand side of the road, I can see a man walking on the sidewalk. There are also some other buildings in the background. The tram looks like a good way to get around the city.
 
 ![](./Images/mock-test-14-5.png)
 
-This picture was taken in a cobble area outside a restaurant. Some tables have been set up outside the restaurant. Each table has four wooden chairs around it. Brightly colored table cloths have been placed on the tables and cutlery and glasses with napkins inside have been laid out. In the background, there is an old brick war. There is an rectangular hole in the wall. It seems like a nice place to have a meal outdoors.
+This is a picture of a street. There are two tram racks on the road, and there is a tram on one of the tracks. The tram is white with a red stripe along the side of each carriage. In the background, there are four large buildings. On the left-hand side of the road, I can see a man walking on the sidewalk. There are also some other buildings in the background. The tram looks like a good way to get around the city.
+
+The image shows a street scene featuring a red and white tram, suggesting an urban setting, possibly in Europe. The buildings along the street are multi-story and appear to be quite old, indicating a historical or downtown area. Overhead cables are visible above the tram, likely part of its electrical power system.
+
 ![](./Images/mock-test-14-6.png)
+
+This picture was taken in a cobble area outside a restaurant. Some tables have been set up outside the restaurant. Each table has four wooden chairs around it. Brightly colored table cloths have been placed on the tables and cutlery and glasses with napkins inside have been laid out. In the background, there is an old brick war. There is an rectangular hole in the wall. It seems like a nice place to have a meal outdoors.
+The image shows an outdoor dining setup with multiple tables arranged in a row. Each table is covered with a red patterned tablecloth and is set with folded yellow napkins and some glassware. The chairs are made of dark material, possibly metal, with lighter-colored seat cushions, and they have woven backrests. The flooring is composed of cobblestones, suggesting this could be a street or alleyway in an area that maintains historical or traditional architecture.
 
 ![](./Images/mock-test-14-7.png)
 

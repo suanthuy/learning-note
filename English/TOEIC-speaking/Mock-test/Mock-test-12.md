@@ -16,9 +16,13 @@ On tonight's show, we'll hear comments from three people who are trying to get t
 
 This picture was taken in a street outside a cafe. In the foreground, six people are seated around a table. The people are all wearing jackets or coats, the table is covered by a yellow tablecloth. there are two coffee cups and saucers on the table and some sugar in the background and see the cafe and some other stores there are some trees lining the road on the sidewalker people are passing by it looks like a nice place to have a coffee with friends
 
+The image shows an outdoor café scene with several people seated at tables with yellow tablecloths, enjoying drinks and conversations. The café has a sign that reads “Café Gourmet,” and the setting appears to be a pedestrian street lined with trees and other buildings. Some faces have been pixelated for privacy.
+
 ![](./Images/mock-test-12-6.png)
 
 This is the picture of a subway station. There are two train tracks and a platform on either side of the tracks. The station is covered by a dome-shaped roof. People are waiting on both platforms for trains. About one of the platforms, I can see a map of the train line. In the distance, I can see the opening of the station. They're a bright light outside the station looks clean and well organized.
+
+The image shows an indoor train station with a curved, arched roof featuring a series of windows that allow natural light to illuminate the space. There are two sets of train tracks converging into the distance, creating a vanishing point that draws the eye forward. Platforms are on either side of the tracks, with benches and passengers waiting. The architecture suggests it could be an older, possibly historic station due to its design and materials.
 
 ![](./Images/mock-test-12-7.png)
 

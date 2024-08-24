@@ -16,10 +16,11 @@ Hello and thank you for calling the Buffalo bed and breakfast. Regretably, we ar
 
 There are two men in a blue-colored room, looking at one another in this picture. They are both wearing light colored khakis and standing in front of a photocopier. The man on the left a ball and is wearing a short sleeve collared shirt. The man on the right is wearing a t-shirt and is holding a cup in his left hand. Both men are smiling at each other
 
+The image shows two individuals in an office setting, standing next to a multifunction printer. The person on the left, dressed in a green shirt, appears to be interacting with the printer, possibly organizing or retrieving printed documents. The individual on the right is holding a white cup and seems to be either in conversation with the first person or waiting for something to be printed. Both individuals’ faces are obscured by pixelated grey squares for privacy. The background features a plain blue wall with a slight shadow cast by the individuals.
+
 ![](./Images/mock-test-3-6.png)
 
 There are two women in this picture. The woman on the left has long blonde hair, and the woman on the right has long brown hair. They appear to be in a woman's clothing shop. The blonde woman is wearing a shiny silver overcoat that is tied around her waist. She appears to be helping the other soman shop. The brunette is holding up a light blue blouse to her chest to check how it would look on her.
-
 
 ![](./Images/mock-test-3-7.png)
 
