@@ -16,9 +16,13 @@ In the next hour, we will be speaking with a former mayor of Westland and curren
 
 This is a picture of a shopping street in what looks like a pedestrian only area. A woman wearing a black coat and black high heels is looking in a shop window. There are buildings on both sides of the street and small trees in pots. There are also plants growing against some of the walls. On the right hand side of the street there are some shops. One of the shop has a black frontage with gold lettering. It looks like a pleasant day and a nice atmosphere in which to go shopping.
 
+The image shows a charming, narrow city street filled with people. The architecture suggests an older, possibly European city with traditional facades. Plants and small trees line the walkway, adding a touch of greenery to the urban environment. The street extends into the distance, creating a sense of depth and inviting curiosity about what lies beyond. It captures the essence of everyday life in a vibrant urban setting that blends historical charm with modern vibrancy.
+
 ![](./Images/mock-test-10-6.png)
 
 This picture was taken at a fruit and vegetable market. A man and a woman are standing with their backs to the camera. They are both wearing jackets. A woman working at the stand is weighing some vegetables for them. The two customers have a large dog with them. There are some other people in the background and I can see a roadside outside the patio umbrella that covers the stands. The produce looks delicious and is properly really fresh.
+
+The image shows an outdoor market scene on a rainy day. People are browsing various stalls filled with colorful produce, all sheltered under umbrellas. In the foreground, there’s a large dog standing on wet pavement, indicating recent rain. This scene captures a slice of community life, highlighting the interaction between people and their environment during routine activities like grocery shopping in an open market.
 
 ![](./Images/mock-test-10-7.png)
 
