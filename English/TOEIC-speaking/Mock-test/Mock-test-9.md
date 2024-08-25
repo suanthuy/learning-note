@@ -20,9 +20,7 @@ The image shows a professional setting where a presentation is taking place. The
 
 This picture was taken in a kitchen. There are four sourcepans of various sites on a gas range. Three of the saucepan contained foods which is being cooked. In the background, there are some bottles and salt and pepper shakers. There are also some kitchen utensils and a container full of wine bottle corks. The kitchen looks well equipped. And it looks like a very busy kitchen.
 
-The image shows a kitchen scene centered on a stovetop with several cooking pots and pans. On the left, there’s a large frying pan filled with sautéed vegetables. Next to it, there are two pots: the front one has a metal lid slightly askew, revealing what looks like a tomato-based sauce inside, and the back pot is covered with a lid. Various kitchen utensils like spatulas and ladles are visible. Above the stovetop, hanging utensils such as pots and colanders can be seen. To the far left, on the counter, there are condiment bottles and shakers, possibly containing spices or oils. The lighting gives off a warm hue, suggesting an indoor setting with artificial light.
-
-It looks like an active cooking process in a home or restaurant kitchen, showcasing different stages of meal preparation.
+The image shows a kitchen scene centered on a stovetop with several cooking pots and pans. On the left, there’s a large frying pan filled with sautéed vegetables. Next to it, there are two pots: the front one has a metal lid slightly askew, revealing what looks like a tomato-based sauce inside, and the back pot is covered with a lid. Various kitchen utensils like spatulas and ladles are visible. Above the stovetop, hanging utensils such as pots and colanders can be seen. To the far left, on the counter, there are condiment bottles and shakers, possibly containing spices or oils. The lighting gives off a warm hue, suggesting an indoor setting with artificial light. It looks like an active cooking process in a home or restaurant kitchen, showcasing different stages of meal preparation.
 
 ![](./Images/mock-test-9-6.png)
 
