@@ -23,6 +23,7 @@ The image shows a street scene featuring a red and white tram, suggesting an urb
 ![](./Images/mock-test-14-6.png)
 
 This picture was taken in a cobble area outside a restaurant. Some tables have been set up outside the restaurant. Each table has four wooden chairs around it. Brightly colored table cloths have been placed on the tables and cutlery and glasses with napkins inside have been laid out. In the background, there is an old brick war. There is an rectangular hole in the wall. It seems like a nice place to have a meal outdoors.
+
 The image shows an outdoor dining setup with multiple tables arranged in a row. Each table is covered with a red patterned tablecloth and is set with folded yellow napkins and some glassware. The chairs are made of dark material, possibly metal, with lighter-colored seat cushions, and they have woven backrests. The flooring is composed of cobblestones, suggesting this could be a street or alleyway in an area that maintains historical or traditional architecture.
 
 ![](./Images/mock-test-14-7.png)
