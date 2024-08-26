@@ -14,7 +14,7 @@ On tonight's show, we'll hear comments from three people who are trying to get t
 
 ![](./Images/mock-test-12-5.png)
 
-This picture was taken in a street outside a cafe. In the foreground, six people are seated around a table. The people are all wearing jackets or coats, the table is covered by a yellow tablecloth. there are two coffee cups and saucers on the table and some sugar in the background and see the cafe and some other stores there are some trees lining the road on the sidewalker people are passing by it looks like a nice place to have a coffee with friends
+This picture was taken in a street outside a cafe. In the foreground, six people are seated around a table. The people are all wearing jackets or coats, the table is covered by a yellow tablecloth. There are two coffee cups and saucers on the table and some sugar. In the background, and see the cafe and some other stores. There are some trees lining the road. On the sidewalker, people are passing by. It looks like a nice place to have a coffee with friends.
 
 The image shows an outdoor café scene with several people seated at tables with yellow tablecloths, enjoying drinks and conversations. The café has a sign that reads “Café Gourmet,” and the setting appears to be a pedestrian street lined with trees and other buildings. Some faces have been pixelated for privacy.
 
