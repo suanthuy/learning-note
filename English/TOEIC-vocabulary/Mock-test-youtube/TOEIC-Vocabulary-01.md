@@ -130,3 +130,146 @@ Please feel free for downloading and using.
 |                        |                                                  |                     |                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                    |         |         |             |                                                                                                           |             |
 |                        |                                                  |                     |                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                    |         |         |             |                                                                                                           |             |
 |                        |                                                  |                     |                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                    |         |         |             |                                                                                                           |             |
+
+
+
+
+
+TOEIC Vocabulary,,,,,,,,,
+,,,,,,,,,
+Word,Part of speech,IPA,English meaning,Vietnamese meaning,Original Sentence,My Sentence,Synonym,Antonym,Collocation
+,,,,,,,,,
+folding,Adj,/ˈfoʊl.dɪŋ/,"A folding chair, bed, bicycle, etc. can be folded into a smaller size to make it easier to store or carry",ghế gấp,We helped the janitor put away the folding chairs.,,,,
+look out,V,/lʊk/,to watch what is happening and be careful,giám sát,The police have warned shopkeepers to look out for forged notes.,,,,
+skyline,N,/ˈskaɪ.laɪn/,"a shape or pattern made against the sky, especially by buildings",hình dáng in lên nền trời,,,,,
+urban,Adj,/ˈɝː.bən/,"of, consisting of, or living in, a city or town","thuộc, ở thành phố","1. The urban sprawl of South Florida
+2. The council is committed to a programme of urban regeneration.",,,,
+recreational,Adj,/ˌrek.riˈeɪ.ʃən.əl/,relating to or denoting activity done for enjoyment when one is not working,thuộc về giải trí,,,,,
+overhanging,Adj,/ˈoʊ.vɚˈhæŋ.ɪŋ/,hanging or extending outward over something,nhô ra,,,,,
+indicate,V,/ˈɪn.də.keɪt/,"to show, point, or make clear in another way",chỉ ra,,,,,
+sphere,N,/sfɪər/,"1. an object shaped like a round ball
+2. a subject or area of knowledge, work, etc","1. hình cầu, quả cầu
+2. khu vực",,,,,
+fountain,N,/ˈfaʊn.tən/,"a stream of water that is forced up into the air through a small hole, especially for decorative effect, or the structure in a lake or pool from which this flows",vòi phun nước,,,,,
+reach out (to someone),Phrasal verb of reach,/riːtʃ/,"1. to try to communicate with a person or a group of people, usually in order to help or involve them
+2. to communicate with someone, especially by using a phone, sending them an email, etc.
+3. to offer help and support to someone","1. cố gắng giao tiếp với một người hoặc một nhóm người, thường là để giúp đỡ hoặc lôi kéo họ tham gia
+2. giao tiếp với ai đó, đặc biệt là bằng cách sử dụng điện thoại, gửi email cho họ, v.v.
+3. để cung cấp sự giúp đỡ và hỗ trợ cho ai đó",,,,,
+faint,Adj,/feɪnt/,"1. not strong or clear; slight
+2. to feel weak, as if you are about to become unconscious","1. mờ nhạt
+2. yếu ớt",,,,,
+reputable,Adj,/ˈrep.jə.t̬ə.bəl/,having a good reputation and able to be trusted,"có danh tiếng tốt, uy tín","I insured my property with an established, reputable company.",,,,
+reputation,N,/ˌrep.jəˈteɪ.ʃən/,"the opinion that people in general have about someone or something, or how much respect or admiration someone or something receives, based on past behaviour or character",danh tiếng,,,,,
+charge,V,/tʃɑːrdʒ/,"1. to ask an amount of money for something, especially a service or activity
+2. charge for
+3. charge something for something/doing something
+4. charge someone for something/doing something
+5. charge someone to do something","tính giá, đòi trả",,,,,
+charge,N,/tʃɑːrdʒ/,"1. a price asked for goods or services
+2. an accusation, typically one formally made against a prisoner brought to trial
+3. the responsibility of taking care or control of someone or something","tiền phải trả, giá tiền, tiền công, tiền thù lao",,,,,
+pedestrian,N,/pəˈdes.tri.ən/,a person walking along a road or in a developed area,"người đi bộ, khách bộ hành",,,,,
+auditorium,N,/ˌɑː.dəˈtɔːr.i.əm/,"1. the part of a theater, concert hall, or other public building in which the audience sits
+2. a large building or hall used for public gatherings, typically speeches or stage performances","phòng thính giả, giảng đường",,,,,
+address,"V
+gerund or present participle: addressing",/ˈæd.res/,"1. write the name and address of the intended recipient on (an envelope, letter, or package)
+2. speak to (a person or an assembly), typically in a formal way","1. đề địa chỉ
+2. gửi",,,,,
+seat,"V
+past tense: seated; past participle: seated",/siːt/,"1. arrange for (someone) to sit somewhere
+2. sit down
+3. (of a place such as a theater or restaurant) have seats for (a specified number of people)","ghế; vé chỗ ngồi, chỗ ngồi",,,,,
+balcony,N,/ˈbæl.kə.ni/,"1. an area with a wall or bars around it that is joined to the outside wall of a building on an upper level.
+2. an area of seats at an upper level in a theatre.",ban công (trong nhà hát),,,,,
+perimeter,N,/pəˈrɪm.ə.t̬ɚ/,(edge) the outer edge of an area of land or the border around it,chu vi,,,,,
+gathering,N,/ˈɡæð.ɚ.ɪŋ/,a party or a meeting when many people come together as a group,sự tụ họ; cuộc hội họp,,,,,
+theatrical,Adj,/θiˈæt.rɪ.kəl/,"1. relating to acting, actors, or the theater
+2. exaggerated and excessively dramatic","(thuộc) sự diễn kịch, (thuộc ngành) sân khẩu",,,,,
+sleeveless,Adj,/ˈsliːvləs/,(of clothes) without any part covering your arms,không có tay (áo),,,,,
+short,N,/ʃɔːrt/,short pants that reach only to the thighs or knees,quần soóc,,,,,
+streetlight,N,/ˈstriːt laɪt/,"a light illuminating a road, typically mounted on a tall pole",đèn đường,,,,,
+multistory,Adj,,(of a building) having several stories,,,,,,
+architectural,Adj,/ˌɑːrkɪˈtektʃərəl/,relating to architecture and buildings,(thuộc) kiến trúc,,,,,
+visible,Adj,/ˈvɪzəbl/,"1. that can be seen
+2. [usually before noun] that is obvious enough to be noticed","thấy được, có thể trông thấy được",,,,,
+curb,Noun,/kɜːrb/,"curb something to control or limit something, especially something bad","sự kiềm chế, sự nén lại, sự kìm lại; sự hạn chế",,,,,
+along,Preposition,/əˈlɔːŋ/,"1. from one end to or towards the other end of something
+2. at a point at the end or on the length of","theo chiều dài, suốt theo",,,,,
+overcast,Adj,/ˌəʊvərˈkæst/,covered with clouds; not bright,"làm u ám, phủ mây (bầu trời)",,,,,
+ambiance,N,/ˈæmbiəns/,the character and atmosphere of a place,"môi trường, không khí của một địa điểm",,,,,
+residential,Adj [usually before noun],/ˌrezɪˈdenʃl/,(of an area of a town) suitable for living in; consisting of houses rather than factories or offices,"(thuộc) nhà ở, (thuộc) nhà riêng; để ở; dân cư",,,,,
+track,N,/træk/,"1. [for train] [countable, uncountable] rails (= metal bars) that a train moves along",dường ray tàu hoả,,,,,
+platform,N,/ˈplætfɔːrm/,1. [at train station] the raised flat area next to the track at a train station where you get on or off the train,"thềm ga, sân ga (xe lửa)",,,,,
+dome,N,/dəʊm/,a round roof with a circular base,"(kiến trúc) vòm, mái vòm",,,,,
+in/into the distance,,,far away but still able to be seen or heard,,,,,,
+curved,Adj,/kɜːrvd/,having a round shape,Cong,,,,,
+arched,Adj,/ɑːrtʃt/,in the shape of an arch,"Có khung vòm, có khung tò vò, có nhịp cuốn",,,,,
+feature,V,/ˈfiːtʃər/,1. [transitive] to include a particular person or thing as a special feature,"Nét đặc biệt, điểm đặc trưng",,,,,
+converge,V,/kənˈvɜːrdʒ/,1. [intransitive] converge (on…) (of people or vehicles) to move towards a place from different directions and meet,"Cùng kéo về, cùng đổ về (một nơi)",,,,,
+vanishing point,N,/ˈvænɪʃɪŋ pɔɪnt/,the point in the distance at which parallel lines (= lines that are the same distance apart at every point) appear to meet,Điểm ảo (điểm mà tất cả các đường song song trong một mặt phẳng có vẻ (như) gặp nhau về phối cảnh),,,,,
+stool,N,/stuːl/,1. (often in compounds) a seat with legs but with nothing to support your back or arms,Ghế đẩu,,,,,
+ceiling,N,/ˈsiːlɪŋ/,1. the top inside surface of a room,Trần nhà,,,,,
+beam,N,/biːm/,"1. a line of light, electromagnetic waves or particles",Tia; chùm (ánh sáng),,,,,
+fluorescent,Adj,/fləˈresnt/,1. (of substances) producing bright light by using some forms of radiation,huỳnh quang,,,,,
+lighting,N,/ˈlaɪtɪŋ/,"1. [uncountable] the arrangement or type of light in a place
+2. the use of electric lights in a place","Sự thắp đèn, sự chăng đèn",,,,,
+indicate,V,/ˈɪndɪkeɪt/,1. [show] [transitive] to show that something is true or exists,"Chỉ, cho biết, ra dấu",,,,,
+seagull,N,/ˈsiːɡʌl/,a seabird with long wings and usually white and grey or black feathers. There are several types of seagull,"Mòng biển, mòng bể, mòng hay hải âu là một nhóm gồm các loài chim biển thuộc họ Mòng biển",,,,,
+cable,N,/ˈkeɪbl/,"1. [countable, uncountable] a set of wires, covered in plastic or rubber, that carries electricity, phone signals, etc",Dây cáp,,,,,
+tram,N,/træm/,"a vehicle driven by electricity, that runs on rails along the streets of a town and carries passengers",toa xe điện,,,,,
+cobblestone,Adj,/ˈkɑːblstəʊn/,made of small round stones,đá cuội,,,,,
+flooring,N,/ˈflɔːrɪŋ/,[uncountable] material used to make the floor of a room,Nguyên vật liệu làm sàn,,,,,
+weave,"V
+past tense: wove; past participle: woven",/wiːv/,"1. [transitive, intransitive] to make cloth, a carpet, a basket, etc. by crossing threads or narrow pieces of material across, over and under each other by hand or on a machine called a loom","Dệt, đan, kết lại",,,,,
+backrest,N,/ˈbækrest/,part of a seat that supports somebody’s back,Cái dùng để tựa lưng,,,,,
+lighter,N,/ˈlaɪtər/,"1. (also cigarette lighter) a small device that produces a flame for lighting cigarettes, etc",Cái bật lửa,,,,,
+seat,N,/siːt/,"1. [place to sit] a place where you can sit, for example a chair",Ghế,,,,,
+cushion,N,/ˈkʊʃn/,"1. (North American English also pillow) a cloth bag filled with soft material or feathers that is used, for example, to make a seat more comfortable","Cái đệm, cái nệm",,,,,
+napkin,N,/ˈnæpkɪn/,1. (also table napkin) a piece of cloth or paper used at meals for protecting your clothes and cleaning your lips and fingers,Khăn ăn,,,,,
+fold,V,/fəʊld/,"1. [transitive] to bend something, especially paper or cloth, so that one part lies on top of another part","Gấp, gập",,,,,
+glassware,N,/ˈɡlæswer/,[uncountable] objects made of glass,"Đồ đạc bằng thuỷ tinh, hàng thuỷ tinh",,,,,
+grayish,Adj,/ˈɡreɪɪʃ/,fairly gray in colour,hơi xám,,,,,
+neutral,Adj,/ˈnuːtrəl/,"1. [in disagreement/contest] not supporting or helping either side in a disagreement, competition, etc",Trung lập,,,,,
+pot,N,/pɑːt/,1. [for cooking] [countable] a deep round container used for cooking things in,Nồi,,,,,
+stall,N,/stɔːl/,"1. [countable] a table or small shop with an open front that people sell things from, especially at a market","Quầy, bàn bày hàng",,,,,
+reveal,V,/rɪˈviːl/,1. to make something known to somebody,"Bộc lộ, biểu lộ",,,,,
+bustling,Adj,/ˈbʌslɪŋ/,1. full of people moving about in a busy way,sự náo nhiệt,,,,,
+facade,N,/fəˈsɑːd/,1. the front of a building,"mặt tiền, mặt chính",,,,,
+trendy,Adj,/ˈtrendi/,very fashionable,"hợp thời trang, rất mốt, chạy theo mố",,,,,
+cozy,Adj,/ˈkəʊzi/,"1. warm, comfortable and safe, especially in a small space","Ấm cúng, thoải mái dễ chịu",,,,,
+furniture,N,/ˈfɜːrnɪtʃər/,"objects that can be moved, such as tables, chairs and beds, that are put into a house or an office to make it suitable for living or working in",đồ đạc (trong nhà),,,,,
+contribute,V,/kənˈtrɪbjuːt/,"1. [intransitive, transitive] to give something, especially money or goods, to help achieve or provide something","đóng góp, góp phần",,,,,
+charm,N,/tʃɑːrm/,1. [uncountable] the power of pleasing or attracting people,"Bùa mê, bùa yêu, ngải",,,,,
+rustic,Adj,/ˈrʌstɪk/,1. (approving) typical of the country or of country people; simple,"Mộc mạc, quê mùa; chất phác (điển hình cho nông thôn, người nông thôn)",,,,,
+wall-mounted,Adj,/ˌwɔːl ˈmaʊntɪd/,fixed onto a wall,"trên tường, treo tường",,,,,
+suntan,Adj,/ˈsʌntæn/,used to describe products that protect your skin from strong sunlight,Sự rám nắng,,,,,
+serene,Adj,/səˈriːn/,calm and peaceful,"Trầm lặng; thanh bình, thanh thản",,,,,
+lounger,N,/ˈlaʊndʒər/,"a long comfortable chair that supports your legs, used for sitting or lying on, especially outdoors","Ghế nằm (một loại ghế dài thoải mái hỗ trợ chân, được sử dụng để ngồi hoặc nằm, đặc biệt là ngoài trời)",,,,,
+light-colored,Adj,/ˌlaɪt ˈkʌlərd/,pale in colour; not dark,màu sắc sáng sủa,,,,,
+scattered,Adj,/ˈskætərd/,spread far apart over a wide area or over a long period of time,"sự rải ra, sự phân tán",,,,,
+beachgoer,,,,,,,,,
+towel,N,/ˈtaʊəl/,"a piece of cloth or paper used for drying things, especially your body",khăn lau; khăn tắm,,,,,
+plant,V,/plænt/,"1. [seeds/plants] plant something to put plants, seeds, etc. in the ground to grow",thực vật,,,,,
+indicate,V,/ˈɪndɪkeɪt/,1. [show] [transitive] to show that something is true or exists,"Tỏ ra, ra ý, ngụ ý, biểu lộ, biểu thị",,,,,
+greenery,N,/ˈɡriːnəri/,"green plants or branches, especially when cut and used as decoration",Cây cỏ (dùng để trang trí),,,,,
+leisurely,Adj,/ˈliːʒərli/,done without hurrying,"thong thả, thong dong, ung dung, nhàn nhã",,,,,
+podium,N,/ˈpəʊdiəm/,"1. a small platform that a person stands on when giving a speech or conducting an orchestra, etc","Bục (cho giảng viên, người chỉ huy dàn nhạc)",,,,,
+moderate,V,/ˈmɑːdəreɪt/,"1. [intransitive, transitive] (formal) to become or make something become less extreme, severe, etc","Ôn hoà, không quá khích",,,,,
+blurry,Adj,/ˈblɜːri/,1. without a clear outline; not clear,"Cảnh mờ, dáng mập mờ; trạng thái mập mờ. Vết mực, vết ố.",,,,,
+projection,N,/prəˈdʒekʃn/,"1. [estimate] to form an idea of the cost, size, value etc. of something, but without calculating it exactly","Sự dự phóng, sự dự đoán",,,,,
+bullet point,N,/ˈbʊlɪt pɔɪnt/,"an item in a list in a document, that is printed with a square, diamond or circle in front of it in order to show that it is important. The square, etc. is also called a bullet point",,,,,,
+precisely,Adv,/prɪˈsaɪsli/,1. exactly,"Đúng, chính xác",,,,,
+venue,N,/ˈvenjuː/,"a place where people meet for an organized event, for example a concert, sporting event or conference","một địa điểm hoặc không gian được thiết kế để tổ chức các sự kiện hội thảo, hội nghị, tiệc cưới, triển lãm, và nhiều loại sự kiện khác",,,,,
+wood,N,/wʊd/,"1. [uncountable, countable] the hard material that the trunk and branches of a tree are made of; this material when it is used to build or make things with, or as a fuel",Gỗ,,,,,
+panel,V,/ˈpænl/,"to cover or decorate a surface with flat pieces of wood, glass, etc",những tấm vật liệu kết cấu nên tường bao hay phần trần của một công trình nào đó,,,,,
+conference,N,/ˈkɑːnfərəns/,"1. a large official meeting, usually lasting for a few days, at which people with the same work or interests come together to discuss their views","một sự kiện tổ chức với mục đích gặp gỡ, trao đổi thông tin, và thảo luận về các vấn đề chung hoặc chuyên sâu",,,,,
+hall,N,/hɔːl/,a space or passage inside the entrance or front door of a building,"Phòng lớn, đại sảnh (trong các lâu đài)",,,,,
+associated,Adj,/əˈsəʊsieɪtɪd/,"1. if one thing is associated with another, the two things are connected because they happen together or one thing causes the other","Kết giao, kết hợp, liên hợp, liên kết",,,,,
+involve,V,/ɪnˈvɑːlv/,"if a situation, an event or an activity involves something, that thing is an important or necessary part or result of it","bao gồm, có liên quan",,,,,
+snapshot,N,/ˈsnæpʃɑːt/,"1. (also snap) a photograph, especially one taken quickly",ảnh chụp nhanh,,,,,
+stroller,N,/ˈstrəʊlər/,1. a person who is enjoying a slow relaxed walk,xe đẩy,,,,,
+sidewalk,N,/ˈsaɪdwɔːk/,(North American English) (British English pavement) a flat part at the side of a road for people to walk on,vỉa hè,,,,,
+neat,Adj,/niːt/,1. tidy and in order; carefully done or arranged,gọn gàng,,,,,
+concentrate,V,/ˈkɑːnsntreɪt/,"1. [intransitive, transitive] to give all your attention to something and not think about anything else",tập trung,,,,,
+bench,N,/bentʃ/,"1. [countable] a long seat for two or more people, usually made of wood",ghế dài,,,,,
