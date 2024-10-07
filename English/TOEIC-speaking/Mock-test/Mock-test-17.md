@@ -68,4 +68,6 @@ There are 2 sessions after lunch. The first session is a presentation on making 
 
 ## Question 11
 
+What are some advantages of living in a big city?
+
 There are several advantages of living in a big city. First, there are many job opportunities. This is because many companies are located in a big city. Second, it's good for children. A big city often has many schools. Therefore, children can receive/ get a better education. Take my cousin as example. She was born and grew up in a small city. After graduating from college, she had trouble finding a job/ she struggled to find a job. This is because there were few companies in her city. Therefore, she decided to move to a big city. After only a few months here, she was able to get a good job.
