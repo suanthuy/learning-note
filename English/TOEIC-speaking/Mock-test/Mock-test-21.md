@@ -28,7 +28,7 @@ Thank you for choosing Mason Travels for three-day escape to Pineford. On the fi
 >
 > friends
 
-This is a picture taken in a woman's clothes store.
+This is a picture of a clothing store with three women. In the middle, a woman is holding up a jacket and smiling brightly. On the right side, another woman with long black hair is holding up a dress. On the left side, a blond hair woman has a jacket over her arm. In the background, I can see many kind of clothes on display. It seems they are friends.
 
 ## Question 4
 
@@ -47,6 +47,8 @@ This is a picture taken in a woman's clothes store.
 > trees, sun is shining
 >
 > good day - spend outdoors
+
+This is a picture of the forest with 2 people. They are going hiking together. They are wearing jackets and sunglasses. They are also carrying backpacks/ rugsacks and holding trekking poles. The woman is looking at the man. While, the man maybe he is talking something. In the background, I can see a lot of trees and the sun is shining. It seems to be a good day.
 
 ## Question 5
 
@@ -74,6 +76,10 @@ How far would you travel to go to a movie theater?
 >
 > where, who, why, when, how often, what
 
+I would travel 5 Km to go to a movie theater.
+
+Well. I would travel up to 20 minutes to go to movie theater and I normally go with my mother because she likes going to the movie theater with me.
+
 ## Question 7
 
 Let me ask you this. Would you go to movie theaters more often if they had events where you could meet directors?
@@ -91,6 +97,8 @@ Let me ask you this. Would you go to movie theaters more often if they had event
 > last month - movie theater in my neighborhood - held events - show up and answer questions from the audience
 >
 > cast
+
+Yes,
 
 ## Question 8
 

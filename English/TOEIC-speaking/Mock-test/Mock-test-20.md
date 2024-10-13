@@ -36,7 +36,7 @@ This is a picture taken in an outdoor park. There is a woman in the picture. In 
 
 ![](./Images/mock-test-20-4.png)
 
-This is a picture taken in a meeting room. There are 4 people in the picture. In the middle of the picture, a woman with brown hair is pointing to the bar char and explaining.
+This is a picture taken in a meeting room. There are 4 people in the picture. In the middle of the picture, a woman with brown hair is giving a presentation. She is also pointing at the projector screen behind her. In front of her, people is gathering around the table and listening to her presentation. One of them is making gesture. On the table, I can see some glasses and documents. It seems they are busy.
 
 > meeting room - 4 people
 >
@@ -62,6 +62,8 @@ What is a good place to visit in your area, how far is it from the bus station?
 
 A good place to visit in my area is Do Son beach. It is 10 Km from the bus station. I often go to Do Son beach with my family.
 
+Well, I think the good place to visit my area is park named Pac Bo. It is about 100 meters away from the bus station.
+
 > part
 >
 > tourist attraction
@@ -76,6 +78,8 @@ It sounds like an interesting place. What are some things I can do there?
 
 You can swim and enjoy the seafood. The seafood there is very fresh and tasty.
 
+Let me see. At the park, you can do exercise. You can walk the dog. Or you can have a picnic there. It is an idea place for a picnic.
+
 > do exercise
 >
 > walk the dog
@@ -89,6 +93,8 @@ You can swim and enjoy the seafood. The seafood there is very fresh and tasty.
 ## Question 7
 
 If I want to buy some gifts and souvenirs, where would you suggest I go?
+
+I think you should go to the shopping mall. Because there are some souvenir stores there. They offer a variety of items and they have good customer service. Moreover, the prices are really reasonable. I bet that you will find your idea souvenir for your friend if you go there.
 
 > souvenir store/ shop
 >
