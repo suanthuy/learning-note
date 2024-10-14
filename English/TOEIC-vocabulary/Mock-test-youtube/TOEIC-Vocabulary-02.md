@@ -4,10 +4,7 @@ This list made by me while learning vocabulary on youtube and chat GPT, Microsof
 
 Please feel free for downloading and using.
 
-| Word      | Part of speech | IPA | English meaning | Vietnamese meaning | Original Sentence | My Sentence |
-| --------- | -------------- | --- | --------------- | ------------------ | ----------------- | ----------- |
-| appliance |                |     |                 |                    |                   |             |
-| annual    |                |     |                 |                    |                   |             |
-|           |                |     |                 |                    |                   |             |
-|           |                |     |                 |                    |                   |             |
-|           |                |     |                 |                    |                   |             |
+| Word      | IPA | Meaning | Original Sentence | My Sentence |
+| --------- | --- | ------- | ----------------- | ----------- |
+| appliance |     |         |                   |
+|           |     |         |                   |

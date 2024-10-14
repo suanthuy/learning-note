@@ -98,7 +98,7 @@ Let me ask you this. Would you go to movie theaters more often if they had event
 >
 > cast
 
-Yes,
+Yes, I would. Firstly, that is a chance for me to understand the movie. I can ask the directors and listen to their speed. Secondly, It will be very fun and interesting. The directors will share some fun detail of the movie or some stories in the background.
 
 ## Question 8
 
@@ -112,9 +112,13 @@ She went to University of Queensland for the Master's Degree. She graduated in 2
 
 ## Question 9
 
+We need someone with a creative mind to join our team. Does her resume show that she is qualified?
+
 Yes, she is. Because she got/ achieved a Franklin Award for Innovative Web Programming in 2010.
 
 ## Question 10
+
+Please tell me about her work experience in detail.
 
 In the summer of 2009, she worked as an intern for Mantel Games. From 2010 to 2012, she worked as Assistant Web Programmer for DKLM Incorporated. Since 2012, she has worked as Web programmer for the same company.
 
@@ -138,6 +142,8 @@ Choose ONE of the options and use specific reasons and examples to support your 
 >
 > ==> recommend
 
+Well. I think the most important quality for a customer service agent is being friendly. Because if the customer service agent is not friendly, the customer may not feel satisfied with their service and they will choose other store or other company. In my own experience, last month, I need to buy a new mobile phone. I choose a store near my house. However, the attitude of that store was not friendly. He didn't answer my questions. He was rude. So I went to the store next door and their attitude was totally different. Their agent there always smiled and willing to support me. Moreover, they answered all of my questions. So I am satisfied with that and recommend that store to my friends.
+
 > experience
 >
 > solve customer's complaints quickly
@@ -149,3 +155,5 @@ Choose ONE of the options and use specific reasons and examples to support your 
 > complain about the fault/ defect out of product
 >
 > apologized to customers, call technical department, offer 10% discount => customer satisfied => loyal customer
+
+I think the most important quality that a customer service agent should have is being highly experienced. Because with a lot of experience, the customer service agent can show the customer's complaint quickly. I will tell the story of my leader. She is a really experienced customer service agent because she has worked for many years in this field. I remembered one the customer complaining about the defect of the product. Because she faced the problem before, she could solve it immediately. First, she apologized to the customer. Then, she called the technical department to fix the mistake. And she also offered the 10% discount for the customer.

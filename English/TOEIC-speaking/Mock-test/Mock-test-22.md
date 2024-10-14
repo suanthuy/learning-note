@@ -10,6 +10,8 @@ This is Chuck Boykins from Channel 8 News with your nightly weather report. Tomo
 
 ![](./Images/mock-test-22-2.png)
 
+Ever wanted to get away from your everyday routine? Why not do so every Wednesday at seven PM from the comfort of your couch?
+
 ## Question 3
 
 ![](./Images/mock-test-22-3.png)
