@@ -26,10 +26,10 @@ Please feel free for downloading and using.
 |                       | Noun              |                                                                                                                                           |                   |
 | switch on/off         |                   |                                                                                                                                           |                   |
 |                       |                   |                                                                                                                                           |                   |
-| career                |                   |                                                                                                                                           |                   |
+| career                | /kəˈrɪr/          | the series of jobs that a person has in a particular area of work, usually involving more responsibility as time passes                   |                   |
 |                       |                   |                                                                                                                                           |                   |
-| resume                |                   |                                                                                                                                           |                   |
-|                       |                   |                                                                                                                                           |                   |
+| resume                | /ˈrezəmeɪ/        |                                                                                                                                           |                   |
+|                       | Noun              |                                                                                                                                           |                   |
 | employee              |                   |                                                                                                                                           |                   |
 |                       |                   |                                                                                                                                           |                   |
 | employer              |                   |                                                                                                                                           |                   |
