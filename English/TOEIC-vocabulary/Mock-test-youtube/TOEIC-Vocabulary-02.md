@@ -17,9 +17,9 @@ Please feel free for downloading and using.
 |                       |                   |                                                                                                                                           |                   |
 | please                | /pliːz/           | used as a polite way of asking for something or telling somebody to do something                                                          |                   |
 |                       | exclamation       | làm ơn                                                                                                                                    |                   |
-| shipping rate         |                   |                                                                                                                                           |                   |
+| shipping rate         | /ˈʃɪpɪŋ/ /reɪt/   |                                                                                                                                           |                   |
 |                       |                   |                                                                                                                                           |                   |
-| package tracking      |                   |                                                                                                                                           |                   |
+| package tracking      | /ˈpækɪdʒ/         |                                                                                                                                           |                   |
 |                       |                   |                                                                                                                                           |                   |
 | durable               | /ˈdʊrəbl/         | likely to last for a long time without breaking or getting weaker                                                                         |                   |
 |                       | Adj               |                                                                                                                                           |                   |
@@ -51,14 +51,14 @@ Please feel free for downloading and using.
 |                       | Adverb            |                                                                                                                                           |                   |
 | tune into = stay tune |                   |                                                                                                                                           |                   |
 |                       |                   |                                                                                                                                           |                   |
-| broadcast             |                   |                                                                                                                                           |
-|                       |                   |                                                                                                                                           |                   |
-| event                 |                   |                                                                                                                                           |                   |
-|                       |                   |                                                                                                                                           |                   |
-| dessert               |                   |                                                                                                                                           |                   |
-|                       |                   |                                                                                                                                           |                   |
-| brew                  |                   |                                                                                                                                           |                   |
-|                       |                   |                                                                                                                                           |                   |
+| broadcast             | /ˈbrɔːdkæst/      |                                                                                                                                           |
+|                       | Verb              |                                                                                                                                           |                   |
+| event                 | /ɪˈvent/          | a thing that happens, especially something important                                                                                      |                   |
+|                       | Noun              |                                                                                                                                           |                   |
+| dessert               | /dɪˈzɜːrt/        | ​sweet food eaten at the end of a meal                                                                                                     |                   |
+|                       | Noun              |                                                                                                                                           |                   |
+| brew                  | /bruː/            |                                                                                                                                           |                   |
+|                       | Verb              |                                                                                                                                           |                   |
 | exclusive             |                   |                                                                                                                                           |                   |
 |                       |                   |                                                                                                                                           |                   |
 | metropolitan          |                   |                                                                                                                                           |                   |
