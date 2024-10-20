@@ -22,7 +22,7 @@ Please feel free for downloading and using.
 |                       |                   |                                                                                                                                           |                   |
 | durable               | /ˈdʊrəbl/         | likely to last for a long time without breaking or getting weaker                                                                         |                   |
 |                       | Adj               |                                                                                                                                           |                   |
-| variety (of)          | /vəˈraɪəti/       |                                                                                                                                           |                   |
+| variety (of)          | /vəˈraɪəti/       | variety (of something) several different sorts of the same thing                                                                          |                   |
 |                       | Noun              |                                                                                                                                           |                   |
 | switch on/off         |                   |                                                                                                                                           |                   |
 |                       |                   |                                                                                                                                           |                   |
