@@ -6,7 +6,7 @@ Please feel free for downloading and using.
 
 | Word                           | IPA                 | Meaning                                                                                                                              | Original Sentence | My Sentence |
 | ------------------------------ | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------- | ----------- |
-| firm                           | /fɜːrm/             | a business or company                                                                                                                |                   |
+| firm                           | /fɜːrm/             | a business or company                                                                                                                |                   |             |
 |                                |                     | công ty                                                                                                                              |                   |
 | salmon                         | /ˈsæmən/            | a large fish that has silver skin and is pink inside and is used for food.                                                           |                   |
 |                                |                     | Salmon live in the sea but swim up rivers to lay their eggs                                                                          |                   |
