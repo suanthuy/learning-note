@@ -1,0 +1,22 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{bilingual}[2025/04/12 Custom Package]
+\RequirePackage{xcolor}
+\usepackage{tcolorbox}
+
+
+% Define a new environment
+
+
+\newenvironment{vietnamese-v1}
+{\begin{tcolorbox}[
+		colback=gray!20,
+		boxrule=0mm,
+		fontupper=\itshape
+]}
+{\end{tcolorbox}}
+
+\newenvironment{vietnamese-v2}
+{\itshape\color{blue}}
+{\newline}
+
+\endinput
