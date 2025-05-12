@@ -1,7 +1,11 @@
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesPackage{bilingual}[2025/04/12 Custom Package]
-\RequirePackage{xcolor}
 \usepackage{tcolorbox}
+\usepackage{xcolor}
+\usepackage{tabularx, makecell, linegoal}
+\usepackage{graphicx}
+\usepackage{calc}
+
 
 
 % Define a new environment
@@ -18,5 +22,52 @@
 \newenvironment{vietnamese-v2}
 {\itshape\color{blue}}
 {\newline}
+
+\newenvironment{note-v1}[1]
+{\par\smallskip\noindent\color{black} \itshape
+ \begin{quote}
+ 	\textbf{Note:}\rule{\dimexpr\textwidth-2\leftmargini}{1pt}#1
+}
+{\par\smallskip\rule{\dimexpr\textwidth-2\leftmargini}{1pt}\end{quote}}
+
+\newlength{\Lnote}
+\newenvironment{note-v2}[1]
+{%
+	\medskip\par\textbf{\small Note}
+	\quad\setlength{\extrarowheight}{2pt}
+	\begin{tabularx}{\linewidth}{X}
+		\Xhline{1pt}
+		\rowcolor{gray!20} #1
+}%
+{%
+	\\ % Ensure row ends correctly
+	\Xhline{1pt}
+	\end{tabularx}\par
+}
+
+\newenvironment{note-v3}[1]
+{%
+	\medskip\par\textbf{\small Note}
+	\quad
+	\begin{center}
+		\Xhline{1pt}
+		\rowcolor{gray!20} #1
+	}%
+	{%
+		\Xhline{1pt}
+	\end{center}\par
+}
+
+
+\newcommand{\mynote}[1]{%
+	\medskip\par
+	\textbf{\small Note}\quad
+	\setlength{\extrarowheight}{2pt}%
+	\begin{tabularx}{\linegoal}{X}
+		\Xhline{1pt}
+		\rowcolor{WhiteSmoke!80!Lavender}#1 \\
+		\Xhline{1pt}
+	\end{tabularx}%
+}
 
 \endinput
