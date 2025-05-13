@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.12)  11 MAY 2025 22:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.12)  13 MAY 2025 23:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -915,20 +915,50 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [10]
 
 [11]
+Overfull \hbox (4.54428pt too wide) in paragraph at lines 991--995
+\T5/cmr/m/n/10 their con-sumers by tap-ping into grow-ing anx-i-eties about the
+ en-vi-ron-ment. \TS1/cmr/m/n/10 n\T5/cmr/m/n/10 ...and
+ []
+
+
 
 [12]
 
 [13]
+Overfull \hbox (1.53015pt too wide) in paragraph at lines 1210--1214
+[]\T5/cmr/m/n/10 [reporter] Ama-zon em-ploy-ees will walk out over the com-pany
+'s cli-mate change
+ []
+
+
 
 [14]
 
 [15]
+Overfull \hbox (4.39056pt too wide) in paragraph at lines 1340--1343
+[]\T5/cmr/m/n/10 [pulsing, elec-tronic har-mony] [Sasha] Con-sump-tion will al-
+ways gen-er-ate waste.
+ []
+
+
 
 [16]
 
 [17]
+Overfull \hbox (1.97449pt too wide) in paragraph at lines 1480--1482
+[]\T5/cmr/m/n/10 That may be pro-vid-ing you and your fam-ily with an ul-ti-mat
+ely lovely lifestyle,
+ []
 
-[18] (./Buy Now - The shopping conspiracy.aux)
+
+
+[18]
+
+[19]
+
+[20]
+
+[21] (./Buy Now - The shopping conspiracy.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-03-26>
@@ -938,9 +968,9 @@ Package rerunfilecheck Info: File `"Buy Now - The shopping conspiracy".out' has
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 23444 strings out of 469626
- 453227 string characters out of 5471010
- 919200 words of memory out of 5000000
+ 23447 strings out of 469626
+ 453248 string characters out of 5471010
+ 818925 words of memory out of 5000000
  49854 multiletter control sequences out of 15000+600000
  636630 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -953,11 +983,11 @@ ist/fonts/type1/vntex/vnr/vnr6.pfb></usr/local/texlive/2025/texmf-dist/fonts/ty
 pe1/vntex/vnr/vnr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/vntex/vn
 r/vnr8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/vntex/vnr/vnti10.pfb
 >
-Output written on "Buy Now - The shopping conspiracy.pdf" (18 pages, 156595 byt
+Output written on "Buy Now - The shopping conspiracy.pdf" (21 pages, 157725 byt
 es).
 PDF statistics:
- 139 PDF objects out of 1000 (max. 8388607)
- 101 compressed objects within 2 object streams
- 22 named destinations out of 1000 (max. 500000)
+ 153 PDF objects out of 1000 (max. 8388607)
+ 112 compressed objects within 2 object streams
+ 25 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
