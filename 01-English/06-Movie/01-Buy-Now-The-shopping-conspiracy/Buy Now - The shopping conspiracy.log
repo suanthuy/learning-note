@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.12)  20 MAY 2025 22:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.12)  22 MAY 2025 23:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -943,13 +943,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [24]
 
 [25]
-Overfull \hbox (4.54428pt too wide) in paragraph at lines 1728--1732
+Overfull \hbox (4.54428pt too wide) in paragraph at lines 1742--1746
 \T5/cmr/m/n/10 their con-sumers by tap-ping into grow-ing anx-i-eties about the
  en-vi-ron-ment. \TS1/cmr/m/n/10 n\T5/cmr/m/n/10 ...and
  []
 
 
-Overfull \hbox (5.8897pt too wide) in paragraph at lines 1750--1753
+Overfull \hbox (5.8897pt too wide) in paragraph at lines 1764--1767
 []\T5/cmr/m/it/10 ["Vô ^^_i»u cõa n ng ti¶n mªn ^^_÷íng" trong vð The Nutcracke
 r cõa Tchaikovsky
  []
@@ -965,21 +965,21 @@ r cõa Tchaikovsky
 [29]
 
 [30]
-Overfull \hbox (1.53015pt too wide) in paragraph at lines 2151--2155
+
+[31]
+Overfull \hbox (1.53015pt too wide) in paragraph at lines 2165--2169
 []\T5/cmr/m/n/10 [reporter] Ama-zon em-ploy-ees will walk out over the com-pany
 's cli-mate change
  []
 
 
 
-[31]
-
 [32]
 
 [33]
 
 [34]
-Overfull \hbox (4.39056pt too wide) in paragraph at lines 2400--2403
+Overfull \hbox (4.39056pt too wide) in paragraph at lines 2414--2417
 []\T5/cmr/m/n/10 [pulsing, elec-tronic har-mony] [Sasha] Con-sump-tion will al-
 ways gen-er-ate waste.
  []
@@ -993,7 +993,7 @@ ways gen-er-ate waste.
 [37]
 
 [38]
-Overfull \hbox (1.97449pt too wide) in paragraph at lines 2676--2678
+Overfull \hbox (1.97449pt too wide) in paragraph at lines 2690--2692
 []\T5/cmr/m/n/10 That may be pro-vid-ing you and your fam-ily with an ul-ti-mat
 ely lovely lifestyle,
  []
@@ -1024,13 +1024,13 @@ Package rerunfilecheck Info: File `"Buy Now - The shopping conspiracy".out' has
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 23481 strings out of 469626
- 453523 string characters out of 5471010
+ 23482 strings out of 469626
+ 453535 string characters out of 5471010
  818925 words of memory out of 5000000
  49855 multiletter control sequences out of 15000+600000
  637007 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 131i,8n,135p,800b,483s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 131i,8n,135p,800b,481s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></
 usr/local/texlive/2025/texmf-dist/fonts/type1/vntex/vnr/vnbx12.pfb></usr/local/
@@ -1039,11 +1039,11 @@ texlive/2025/texmf-dist/fonts/type1/vntex/vnr/vnbx8.pfb></usr/local/texlive/202
 t/fonts/type1/vntex/vnr/vnr6.pfb></usr/local/texlive/2025/texmf-dist/fonts/type
 1/vntex/vnr/vnr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/vntex/vnr/
 vnr8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/vntex/vnr/vnti10.pfb>
-Output written on "Buy Now - The shopping conspiracy.pdf" (46 pages, 245744 byt
+Output written on "Buy Now - The shopping conspiracy.pdf" (46 pages, 249018 byt
 es).
 PDF statistics:
- 286 PDF objects out of 1000 (max. 8388607)
- 217 compressed objects within 3 object streams
- 57 named destinations out of 1000 (max. 500000)
+ 288 PDF objects out of 1000 (max. 8388607)
+ 219 compressed objects within 3 object streams
+ 58 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
