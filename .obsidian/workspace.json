@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-C++/01-Introduction-C++.md",
+                "file": "ReadME.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-Introduction-C++"
+              "title": "ReadME"
             }
           },
           {
@@ -181,25 +181,16 @@
   },
   "active": "02cb5a1e731c5848",
   "lastOpenFiles": [
-<<<<<<< HEAD
+    "01-English/00-ReadMe-English.md",
+    "08-Ubuntu-command-shell/Ubuntu-command-shell.md",
+    "03-C++/01-Introduction-C++.md",
     "README.md",
-=======
-    "01-English/01-IPA-pronunciation/01-Paul-Gruber/IPA with Paul Grubber.md",
->>>>>>> cdf77c9 (Update the .obsidian file)
     "Untitled.base",
     "ReadME.md",
     "03-C++/00-ReadMe-C++.md",
     "02-Machine-learning/ReadMe - Machine learning.md",
-    "01-English/00-ReadMe-English.md",
-<<<<<<< HEAD
-    "03-C++/01-Introduction-C++.md",
     "01-English/01-IPA-pronunciation/01-Paul-Gruber/IPA with Paul Grubber.md",
-=======
-    "README.md",
-    "03-C++/01-Introduction-C++.md",
->>>>>>> cdf77c9 (Update the .obsidian file)
     "01-English/02-TOEIC-speaking/02-Mock-test/Mock-test-3.md",
-    "08-Ubuntu-command-shell/Ubuntu-command-shell.md",
     "03-C++/Books/A Tour of C++ (2nd Edition) (C++ In-Depth Series).pdf",
     "01-English/03-600-essential-words-for-the-TOEIC-test-Barrons/01.md",
     "01-English/02-TOEIC-speaking/02-Mock-test/Mock-test-26.pdf",
