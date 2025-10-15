@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "1a5a8e5584a2e143",
+    "type": "split",
+    "children": [
+      {
+        "id": "1488f4dda307a6bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02cb5a1e731c5848",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-C++/01-Introduction-C++.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-Introduction-C++"
+            }
+          },
+          {
+            "id": "982bf880e01e2f07",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc98422c7d66fb0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b5993747cc420eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "159ed3ade035ef33",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0773aebda62242d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "78615a5537ee7394",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0b95dc5cd5c1eb81",
+    "type": "split",
+    "children": [
+      {
+        "id": "1edd7f6df7e7b1a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "093228aec9bb1be2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01-English/00-ReadMe - English.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 00-ReadMe - English"
+            }
+          },
+          {
+            "id": "b564fec3f6ef092f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01-English/00-ReadMe - English.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 00-ReadMe - English"
+            }
+          },
+          {
+            "id": "5abfe26e96859427",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "099940e6a43c6709",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01-English/00-ReadMe - English.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 00-ReadMe - English"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "02cb5a1e731c5848",
+  "lastOpenFiles": [
+    "README.md",
+    "Untitled.base",
+    "ReadME.md",
+    "03-C++/00-ReadMe-C++.md",
+    "02-Machine-learning/ReadMe - Machine learning.md",
+    "01-English/00-ReadMe-English.md",
+    "03-C++/01-Introduction-C++.md",
+    "01-English/01-IPA-pronunciation/01-Paul-Gruber/IPA with Paul Grubber.md",
+    "01-English/02-TOEIC-speaking/02-Mock-test/Mock-test-3.md",
+    "08-Ubuntu-command-shell/Ubuntu-command-shell.md",
+    "03-C++/Books/A Tour of C++ (2nd Edition) (C++ In-Depth Series).pdf",
+    "01-English/03-600-essential-words-for-the-TOEIC-test-Barrons/01.md",
+    "01-English/02-TOEIC-speaking/02-Mock-test/Mock-test-26.pdf",
+    "01-English/02-TOEIC-speaking/02-Mock-test/Mock-test-1.md",
+    "01-English/01-IPA-pronunciation/01-Paul-Gruber/Lesson 01 - Voicing, S and Z.md",
+    "01-English/01-IPA-pronunciation/01-Paul-Gruber/Lesson 02 - TH and T.md",
+    "01-English/01-IPA-pronunciation/01-Paul-Gruber/Lesson 05 - Word Ending.md",
+    "01-English/01-IPA-pronunciation/01-Paul-Gruber/Lesson 04 - L sound.md",
+    "01-English/01-IPA-pronunciation/01-Paul-Gruber/Lesson 03 - F and V, SH and voiced SH.md",
+    "02-Machine-learning/Supervised-machine-learning-regression-and-classification/Week1-Introduction-to-machine-learning.md",
+    "01-English/01-IPA-pronunciation/01-Paul-Gruber/Lesson 15b - Challenge.md"
+  ]
+}

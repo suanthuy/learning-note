@@ -1,3 +1,4 @@
+#Lesson-05-Word-ending 
 ## Word Endings
 Need to pronoun the sound ending of the word. Do not clip off the ending of word, specially B, D, P, T.
 
