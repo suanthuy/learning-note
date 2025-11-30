@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReadME.md",
+                "file": "16-Git/00-ReadMe-Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ReadME"
+              "title": "00-ReadMe-Git"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "0a1a897bb54677c6",
   "lastOpenFiles": [
-    "02-Machine-learning/00-ReadMe-Machine learning.md",
     "ReadME.md",
+    "02-Machine-learning/00-ReadMe-Machine learning.md",
     "().md",
     "\"02-Machine-learning/00-ReadMe-Machine.md",
     "\"02-Machine-learning",
