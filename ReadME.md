@@ -1,11 +1,11 @@
 #ReadMe
 This is a note for everything that I am learning. I keep writing and update everyday. 
 Below, I will list all the general content.
-- English: [[00-ReadMe-English]]
-- Machine Learning: [[00-ReadMe-Machine learning]]
-- C++: [[00-ReadMe-C++]]
-- Python: [[00-ReadMe-Python]]
-- Java: [[00-ReadMe-Java]]
+- English: [00-ReadMe-English](00-ReadMe-English)
+- Machine Learning: [00-ReadMe-Machine learning](00-ReadMe-Machine learning)
+- C++: [00-ReadMe-C++](00-ReadMe-C++)
+- Python: [00-ReadMe-Python]
+- Java: [00-ReadMe-Java]
 - JavaScript: [[00-ReadMe-JavaScript]]
 - R: [[00-ReadMe-R]]
 - Ubuntu command shell: [[00-ReadMe-Ubuntu command shell]]

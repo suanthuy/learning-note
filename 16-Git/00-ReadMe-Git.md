@@ -23,4 +23,7 @@ The basic Git workflow goes something like this:
 
 ## First-time Git setup
 
+Git comes with a tool called `git config` that lets you get and set configuration variables that control all aspects of how Git looks and operates.
+
+
 
