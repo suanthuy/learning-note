@@ -13,4 +13,4 @@ Github and GitLab is a server that allow you to upload and download the source c
 Git has three main states that your files can reside in: modified, staged and committed.
 
     - Modified means that you have changed the file but have not committed it to your database yet.
-
+    - Staged means 

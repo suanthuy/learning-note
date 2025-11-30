@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "93ddcc4a4c96e855",
+        "id": "444e64c06270ce5b",
         "type": "tabs",
         "children": [
           {
-            "id": "43cd8151d1eb8ff9",
+            "id": "bb621a7945228f76",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "16-Git/00-ReadMe-Git.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "00-ReadMe-Git"
+            }
+          },
+          {
+            "id": "e0f53a82e919db8d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "16-Git/progit.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "progit"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,8 +182,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43cd8151d1eb8ff9",
+  "active": "e0f53a82e919db8d",
   "lastOpenFiles": [
+    "16-Git/progit.pdf",
+    "16-Git/00-ReadMe-Git.md",
+    "Untitled.base",
     "ReadME.md",
     "13-Vim/00-ReadMe-Vim.md",
     "14-C#/00-ReadMe-CSharp.md",
@@ -178,16 +195,13 @@
     "09-Leetcode/00-ReadMe-Leetcode.md",
     "10-Linear-Algebra/00-ReadMe-Linear Algebra.md",
     "08-Ubuntu-command-shell/00-ReadMe-Ubuntu command shell.md",
-    "16-Git/00-ReadMe-Git.md",
     "07-R/00-ReadMe-R.md",
     "02-Machine-learning/00-ReadMe-Machine learning.md",
     "06-Javascript/00-ReadMe-JavaScript.md",
     "05-Java/00-ReadMe-Java.md",
     "04-Python/00-ReadMe-Python.md",
     "01-English/00-ReadMe-English.md",
-    "16-Git/progit.pdf",
     "01-English/01-IPA-pronunciation/01-Paul-Gruber/IPA with Paul Grubber.md",
-    "Untitled.base",
     "03-C++/00-ReadMe-C++.md",
     "README.md",
     "03-C++/01-Introduction-C++.md",
@@ -198,7 +212,6 @@
     "01-English/02-TOEIC-speaking/02-Mock-test/Mock-test-1.md",
     "01-English/01-IPA-pronunciation/01-Paul-Gruber/Lesson 01 - Voicing, S and Z.md",
     "01-English/01-IPA-pronunciation/01-Paul-Gruber/Lesson 02 - TH and T.md",
-    "01-English/01-IPA-pronunciation/01-Paul-Gruber/Lesson 05 - Word Ending.md",
-    "01-English/01-IPA-pronunciation/01-Paul-Gruber/Lesson 04 - L sound.md"
+    "01-English/01-IPA-pronunciation/01-Paul-Gruber/Lesson 05 - Word Ending.md"
   ]
 }
