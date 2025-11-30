@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "444e64c06270ce5b",
+        "id": "f2cfa5757cb30963",
         "type": "tabs",
         "children": [
           {
-            "id": "bb621a7945228f76",
+            "id": "0a1a897bb54677c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,16 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "ReadME"
-            }
-          },
-          {
-            "id": "f5ac8c0e85c5eee7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -179,12 +169,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb621a7945228f76",
+  "active": "0a1a897bb54677c6",
   "lastOpenFiles": [
     "02-Machine-learning/00-ReadMe-Machine learning.md",
     "ReadME.md",
-    "01-English/00-ReadMe-English.md",
     "().md",
+    "\"02-Machine-learning/00-ReadMe-Machine.md",
+    "\"02-Machine-learning",
+    "02-Machine-learning/00-ReadMe-Machine.md",
+    "01-English/00-ReadMe-English.md",
     "16-Git/00-ReadMe-Git.md",
     "16-Git/progit.pdf",
     "16-Git/00-ReadMe-Git.md~",
@@ -209,8 +202,6 @@
     "01-English/03-600-essential-words-for-the-TOEIC-test-Barrons/01.md",
     "01-English/02-TOEIC-speaking/02-Mock-test/Mock-test-26.pdf",
     "01-English/02-TOEIC-speaking/02-Mock-test/Mock-test-1.md",
-    "01-English/01-IPA-pronunciation/01-Paul-Gruber/Lesson 01 - Voicing, S and Z.md",
-    "01-English/01-IPA-pronunciation/01-Paul-Gruber/Lesson 02 - TH and T.md",
-    "01-English/01-IPA-pronunciation/01-Paul-Gruber/Lesson 05 - Word Ending.md"
+    "01-English/01-IPA-pronunciation/01-Paul-Gruber/Lesson 01 - Voicing, S and Z.md"
   ]
 }
