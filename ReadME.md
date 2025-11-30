@@ -1,9 +1,9 @@
 #ReadMe
 This is a note for everything that I am learning. I keep writing and update everyday. 
 Below, I will list all the general content.
-- English: [00-ReadMe-English](00-ReadMe-English)
-- Machine Learning: [00-ReadMe-Machine learning](00-ReadMe-Machine learning)
-- C++: [00-ReadMe-C++](00-ReadMe-C++)
+- English: [00-ReadMe-English](01-English/00-ReadMe-English.md)
+- Machine Learning: [00-ReadMe-Machine learning](02-Machine-learning/00-ReadMe-Machine learning.md)
+- C++: [00-ReadMe-C++](03-C++/00-ReadMe-C++.md)
 - Python: [00-ReadMe-Python]
 - Java: [00-ReadMe-Java]
 - JavaScript: [[00-ReadMe-JavaScript]]
