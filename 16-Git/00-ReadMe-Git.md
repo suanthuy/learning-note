@@ -34,7 +34,7 @@ You can view all of your settings and where they are coming from using:
 
 	git config --list --show-origin
 
-## Your Identity
+### Your Identity
 
 The first thing you should do when you install Git is to set your user name and email address. This is important because every Git commit uses this information, and it's immutably baked into the commits you start creating:
 
@@ -43,13 +43,44 @@ The first thing you should do when you install Git is to set your user name and 
 
 Again, you need to do only once if you pass the `--global` option, because then Git always use that information for your user on that system.
 
-## Your default branch name
+### Your default branch name
 
 By default, Git will create a branch called `master` when you create a new repository with `git init`.
 
 To set `main` as the default branch name:
 
 	git config --global init.defaultBranch main
+
+### Checking your settings
+
+If you want to check your configuration settings, you can use the `git config --list` command to list all the settings Git can find at that point.
+
+## Git Basic
+
+### Initializing a Repository in an Existing Directory
+
+First, you need to go to that project's directory. Then, type `git init`.
+This creates a new subdirectory named `.git` that contains all of your necessary repository files - a Git repository skeleton.
+### Cloning a Git Repository
+
+If you want to get a copy of an existing Git repository - for example, a project you'd like to contribute to - the command you need is `git clone`. 
+If you are familiar with other VCSs such as Subversion, you'll notice that the command is "clone" and not "checkout". This is an important distinction - instead of getting just a working copy, Git receives a full copy of nearly all data that the server has.
+Every version of every file for the history of the project is pulled down by default when you run `git clone`.
+
+You clone a repository with `git clone <url>`. For example, if you want to clone the Git linkable library called `libgit2`, you can do this:
+
+	git clone https://github.com/libgit2/libgit2
+
+That creates a directory named `libgit2`, initializes a `.git` directory inside it, pulls down all the data for that repository, and checks out a working copy of the latest version.
+
+If you want to clone the repository into a directory named something other than `libgit2`, you can specify the new directory name as an additional argument:
+
+	git clone https://github.com/libgit2/libgit2 mylibgit
+
+That command does the same thing as the previous one, but the target directory is called `mylibgit`.
+### Recording Changes to the Repository
+
+
 
 
 
