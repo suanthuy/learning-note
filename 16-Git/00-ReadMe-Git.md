@@ -32,14 +32,18 @@ These variables can stored in three different places:
 
 You can view all of your settings and where they are coming from using:
 
-	git config --list --show-origin
+```
+git config --list --show-origin
+```
 
 ### Your Identity
 
 The first thing you should do when you install Git is to set your user name and email address. This is important because every Git commit uses this information, and it's immutably baked into the commits you start creating:
 
-	git config --global user.name "suanthuy"
-	git config --global user.email suanthuy12@gmail.com
+```
+git config --global user.name "suanthuy"
+git config --global user.email suanthuy12@gmail.com
+```
 
 Again, you need to do only once if you pass the `--global` option, because then Git always use that information for your user on that system.
 
@@ -49,7 +53,9 @@ By default, Git will create a branch called `master` when you create a new repos
 
 To set `main` as the default branch name:
 
-	git config --global init.defaultBranch main
+```
+git config --global init.defaultBranch main
+```
 
 ### Checking your settings
 
@@ -69,18 +75,61 @@ Every version of every file for the history of the project is pulled down by def
 
 You clone a repository with `git clone <url>`. For example, if you want to clone the Git linkable library called `libgit2`, you can do this:
 
-	git clone https://github.com/libgit2/libgit2
+```
+git clone https://github.com/libgit2/libgit2
+```
 
 That creates a directory named `libgit2`, initializes a `.git` directory inside it, pulls down all the data for that repository, and checks out a working copy of the latest version.
 
 If you want to clone the repository into a directory named something other than `libgit2`, you can specify the new directory name as an additional argument:
 
-	git clone https://github.com/libgit2/libgit2 mylibgit
+```
+git clone https://github.com/libgit2/libgit2 mylibgit
+```
 
 That command does the same thing as the previous one, but the target directory is called `mylibgit`.
 ### Recording Changes to the Repository
 
+Remember that each file in your working directory can be in one of two states: *tracked or untracked*. Tracked files are files that were in the last snapshot, as well as any newly staged files. 
 
+Untracked files are everything else - any files in your working directory that were not in your last snapshot and are not in your staging area. 
+When you first clone a repository, all of your files will be *tracked and unmodified* because Git just checked them out and you haven't edited anything.
+
+As you edit files, Git sees them as modified, because you've changed them since your last commit. As you work, you selectively stage these modified files and then commit all those staged changes, and the cycle repeats.
+
+```mermaid
+
+```
+
+### Checking the Status of Your Files
+
+The main tool you use to determine which files are in which state is the `git status` command.
+
+```
+git status
+```
+
+### Tracking New Files
+
+In order to begin tracking a new file, you use the command `git add`. To begin tracking the `README` file, you can run this:
+
+```
+git add README
+```
+
+If you run your status command again, you can see that your `README` file is now tracked and staged to be committed.
+
+### Staging Modified Files
+
+If you change a previously tracked file called `CONTRIBUTING.md` and then run your `git status` command again, you will receive the announcement from modified file.
+
+The `CONTRIBUTING.md` file appears under a section named "Changes not staged for commit" - which means that a file that is tracked has been modified in the working directory but not yet staged.
+
+To stage it, you run the `git add` command, `git add` is a multipurpose command - you use it to begin tracking new files, to stage files, and to do other things like marking merge-conflicted files as resolved.
+
+Both files are staged and will go into your next commit. At this point, suppose you remember one little change that you want to make in `CONTRIBUTING.md` before you commit it. You open it again and make that change, and you're ready to commit. 
+
+Now `CONTRIBUTTING.md` is listed as both staged and unstaged. It turns out that Git stages a file exactly as it is when you run the `git add` command. 
 
 
 
