@@ -129,7 +129,43 @@ To stage it, you run the `git add` command, `git add` is a multipurpose command 
 
 Both files are staged and will go into your next commit. At this point, suppose you remember one little change that you want to make in `CONTRIBUTING.md` before you commit it. You open it again and make that change, and you're ready to commit. 
 
-Now `CONTRIBUTTING.md` is listed as both staged and unstaged. It turns out that Git stages a file exactly as it is when you run the `git add` command. 
+Now `CONTRIBUTTING.md` is listed as both staged and unstaged. It turns out that Git stages a file exactly as it is when you run the `git add` command. If you commit now, the version of `CONTRIBUTTING.md` as it was when you last ran the `git add` command is how it will go into the commit, not the version of the file as it looks in your working directory when you run `git commit`.
+
+If you modify a file after you run `git add`, you have to run `git add` again to stage the latest version of the file.
+
+### Short Status
+
+While the `git status` output is pretty comprehensive, it's also quite wordy. If you run `git status -s` or `git status --short` you get a far more simplified output from the command.
+
+```
+git status -s
+```
+
+New files that aren't tracked have a `??` next to them, new files that have been added to the staging area have a `A`, modified files have an `M` and so on.
+
+### Ignoring Files
+
+Often, you'll have a class of files that you don't want Git to automatically add or even show you as being untracked.
+
+In such cases, you can create a file listing patterns to match them named `.gitignore`. Here is an example `.gitignore` file:
+
+```
+$ cat .gitignore
+*.[oa]
+*~
+```
+
+The first line tells Git to ignore any files ending in ".o" or ".a" - object and archive files that may be the product of building your code. The second line tells Git to ignore all files whose names end with a tilde (~), which is used by many text editors such as Emacs to mark temporary files.
+
+The rules for the patterns you can put in the `.gitignore` file are as follows:
+
+- Blank lines or lines starting with # are ignored.
+- Standard glob patterns work, and will be applied recursively throughout the entire working tree.
+- You can start patterns with a forward slash (/) to avoid recursivity.
+- You can end patterns with a forward slash (/) to specify a directory.
+- You can negate a pattern by starting it with an exclamation point (!).
+
+
 
 
 
