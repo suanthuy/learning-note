@@ -165,6 +165,182 @@ The rules for the patterns you can put in the `.gitignore` file are as follows:
 - You can end patterns with a forward slash (/) to specify a directory.
 - You can negate a pattern by starting it with an exclamation point (!).
 
+### Viewing Your Staged and Unstaged Changes
+
+If the `git status` command is too vague for you - you want to know exactly what you changed, not just which files were changed - you can use the `git diff` command.
+
+To see what you've changed but not yet staged, type `git diff` with no other arguments:
+
+```
+git diff
+```
+
+If you want to see what you've staged that will go into your next commit, you can use `git diff --staged`. This command compares your staged changes to your last commit:
+
+```
+git diff --staged
+```
+
+It's important to note that `git diff` by itself doesn't show all changes made since your last commit - only changes that are still unstaged. If you've staged all of your changes, `git diff` will give you no output.
+
+
+### Committing Your Changes
+
+Now that your staging area is set up the way you want it, you can commit your changes.
+
+```
+git commit
+```
+
+You can see that the default commit message contains the latest output of the `git status` command commented out and one empty line on top.
+
+Alternatively, you can type your commit message inline with the `commit` command by specifying it after a `-m` flag.
+
+### Skipping the Staging Area
+
+Adding the `-a` option to the `git commit` command makes Git automatically stage every file that is already tracked before doing the commit, letting you skip the `git add` part. 
+
+### Removing files
+
+To remove a file from Git, you have to remove it from your tracked files (more accurately, remove it from your staging area) and them commit. The `git rm` command does that, and also removes the file from your working directory so you don't see is as an untracked file the next time around.
+
+If you simply remove the file from your working directory, it shows up under the "Changes not staged for commit" (that is *unstaged*).
+
+If you run `git rm`, it stages the file's removal.
+
+Another useful thing you may want to do is keep the file in your working tree but remove it from your staging area. In other words, you may want to keep the file on your hard drive but not have Git track it anymore.
+
+This is particularly useful if you forgot to add something to your `.gitignore` file and accidentally staged it.
+
+```
+git rm --cached README
+```
+
+You can pass files, directories, and file-glob patterns to the `git rm` command. That means you can do things such as:
+
+```
+git rm log/\*.log
+```
+
+Note the backslash (\) in front of the \*. This is necessary because Git does its own filename expansion in addition to your shell's filename expansion. This command removes all files that have the `.log` extension in the `log/` directory. Or, you can do something like this:
+
+```
+git rm \*~
+```
+
+This command removes all files whose names end with a `~`.
+
+### Moving Files
+
+Unlike many other VCSs, Git doesn't explicitly track file movement.
+
+Git has a `mv` command.
+
+```
+git mv file_from file_to
+```
+
+In fact, if you run something like this and look at the status, you'll see that Git considers it a renamed file.
+
+However, this is equivalent to running something like this:
+
+```
+mv README.md README
+git rm README.md
+git add README
+```
+
+Git figures out that it's a rename implicitly, so it doesn't matter if you rename a file that way or with the `mv` command. The only read different is that `git mv` is one command instead of three - it's a convenience function.
+
+### Viewing the Commit History
+
+You'll probably want to look back to see what has happened. The most basic and powerful tool to do this is the `git log` command.
+
+```
+git log
+```
+
+By default, with no agruments, `git log` lists the commits made in that repository in reverse chronological order, that is, the most recent commits show up first.
+
+One of the more helpful options is -p or --patch, which shows the difference (the patch output) introduced in each commit. You can also limit the number of log entries displayed, such as using `-2` to show only the last two entries.
+
+```
+git log -p -2
+```
+
+If you want to see some abbreviated stats for each commit, you can use the `--stat` option.
+
+```
+git log --stat
+```
+
+As you can see, the `--stat` option prints below each commit entry a list of modified files, how many files were changed, and how many lines in those files were added and removed.
+
+Another really useful option is `--pretty`. This option changes the log output to formats other than default. A few prebuilt option values are available for you to use: `oneline, short, full, fuller`.
+
+```
+git log --pretty=oneline
+```
+
+The most interesting option value is `format`, which allows you to specify your own log output format.
+
+```
+git log --pretty=format:"%h - %an, %ar : %s"
+```
+
+The `oneline` and `format` option values are particularly useful with another `log` option called `--graph`. This option adds a nice little ASCII graph showing your branch and merge history.
+
+
+### Limiting Log Output
+
+In addition to output-formatting options, `git log` takes a number of useful limiting options. You've seen one such option already - the `-2` option, which displays only the last two commits. 
+
+However, the time-limiting options such as `--since` and `--until` are very useful.
+
+```
+git log --since=2.weeks
+```
+
+### Undoing Things
+
+At any stage, you may want to undo something. Here, we'll review a few basic tools for undoing changes that you've made. Be careful, because you can't always undo some of these undos.
+
+If you want to redo that commit, make the additional changes you forgot, stage them, and commit again using the `--amend` option.
+
+```
+git commit --amend
+```
+
+This command takes your staging area and uses it for the commit. If you've made no changes since your last commit (for instance, you run this command immediately after your previous commit), then your snapshot will look exactly the same, and all you'll change is your commit message.
+
+### Unstaging a Staged File
+
+The next two sections demonstrate how to work with your staging area and working directory changes.
+
+Right below the "Changes to be committed" text, it says use `git reset HEAD <file>` to unstage.
+
+### Unmodifying a Modified File
+
+What if you realize that you don't want to keep your changes to the `CONTRIBUTTING.md` file? How can you easily unmodify it - revert it back to what it looked like when you last committed?
+
+```
+git checkout -- CONTRIBUTTING.md
+```
+
+It's important to understand that `git checkout -- <file>` is a dangerous command. Any local changes you made to that file are gone - Git just replaced that file with the last staged or committed version.
+
+Remember, anything that is committed in Git can almost always be recovered. Even commits that were on branches that were deleted or commits that were overwritten with an `--amend` commit can be recovered.
+
+### Undoing things with git restore
+
+Git version 2.23.0 introduced a new command: `git restore`. It's basically an alternative to `git reset` which we just covered.
+
+Let's retrace our step, and undo things with `git restore` instead of `git reset`.
+
+#### Unstaging a Staged File with git restore
+
+
+
 
 
 
