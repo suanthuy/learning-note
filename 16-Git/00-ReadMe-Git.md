@@ -339,6 +339,61 @@ Let's retrace our step, and undo things with `git restore` instead of `git reset
 
 #### Unstaging a Staged File with git restore
 
+Right below the "Changes to be committed" text, it says use `git restore --staged <file>` to unstage. So, let's use that advice to unstage the `CONTRIBUTTING.md` file.
+
+```
+git restore --staged CONTRIBUTTING.md
+```
+
+#### Unmodifying a Modified File with git restore
+
+How can you easily unmodify it - revert it back to what it looked like when you last committed? Luckily, `git status` tells you how to do that, too.
+
+It tells you pretty explicitly how to discard the changes you've made. Let's do what it says.
+
+```
+git restore CONTRIBUTTING.md
+```
+
+It's important to understand that `git restore <file>` is a dangerous command. Any local changes you made to that file are gone - Git just replaced that file with the last staged or committed version. Don't ever use this command unless you absolutely know that you don't want those unsaved local changes.
+
+### Working with Remotes
+
+To be able to collaborate on any Git project, you need to know how to manage your remote repositories.
+
+#### Showing Your Remotes
+
+To see which remote servers you have configured, you can run the `git remote` command. It lists the shortnames of each remote handle you've specified. If you've cloned your repository, you should at least see `origin` - that is the default name Git gives to the server you cloned from.
+
+```
+git remote
+```
+
+You can also specify `-v`, which shows you the URLs that Git has stored for the shortname to be used when reading and writing to that remote.
+
+```
+git remote -v
+```
+
+If you have more than one remote, the command lists them all.
+
+#### Adding Remote Repositories
+
+We've mentioned and given some demonstrations of how the `git clone` command implicitly adds the `origin` remote for you. To add a new remote Git repository as a shortname you can reference easily, run `git remote add <shortname> <url>`.
+
+```
+git remote add pd http://github.com/paulboone/ticgit
+git remote -v
+```
+
+#### Fetching and Pulling from Your Remotes
+
+As you just saw, to get data from your remote projects, you can run:
+
+```
+git fetch <remote>
+```
+
 
 
 
