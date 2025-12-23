@@ -394,6 +394,102 @@ As you just saw, to get data from your remote projects, you can run:
 git fetch <remote>
 ```
 
+The command goes out to that remote project and pulls down all the data from that remote project that you don't have yet. After you do this, you should have references to all the branches from that remote, which you can merge in or inspect at any time.
+
+If you clone a repository, the command automatically adds that remote repository under the name "origin". So, `git fetch origin` fetches any new work that has been pushed to that server since you cloned (or last fetched from) it. 
+
+It's important to note that the `git fetch` command only downloads the data to your local repository - it doesn't automatically merge it with any of your work or modify what you're currently working on. You have to merge it manually into your work when you're ready.
+
+If your current branch is set up to trach a remote branch, you can use the `git pull` command to automatically fetch and then merge that remote branch into your current branch. This may be an easier or more comfortable workflow for you; and by default, the `git clone` command automatically sets up your local `master` branch to track the remote `master` branch on the server you cloned from. Running `git pull` generally fetches data from the server you originally cloned from and automatically tries to merge it into the code you're currently working on.
+
+#### Pushing to Your Remotes
+
+When you have your project at a point that you want to share, you have to push it upstream.
+
+```
+git push <remote> <branch>
+```
+
+
+#### Inspecting a Remote
+
+If you want to see more informatNATTYNATTion about a particular remote, you can use the `git remote show <remote>` command. If you run this command with a particular shortname, such as `origin`, you get something like this:
+
+```
+git remote shoe origin
+```
+
+This command shows which branch is automatically pushed to when you run `git push` while on certain branches.
+
+#### Renaming and Removing Remotes
+
+You can run `git remote rename` to change a remote's shortname. For instance, if you want to rename *pd* to *paul*, you can do so with `git remote rename`:
+
+```
+git remote rename pd paul
+```
+
+### Tagging
+
+#### Listing Your Tags
+
+Listing the existing tags in Git in straightforward. Just type `git tag` (with optional `-l` or `--list`):
+
+```
+git tag
+```
+
+You can also search for tags that match a particular pattern. The Git source repo, for instance, contains more than 500 tags. If you're interested only in looking at the 1.8.5 series, you can run this:
+
+```
+git tag -l "v1.8.5*"
+```
+
+#### Creating Tags
+
+Git supports two types of tags: *lightweight* and *annotated*.
+
+A *lightweight* tag is very much like a branch that doesn't change - it's just a pointer to specific commit.
+
+Annotated tags, however, are stored as full objects in the Git database. They've checksummed; contain the tagger name, email, and date.
+
+It's generally recommended that you create annotated tags so you can have all this information; but if you want a temporary tag or for some reason don't want to keep the other information, lightweight tags are avaiable too.
+
+##### Annotated Tags
+
+Creating an annotated tag in Git is simple. The easiest way is to specify `-a` when you run the `tag` command:
+
+```
+git tag -a v1.4 -m "my version 1.4"
+git tag
+```
+
+The `-m` specifies a tagging message, which is stored with the tag.
+
+You can see the tag data along with the commit that was tagged by using the `git show` command:
+
+```
+git show v1.4
+```
+
+##### Lightweight Tags
+
+Another way to tag commits is with a lightweight tag. This is basically the commit checksum stored in a file - no other information is kept. To create a lightweight tag, don't supply any of the `-a`, `-s`, or `-m` options, just provide a tag name.
+
+```
+git tag v1.4-lw
+git tag
+```
+
+This time, if you run `git show` on the tag, you don't see the extra tag information. The command just shows the commit.
+
+
+
+
+
+
+
+
 
 
 
