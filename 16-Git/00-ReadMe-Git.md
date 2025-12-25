@@ -483,16 +483,144 @@ git tag
 
 This time, if you run `git show` on the tag, you don't see the extra tag information. The command just shows the commit.
 
+#### Tagging Later
+
+Now, suppose you forgot to tag the project at v1.2, which was at the "Update rakefile" commit. You can add it after the fact. To tag that commit, you specify the commit checksum at the end of the command:
+
+```
+git tag -a v1.2 9fceb02
+```
 
 
+#### Sharing Tags
 
+By default, the `git push` command doesn't transfer tags to remote servers. You will have to explicitly push tags to a shared server after you have created them. 
 
+This process is just like sharing remote braches.
 
+```
+git push origin <tagname>
+```
 
+If you have a lot of tags that you want to push up at once, you can also use the `--tags` option to the `git push` command.
 
+`git push <remote> --tags` will push both `lightweight` and `annotated` tags. There is currently no option to push only lightweight tags, but if you use `git push <remote> --follow-tags` only annotated tags will be pushed to the remote.
 
+#### Deleting Tags
 
+To delete a tag on your local repository, you can use `git tag -d <tagname>`.
 
+```
+git tag -d v1.4-lw
+```
+
+The first variation is `git push <remote> :refs/tags/<tagname>`:
+
+The way to interpret the above is to read it as the null value before the colon is being pushed to the remote tag name, effectively deleting it.
+
+The second (and more intuitive) way to delete a remote tag is with:
+
+```
+git push origin --delete <tagname>
+```
+
+#### Checking out Tags
+
+If you want to view the version of files a tag is pointing to, you can do a `git checkout` of that tag, although this puts your repository in "detached HEAD" state, which has some ill side effects.
+
+```
+git checkout v2.0.0
+```
+
+In "detached HEAD" state, if you make changes and then create a commit, the tag will stay the same, but your new commit won't belong to any branch and will be unreachable, except by the exact commit hash. Thus, if you need to make changes - say you're fixing a bug on an older version, for instance - you will generally want to create a branch.
+
+```
+git checkout -b version2 v2.0.0
+```
+
+If you do this and make a commit, your `version2` branch will be slightly different than your `v2.0.0` tag since it will move forward with your new changes, so do be careful.
+
+### Git Aliases
+
+If you don't want to type the entire text of each of the Git commands, you can easily set up an alias for each command using `git config`.
+
+```
+git config --global alias.so checkout
+git config --global alias.br branch
+git config --global alias.ci commit
+git config --global alias.st status
+```
+
+This means that, for example, instead of typing `git commit`, you just need to type `git ci`.
+
+```
+git unstage fileA
+git reset HEAD -- fileA
+```
+
+```
+git config --global alias.last 'log -1 HEAD'
+```
+
+As you can tell, Git simply replaces the new command with whatever you alias it for. However, maybe you want to run an external command, rather than a Git subcommand. In that case, you start the command with a `!` character. This is useful if you write your own tools that work with a Git repository. We can demonstrate by aliasing `git visual` to run `gitk`:
+
+```
+git config --global alias.visual '!gitk'
+```
+
+## Git Branching
+
+Unlike many other VCSs, Git encourages workflows that branch and merge often, even multiple times in a day. Understanding and mastering this feature gives you a powerful and unique tool and can entirely change the way that you develop.
+
+### Branches in a Nutshell
+
+To really understand the way Git does branching, we need to take a step back and examine how Git stores its data.
+
+Git doesn't store data as a series of changesets or differences, but instead as a series of *snapshots*.
+
+When you make a commit, Git stores a commit object that contains a pointer to the snapshot of the content you staged. This object also contains the author's name and email address, the message that you typed, and pointers to the commit or commits that directly came before this commit: zero parents for the initial commit, one parent for a normal commit, and multiple parents for a commit that results from a merge of two or more branches.
+
+A branch in Git is simply a lightweight movable pointer to one of these commits. Every time you commit, the `master` branch pointer moves forward automatically.
+
+#### Creating a New Branch
+
+What happens when you create a new branch? Well, doing so creates a new pointer for you to move around.
+
+```
+git branch testing
+```
+
+This creates a new pointer to the same commit you're currently on.
+
+How does Git know what branch you're currently on? It keeps a special pointer called `HEAD`. Note that this is a lot different than the concept of `HEAD` in other VCSs you may be used to. In Git, this is a pointer to the local branch you're currently on.
+
+You can easily see this by running a simple `git log` command that shows you where the branch pointers are pointing. This option is called `--decorate`.
+
+```
+git log --oneline --decorate
+```
+
+#### Switching Branches
+
+To switch to an existing branch, you run the `git checkout` command. Let's switch to the new `testing` branch:
+
+```
+git checkout testing
+```
+
+This moves `HEAD` to point to the `testing` branch.
+
+Now, let's do another commit. This is interesting, because now your `testing` branch has moved forward, but your `master` branch still points to the commit you were on when you ran `git checkout` to switch branch.
+
+Let's switch back to the master branch:
+
+```
+git checkout master
+```
+
+`git log` doesn't show all the branches all the time.
+
+If you were to run `git log` right now, you might wonder where the "testing" branch you just creaed went, as it would not appear in the output.
 
 
 
