@@ -643,9 +643,10 @@ Because a branch in Git is actually a simple file that contains the 40 character
 It's typical to create a new branch and want to switch to that new branch at the same time - this can be done in one operation with `git checkout -b <newbranchname>`
 
 You can use `git switch` instead of `git checkout` to:
-    - Switch to an existing branch: `git switch testing-branch`
-    - Create a new branch and switch to it: `git switch -c new-branch`. The `-c` flag stands for create, you can also use the full flag: `--create`.
-    - Return to your previously checked our branch: `git switch -`.
+
+  - Switch to an existing branch: `git switch testing-branch`
+  - Create a new branch and switch to it: `git switch -c new-branch`. The `-c` flag stands for create, you can also use the full flag: `--create`.
+  - Return to your previously checked our branch: `git switch -`.
 
 ## Basic Branching and Merging
 
@@ -655,6 +656,18 @@ Let's go through a simple example of branching and merging with a workflow that 
 2. Create a branch for a new user story you've working on.
 3. Do some work in that branch.
 
+At this stage, you'll receive a call that another issue is critical and you need a hotfix. You'll do the following:
+
+1. Switch to your production branch.
+2. Create a branch to add the hotfix.
+3. After it's tested, merge the hotfix branch, and push to production.
+4. Switch back to your original user story and continue working.
+
+### Basic Branching
+
+First, let's say you've working on your project and have a couple of commits already on the `master` branch.
+
+You've decide that you've going to work on issue #53 in whatever issue-tracking system your company uses.
 
 
 
