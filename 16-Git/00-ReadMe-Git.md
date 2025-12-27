@@ -630,7 +630,30 @@ It essentially rewinds the work you've done in your `testing` branch so you can 
 
 Now, you make a few changes and commit again. Your project history has diverged. You create and switched to a branch, did some work on it, and then switched back to your branch and did other work. Both of those changes are isolated in separate branches, you can switch back and forth between the branches and merge them together when you've ready.
 
+You can also see this easily with the `git log` command. If you run `git log --oneline --decorate --graph --all`, it will print out the history of your commits, showing where your branch pointers are and how your history has diverged.
 
+```
+git log --oneline --decorate --graph --all
+```
+
+Because a branch in Git is actually a simple file that contains the 40 character SHA-1 checksum of the commit it points to, branches are cheap to create and destroy. Creating a branch is as quick and simple as writing 41 bytes to a file.
+
+*Creating a new branch and switching to it at the same time*
+
+It's typical to create a new branch and want to switch to that new branch at the same time - this can be done in one operation with `git checkout -b <newbranchname>`
+
+You can use `git switch` instead of `git checkout` to:
+    - Switch to an existing branch: `git switch testing-branch`
+    - Create a new branch and switch to it: `git switch -c new-branch`. The `-c` flag stands for create, you can also use the full flag: `--create`.
+    - Return to your previously checked our branch: `git switch -`.
+
+## Basic Branching and Merging
+
+Let's go through a simple example of branching and merging with a workflow that you might use in the real world. You'll follow these steps:
+
+1. Do some work on a website.
+2. Create a branch for a new user story you've working on.
+3. Do some work in that branch.
 
 
 
