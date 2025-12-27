@@ -622,6 +622,18 @@ git checkout master
 
 If you were to run `git log` right now, you might wonder where the "testing" branch you just creaed went, as it would not appear in the output.
 
+To show commit history for the desired branch you have to explicitly specify it; `git log testing`. To show all of the branches, add `--all` to your `git log` command.
+
+That command did two things. It moved the `HEAD` pointer back to point to the `master` branch, and it reverted the files in your working directory back to the snapshot that `master` points to.
+
+It essentially rewinds the work you've done in your `testing` branch so you can go in a different direction.
+
+Now, you make a few changes and commit again. Your project history has diverged. You create and switched to a branch, did some work on it, and then switched back to your branch and did other work. Both of those changes are isolated in separate branches, you can switch back and forth between the branches and merge them together when you've ready.
+
+
+
+
+
 
 
 
