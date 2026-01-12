@@ -667,8 +667,82 @@ At this stage, you'll receive a call that another issue is critical and you need
 
 First, let's say you've working on your project and have a couple of commits already on the `master` branch.
 
-You've decide that you've going to work on issue #53 in whatever issue-tracking system your company uses.
+You've decide that you've going to work on issue #53 in whatever issue-tracking system your company uses. To create a new branch and switch to it at the same time, you can run the `git checkout` command with the `-b` switch:
 
+```
+git checkout -b iss53
+```
+
+Now you get the call that there is an issue with the website, and you need to fix it immediately. With Git, you don't have to deploy your fix along with the `iss53` changes you've made. All you have to do is switch back to your `master` branch.
+
+However, before you do that, note that if your working directory or staging area has uncommitted changes that conflict with the branch you've checking out, Git won't let you switch branches. It's best to have a clean working state when you switch branches. There are ways to get around this that we'll cover later on, in *Stashing and Cleaning*. For now, let's assume you've committed all your changes, so you can switch back to your `master` branch:
+
+```
+git checkout master
+```
+
+Next, you have a hotfix to make. Let's create a `hotfix` branch on which to work until it's completed:
+
+```
+git checkout -b hotfix
+git commit -a -m 'Fix broken email address'
+```
+
+You can run your tests, make sure the hotfix is what you want, and finally merge the `hotfix` branch back into your `master` branch to deploy to production. You do this with the `git merge` command:
+
+```
+git checkout master
+git merge hotfix
+```
+
+You'll commit the phrase "fast-forward" in that merge. Because the commit `C4` pointed to by the branch `hotfix` you merged in was directly ahead of the commit `C2` you're on, Git simple moves the pointer forward.
+
+To phrase that another way, when you try to merge one commit with a commit that can be reached by following the first commit's history, Git simplifies things by moving the pointer forward.
+
+After your super-important fix is deployed, you've ready to switch back to the work you were doing before you were interrupted. However, first you'll delete the `hotfix` branch, because you no longer need it - the `master` branch points at the same place.
+
+You can delete with the `-d` option to `git branch`.
+
+```
+git branch -d hotfix
+```
+
+Now you can swith back to your work in process branch on issue #53.
+
+```
+git checkout iss53
+```
+
+If you need to pull it in, you can merge your `master` branch into your `iss53` branch by running `git merge master`.
+
+### Basic Merging
+
+Suppose you decided that your `iss53` work is complete and ready to be merged into your `master` branch. *All you have to do is check out the branch you wish to merge into and then run the `git merge` command.*
+
+```
+git checkout master
+git merge iss53
+```
+
+Because the commit on the branch you're on isn't a direct ancestor of the branch you're merging in, Git has to do some work.
+
+In this case, Git does a simple three-way merge, using the two snapshots pointed to by the branch tips and the common ancestor of the two.
+
+Instead of just moving the branch pointer forward, Git creates a new snapshot that results from this three-way merge and automatically creates a new commit that points to it. This is referred to as a merge commit, and is special in that it has more than one parent.
+
+### Basic Merge Conflicts
+
+Occasionally, this process doesn't go smoothly. If you changed the same part of the same file different in the two branches you've merging, Git won't be able to merge them cleanly. If your fix for issue #53 modified the same part of a file as the `hotfix` branch, you'll get a merge conflix that looks something like this.
+
+Git hasn't automatically created a new merge commit. It has paused the process while you resolve the conflict. If you want to see which files are unmerged at any point after a merge conflict, you can run `git status`.
+
+Anything that has merge conflicts and hasn't been resolved is listed as unmerged. Git adds standard conflict-resolution markers to the files that have conflicts, so you can open them manually and resolve those conflicts.
+
+This means the version in `HEAD` (your `master` branch, because that was what you had checked out when you ran your merge command) is the top part of that block (everything above the *=======* ), while the version in your `iss53` branch looks like everything in the bottom part. In order to resolve the conflict, you have to either choose one side or the other or merge the contents yourself.
+
+This resolution has a little of each section, and the `<<<<<<`, `=========`, and `>>>>>>>>` lines have been completely removed. After you've resolved each of these sections in each conflicted file, run `git add` on each file to mark it as resolved. Staging the file marks it as resolved in Git.
+
+If you want to use a graphical tool to resolve these issues, you can run `git mergetool`, which fires up an appropriate visual merge tool and walks you through the conflict.
 
 
 
