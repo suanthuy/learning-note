@@ -744,6 +744,51 @@ This resolution has a little of each section, and the `<<<<<<`, `=========`, and
 
 If you want to use a graphical tool to resolve these issues, you can run `git mergetool`, which fires up an appropriate visual merge tool and walks you through the conflict.
 
+If you've happy with that, and you verify that everything that had conflicts has been staged, you can type `git commit` to finalize the merge commit.
+
+### Branch Management
+
+Now that you've created, merged, and deleted some branches, let's look at some branch management tools that will come in handy when you begin using branches all the time.
+
+The `git branch` command does more than just create and delete branches. If you run it with no arguments, you get a simple listing of your current branches.
+
+```
+git branch
+```
+
+To see the last commit on each branch, you can run:
+
+```
+git branch -v
+```
+
+The useful `--merged` and `--no-merged` options can filter this list to branches that you have or have not yet merged into the branch you've currently on. To see which branches are already merged into the branch you've on, you can run:
+
+```
+git branch --merged
+```
+
+Because you already merged in `iss53` earlier, you see it in your list. Branches on this list without the `*` in front of them are generally fine to delete with `git branch -d`; you 've already incorporated their work into another branch, so you're not going to lose anything.
+
+To see all the branches that contain work you haven't yet merged in, you can run:
+
+```
+git branch --no-merged
+```
+
+This shows your other branch. Because it contains work that isn't merged in yet, trying to delete it with `git branch -d` will fail.
+
+If you really do want to delete the branch and lose that work, you can force it with `-D`.
+
+### Changing a branch name
+
+
+
+
+
+
+
+
 
 
 
