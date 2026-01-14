@@ -782,11 +782,62 @@ If you really do want to delete the branch and lose that work, you can force it 
 
 ### Changing a branch name
 
+Suppose you have a branch that is called `bad-branch-name` and you want to change it to `corrected-branch-name`, while keeping all history.
 
+Rename the branch locally with the `git branch --move` command.
 
+```
+git branch --move bad-branch-name corrected-branch-name
+```
 
+This replaces your `bad-branch-name` with `corrected-branch-name`, but this change is only local for now. To let other see the corrected branch on the remove, push it.
 
+```
+git push --set-upstream origin corrected-branch-name
+```
 
+You can check the branch again by `git branch`.
+
+```
+git branch --all
+```
+
+Notice that you're on the branch `corrected-branch-name` and it's avaiable on the remote. However, the branch with the bad name is also still present there but you can delete it by executing the follow command:
+
+```
+git push origin --delete bad-branch-name
+```
+
+#### Changing the master branch name
+
+Rename your local `master` branch into `main` with the following command.
+
+```
+git branch --move master main
+```
+
+There is no local `master` branch anymore, because it's renamed to the `main` branch.
+
+To let other see the new `main` branch, you need to push it to the remote. This makes the renamed branch avaiable on the remote.
+
+```
+git push --set-upstream origin main
+```
+
+Now you have a few more tasks in front of you to complete the transition:
+
+1. Any projects that depend on this one will need to update their code and/or configuration.
+1. Update any test-runner configuration files.
+1. Adjust build and release scripts.
+1. Redirect settings on your repo host for things like the repo's default branch, merge rules, and other things that match branch names.
+1. Update references to the old branch in documentation.
+1. Close or merge any pull requests that target the old branch.
+
+After you've done all these tasks, and are certain the `main` branch performs just as the `master` branch, you can delete the `master` branch.
+
+```
+git push origin --delete master
+```
 
 
 
