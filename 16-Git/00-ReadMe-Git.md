@@ -839,8 +839,35 @@ After you've done all these tasks, and are certain the `main` branch performs ju
 git push origin --delete master
 ```
 
+### Branching Workflows
 
+#### Long-Running Branches
 
+Because Git uses a simple three-way merge, merging from one branch into another multiple times over a long period is generally easy to do. This means you can have several branches that are always open and that you use for different stages of your development cycle; you can merge regularly from some of them into others.
+
+Many Git developers have a workflow that embraces this approach, such as having only code that is entirely stable in their `master` branch - possible only code that has been or will be release.
+
+They have another parallel branch named `develop` or `next` that they work from or use to test stability - it isn't necessarily always stable, but whenever it gets to a stable state, it can be merged into `master`.
+
+It's used to pull in topic branches (short-lived branches, like your earlier `iss53` branch) when they're ready, to make sure they pass all the tests and don't introduce bugs.
+
+#### Topic Branches
+
+Topic branches, however, are useful in projects of any size. A topic branch is a short-lived branch that you create and use for a single particular feature or related work. This is something you've likely never done with a VCS before because it's generally too expensive to create and merge branches.
+
+#### Remote Branches
+
+Remote references are references (pointers) in your remote repositories, including branches, tags, and so on. You can get a full list of remote references explicitly with `git ls-remote <remote>`, or `git remote show <remote>`.
+
+Remote-tracking branches are references to the state of remote branches. Git moves them for you whenever you do any network communication, to make sure they accurately represent the state of the remote repositories.
+
+Remote-tracking branch names take the form `<remote>/<branch>`. For instance, if you wanted to see what the `master` branch on your `origin` remote looked like as of the last time you communicated with it, you would check the `origin/master` branch.
+
+If you do some work on your local `master` branch, and, in the meantime, someone else pushes to `git.ourcompany.com` and updates its `master` branch, then your histories move forward differently. Also, as long as you stay out of contact with your `origin` server, your `origin/master` pointer doesn't move.
+
+To synchronize your work with a given remote, you run a `git fetch <remote>` command (in our case, `git fetch origin`). This command looks up which server "origin" is (in this case, it's `git.ourcompany.com`), fetches any data from it that you don't yet have, and updates your local database, moving your `origin/master` pointer to its new, more up-to-date position.
+
+To demonstrate having multiple remote servers and what remote branches for those remote projects look like, let's assume you have another internal Git server that is used only for development by one of your sprint teams. This server is at `git.team1.ourcompany.com`. You can add it as a new remote reference to the project you've currently working on by running the `git remote add` command.
 
 
 
