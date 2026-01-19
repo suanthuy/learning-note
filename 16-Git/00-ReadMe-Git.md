@@ -930,4 +930,25 @@ git branch -u origin/serverfix
 >>> Branch serverfix set up to track remote branch serverfix from origin.
 ```
 
+#### Pulling
+
+While the `git fetch` command will fetch all the changes on the server that you don't have yet, it will not modify your working directory at all. It will simply get the data for you and let you merge it yourself.
+
+However, there is a command called `git pull` which is essentially a `git fetch` immediately followed by a `git merge` in most case.
+
+If you have a tracking branch set up as demonstrated in the last section, either by explicitly setting it or by having it created for you by the `clone` or `checkout` commands, `git pull` will look up what server and branch your current branch is tracking, fetch from that server and then try to merge in that remote branch.
+
+#### Deleting Remote Branches
+
+Suppose you're done with a remote branch - say you and your collaborators are finish with a feature and have merged it into your remote's `master` branch (or whatever branch your stable codeline is in).
+
+You can delete a remote branch using the `--delete` option to `git push`. If you want to delete your `serverfix` branch from the server, you can run the following:
+
+```
+git push origin --delete serverfix
+```
+
+
+
+
 
