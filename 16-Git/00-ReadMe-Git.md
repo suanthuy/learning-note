@@ -948,6 +948,26 @@ You can delete a remote branch using the `--delete` option to `git push`. If you
 git push origin --delete serverfix
 ```
 
+### Rebasing
+
+In Git, there are two main ways to integrate changes from one branch into another: the `merge` and the `rebase`.
+
+#### The Basic Rebase
+
+If you go back to an earlier example from `Basic Merging`, you can see that you diverged your work and made commits on two different branches.
+
+The easiest way to integrate the branches, as we're already covered, is the `merge` command. It performs a three-way merge between the two latest branch snapshots (`C3` and `C4`) and the most recent common ancestor of the two (`C2`), creating a new snapshot (and commit).
+
+However, there is another way: you can take the patch of the change that was introduced in `C4` and reapply it on top of `C3`.In Git, this is called `rebasing`. With the `rebase` command, you can take all the changes that were committed on one branch and replay them on a different branch.
+
+For this example, you would check out the `experiment` branch, and then rebase it onto the `master` branch as follows:
+
+```
+git checkout experiment
+git rebase master
+```
+
+This operation works by going to the common ancestor of the two branches (the one you're on and the one you're rebasing onto), getting the diff introduced by each commit of the branch you're on, saving those diffs to temporary files, resetting the current branch to the same commit as the branch you are rebasing onto, and finally applying each change in turn.
 
 
 
