@@ -965,9 +965,20 @@ For this example, you would check out the `experiment` branch, and then rebase i
 ```
 git checkout experiment
 git rebase master
+>>> First, rewinding head to replay your work on top of it ...
+>>> Applying: added staged command
 ```
 
 This operation works by going to the common ancestor of the two branches (the one you're on and the one you're rebasing onto), getting the diff introduced by each commit of the branch you're on, saving those diffs to temporary files, resetting the current branch to the same commit as the branch you are rebasing onto, and finally applying each change in turn.
+
+At this point, you can go back to the `master` branch and do a fast-forward merge.
+
+```
+git checkout master
+git merge experiment
+```
+
+Now, the snapshot pointed to by `C4'` is exactly the same as the one that was pointed to by `C5` in `the merge example`. There is no difference in the end product of the integration, but rebasing makes for a cleaner history. If you examine the log of a rebased branch, it looks like a linear history.
 
 
 
