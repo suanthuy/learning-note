@@ -984,8 +984,44 @@ Often, you'll do this to make sure your commits apply cleanly on a remote branch
 
 #### More Interesting Rebases
 
-You can also have your rebase replay on something other than the rebase target branch. You branched a topic branch `server` to add some server-side functionality to your project, and made a commit.
+You can also have your rebase replay on something other than the rebase target branch. You branched a topic branch `server` to add some server-side functionality to your project, and made a commit. Then, you branched off that to make the client-side changes `client` and committed a few times. Finally, you went back to your `server` branch and did a few more commits.
 
+Suppose you decide that you want to merge your client-side changes until it's tested further. You can take the changes on `client` that aren't on `server` (`C8` and `C9`) and replay them on your `master` branch by using the `--onto` option of `git rebase`.
+
+```
+git rebase --onto master server client
+```
+
+This basically says, "Take the `client` branch, figure out the patches since it diverged from the `server` branch, and replay these patches in the `client` branch as if it was based directly off the `master` branch instead".
+
+Now, you can fast-forward your `master` branch:
+
+```
+git checkout master
+git merge client
+```
+
+Let's say you decide to pull in your `server` branch as well. You can rebase the `server` branch onto the `master` branch without having to check it out first by running `git rebase <basebranch> <topicbranch>` - which checks out the topic branch (in this case, `server`) for you and replays it onto the base branch (`master`).
+
+```
+git rebase master server
+```
+
+This replays your `server` work on top of your `master` work.
+
+Then, you can fast-forward the base branch (`master`).
+
+```
+git checkout master
+git merge server
+```
+
+You can remove the `client` and `server` branches because all the work is integrated and you don't need them anymore, leaving your history for this entire process looking like `Final commit history`.
+
+```
+git branch -d client
+git branch -d server
+```
 
 
 
