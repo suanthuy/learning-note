@@ -1023,6 +1023,18 @@ git branch -d client
 git branch -d server
 ```
 
+#### The Perils of Rebasing
+
+    Do not rebase commits that exist outside your repository and that people may have based work on.
+
+If you follow that guideline, you'll be fine. If you don't, people will hate you, and you'll be scorned by friends and family.
+
+When you rebase stuff, you're abandoning existing commits and creating new ones that are similar but different. If you push commits somewhere and others pull them down and base work on them, and then you rewrite those commits with `git rebase` and push them up again, your collaborators will have to re-merge their work and things will get messy when you try to pull their work back into yours.
+
+
+
+
+
 
 
 
