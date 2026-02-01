@@ -1031,10 +1031,21 @@ If you follow that guideline, you'll be fine. If you don't, people will hate you
 
 When you rebase stuff, you're abandoning existing commits and creating new ones that are similar but different. If you push commits somewhere and others pull them down and base work on them, and then you rewrite those commits with `git rebase` and push them up again, your collaborators will have to re-merge their work and things will get messy when you try to pull their work back into yours.
 
+Let's look at an example of how rebasing work that you've made public can cause problems. Suppose you clone from a central server and then do some work off that.
 
+Now, someone else does more work that includes a merge, and pushes that work to the central server. You fetch it and merge the new remote branch into your work.
 
+Next, the person who pushed the merged work decides to go back and rebase their work instead; they do a `git push --force` to overwrite the history on the server. You then fetch from that server, bringing down the new commits.
 
+Now you're both in a pickle. If you do a `git pull`, you'll create a merge commit which includes both lines of history, and your repository will be very crazy.
 
+If you run a `git log` when your history looks like this, you'll see two commits that have the same author, date, and message, which will be confusing. Furthermore, if you push this history back up to the server, you'll reintroduce all those rebased commits to the central server, which can further confuse people. It's pretty safe to assume that the other developer doesn't want `C4` and `C6` to be in the history; that's why they rebased in the first place.
+
+#### Rebase When You Rebase
+
+If you **do** find yourself in a situation like this, Git has some further magic that might help you out. If someone on your team force pushes changes that overwrite work that you've based work on, your challenge is to figure out what is yours and what they've rewritten.
+
+It turns out that in addition to the commit SHA-1 checksum, Git also calculates a checksum that is based just on the patch introduced with the commit. This is called a `patch-id`.
 
 
 
