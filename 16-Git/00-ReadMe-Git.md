@@ -1047,5 +1047,12 @@ If you **do** find yourself in a situation like this, Git has some further magic
 
 It turns out that in addition to the commit SHA-1 checksum, Git also calculates a checksum that is based just on the patch introduced with the commit. This is called a `patch-id`.
 
+If you pull down work that was rewritten and rebase it on top of the new commits from your partner, Git can often successfully figure out what is uniquely yours and apply them back on top of the new branch.
+
+For instance, in the previous scenario, if instead of doing a merge when we're at `Someone pushes rebased commits, abandoning commits you've based your work on` we run `git rebase teamone/master`, Git will:
+
+- Determine what work is unique to our branch (`C2, C3, C4, C6, C7`).
+- 
+
 
 
