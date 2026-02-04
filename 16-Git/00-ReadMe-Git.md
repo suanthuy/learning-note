@@ -1052,7 +1052,25 @@ If you pull down work that was rewritten and rebase it on top of the new commits
 For instance, in the previous scenario, if instead of doing a merge when we're at `Someone pushes rebased commits, abandoning commits you've based your work on` we run `git rebase teamone/master`, Git will:
 
 - Determine what work is unique to our branch (`C2, C3, C4, C6, C7`).
-- 
+- Determine which are not merge commits (`C2, C3, C4`).
+- Determine which have not been rewritten into the target branch (just `C2` and `C3`, since `C4` is the same patch as `C4'`)
+- Apply those commits to the top of `teamone/master`.
+
+So instead of the result we see in `You merge in the same work again into a new merge commit`, we would end up with something more like `Rebase on top of force-pushed rebase work`.
+
+This only works if `C4` and `C4'` that your partner made are almost exactly the same patch.
+
+You can also simplify this by running a `git pull --rebase` instead of a normal `git pull`. Or you could do it manually with a `git fetch` followed by a `git rebase teamone/master` in this case.
+
+#### Rebase vs Merge
+
+Now that you've seen rebasing and merging in action, you may be wondering which one is better. Before we can answer this, let's step back a bit and talk about what history means.
+
+One point of view on this is that your repository's commit history is a `record of what actually happened`. It's a historical document, valuable in its own right, and shouldn't be tampered with. From this angle, changing the commit history is almost blashphemous; you're lying about what actually transpired. So what if there was a messy series of merge commits?
+
+The opposing point of view is that the commit history is the `story of how your project was made`. You wouldn't publish the first draft of a book, so why show your messy work? When you're working on a project, you may need a record of all your missteps and dead-end paths, but when it's time to show your work to the world, you may want to tell a more coherent story of how to get from A to B.
+
+
 
 
 
