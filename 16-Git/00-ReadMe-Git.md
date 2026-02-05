@@ -1070,6 +1070,14 @@ One point of view on this is that your repository's commit history is a `record 
 
 The opposing point of view is that the commit history is the `story of how your project was made`. You wouldn't publish the first draft of a book, so why show your messy work? When you're working on a project, you may need a record of all your missteps and dead-end paths, but when it's time to show your work to the world, you may want to tell a more coherent story of how to get from A to B.
 
+People in this camp use tools like `rebase` and `filter-branch` to rewrite their commits before they're merged into the mainline branch. They use tools like `rebase` and `filter-branch`, to tell the story in the way that's best for future readers.
+
+Now, to the question of whether merging or rebasing is better: hopefully you'll see that it's not that simple. Git is a powerful tool, and allows you to do many things to and with your history, but every team and every project is different. Now that you know how both of these things work, it's up to you to decide which one is the best for your particular situation.
+
+You can get the best of both worlds: rebase local changes before pushing to clean up your work, but never rebase anything that you've pushed somewhere.
+
+
+
 
 
 
