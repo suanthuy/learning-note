@@ -1076,7 +1076,11 @@ Now, to the question of whether merging or rebasing is better: hopefully you'll 
 
 You can get the best of both worlds: rebase local changes before pushing to clean up your work, but never rebase anything that you've pushed somewhere.
 
+## Git on the Server
 
+### The Protocols
+
+Git can use four distinct protocols to transfer data: Local, HTTP, Secure Shell (SSH) and Git. Here we'll discuss what they are and in what basic circumstances you would want (or not want) to use them.
 
 
 
