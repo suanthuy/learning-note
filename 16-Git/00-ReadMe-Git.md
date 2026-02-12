@@ -1086,7 +1086,33 @@ Git can use four distinct protocols to transfer data: Local, HTTP, Secure Shell 
 
 The most basic is the *Local protocol*, in which the remote repository is in another directory on the same host. This is often used if everyone on your team has access to a shared filesystem such as an `NFS` mount, or in the less likely case that everyone logs in to the same computer. The latter wouldn't be ideal, because all your code repository instances would reside on the same computer, making a catastrophic loss much more likely.
 
-If you have a shared mounted filesystem, then you can clone, push to, and pull from a local file-based repository. To clone a repository like this, or to add one as a remote to a existing project, use the path to the repository as the URL.
+If you have a shared mounted filesystem, then you can clone, push to, and pull from a local file-based repository. To clone a repository like this, or to add one as a remote to a existing project, use the path to the repository as the URL. For example, to clone a local repository, you can run something like this:
+
+```
+git clone /srv/git/project.git
+git clone file:///srv/git/project.git
+```
+
+Git operates slightly differently if you explicitly specify `file://` at the beginning of the URL. If you just specify the path, Git tries to use hardlinks or directly copy the files it needs.
+
+The main reason to specify the `file://` prefix is if you want a clean copy of the repository with extraneous references or objects left out - generally after an import from another VCS or something similar.
+
+To add a local repository to an existing Git project, you can run something like this:
+
+```
+git remote add local_proj /srv/git/project.git
+```
+
+##### The Pros
+
+The pros of file-based repositories are that they're simple and they use existing file permissions and network access. If you already have a shared filesystime to which your whole team has access, setting up a repository is very easy. You stick the base repository copy somewhere everyone has shared access to and set the read/write permissions as you would for any other shared directory.
+
+This is also a nice option for quickly grabbing work from someone else's working repository. If you and a co-worker are working on the same project and they want you to check something out, running a command like `git pull /home/john/project` is often easier than them pushing to a remote server and you subsequently fetching from it.
+
+##### The Cons
+
+
+
 
 
 
