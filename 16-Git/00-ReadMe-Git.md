@@ -1111,7 +1111,48 @@ This is also a nice option for quickly grabbing work from someone else's working
 
 ##### The Cons
 
-The cons of this method
+The cons of this method are that shared access is generally more difficult to set up and reach from multiple locations than basic network access. If you want to push from your laptop when you're at home, you have to mount the remote disk, which can be difficult and slow compared to network based access.
+
+It's important to mention that this isn't necessarily the fastest option if you're using a shared mount of some kind. A local repository is fast only if you have fast access to the data. A repository on `NFS` is often slower than the repository over `SSH` on the same server, allowing Git to run off local disks on each system.
+
+Finally, this protocol does not protect the repository against accidental damage. Every user has full shell access to the `remote` directory, and there is nothing preventing them from changing or removing internal Git files and corrupting the repository.
+
+#### The HTTP Protocols
+
+Git can communicate over HTTP using two different modes. Prior to `Git 1.6.6`, there was only one way it could do this which was very simple and generally read-only. In `version 1.6.6`, a new, smarter protocol was introduced that involved Git being able to intelligently negotiate data transfer in a manner similar to how it does over SSH. In the last few years, this new `HTTP protocol` has become very popular since it's simpler for the user and smarter about how it communicates. The newest version is often referred to as the `Smart HTTP protocol` and the older way as `Dumb HTTP`. We'll cover the newest `Smart HTTP` protocol first.
+
+##### Smart HTTP
+
+`Smart HTTP` operates very similarly to the SSH or Git protocols but runs over standard `HTTPS ports` and can use various `HTTP authentication mechanism`, meaning it's often easier on the user than something like SSH, since you can use things like username/password authentication rather than having to set up SSH keys.
+
+##### Dumb HTTP
+
+If the server does not respond with a Git HTTP smart service, the Git client will try to fall back to the simpler `Dumb HTTP protocol`. The `Dumb protocol` expects the bare Git repository to be served like normal files from the web server. The beauty of `Dumb HTTP` is the simplicity of setting it up.
+
+##### The Pros
+
+The simplicity of having a single URL for all types of access and having the server prompt only when authentication is needed makes things very easy for the end user. Being able to authenticate with a username and password is also a big advantage over SSH, since users don't have to generate SSH keys locally and upload their public key to server before being able to interact with it.
+
+##### The Cons
+
+Git over `HTTPS` can be a little more tricky to set up compared to SSH on some servers. Other than that, there is very little advantage that other protocols have one `Smart HTTP` for serving Git content.
+
+If you are using `HTTP` for authenticated pushing, providing your credentials is sometimes more complicated than using keys over SSH. However, several credential caching tools you can use. Read Credential Storage.
+
+#### The SSH Protocol
+
+A common transport protocol for Git when self-hosting is over SSH. This is because SSH access to servers is already set up in most places. SSH is also an authenticated network protocol and because it's ubiquitous, it's generally easy to set up and use.
+
+To clone a Git repository over SSH, you can specify an `ssh://` URL like this:
+
+```
+git clone ssh://[user@]server/project.git
+git clone [user@]server/project.git
+```
+
+##### The Pros
+
+The pros of using SSH are many.
 
 
 
