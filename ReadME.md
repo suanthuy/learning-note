@@ -1,8 +1,8 @@
 
 This is a note for everything that I am learning. I keep writing and update everyday. 
 Below, I will list all the general contents.
-- English: [00-ReadMe-English](01-English/00-ReadMe-English.md)
-- Machine Learning: [00-ReadMe-Machine learning](<02-Machine-learning/00-ReadMe-Machine learning.md>)
+- English: [ReadMe-English](01-English/00-ReadMe-English.md)
+- Machine Learning: [ReadMe-Machine learning](<02-Machine-learning/00-ReadMe-Machine learning.md>)
 - C++: [00-ReadMe-C++](03-C++/00-ReadMe-C++.md)
 - Python: [00-ReadMe-Python](04-Python/00-ReadMe-Python.md)
 - Java: [00-ReadMe-Java](05-Java/00-ReadMe-Java.md)
