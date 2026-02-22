@@ -1152,7 +1152,25 @@ git clone [user@]server/project.git
 
 ##### The Pros
 
-The pros of using SSH are many.
+The pros of using SSH are many. First, SSH is relatively easy to set up. Next, access over SSH is secure - all data transfer is encrypted and authenticated. Last, like the `HTTPS`, `Git` and `Local protocols`, SSH is efficient, making the data as compact as possible before transferring it.
+
+##### The Cons
+
+The negative aspect of SSH is that it doesn't support anonymous access to your Git repository. If you're using SSH, people `must` have SSH access to your machine, even in a read-only capacity.
+
+#### The Git Protocol
+
+##### The Pros
+
+The Git protocol is often the fastest network transfer protocol avaiable. If you're serving a lot of traffic for a public project or serving a very large project that doesn't require user authentication for read access, it's likely that you'll want to set up a Git daemon to serve your project.
+
+##### The Cons
+
+Due to the lack of TLS or other cryptography, cloning over `git://` might lead to an arbitrary code execution vulnerability, and should therefore be avoided unless you know what you doing.
+
+If you run `git clone git://example.com/project.git`, an attacker who controls e.g your router can modify the repo you just cloned, inserting malicious code into it. Running `git clone http://example.com/project.git` should be avoided for the same reason.
+
+
 
 
 
