@@ -1170,8 +1170,26 @@ Due to the lack of TLS or other cryptography, cloning over `git://` might lead t
 
 If you run `git clone git://example.com/project.git`, an attacker who controls e.g your router can modify the repo you just cloned, inserting malicious code into it. Running `git clone http://example.com/project.git` should be avoided for the same reason.
 
+## Generating Your SSH Public Key
 
+Many Git servers authenticate using `SSH public key`. In order to provide a public key, each user in your system must generate one if they don't already have one.
 
+First, you should check to make sure you don't already have a key. By default, a user's SSH keys are stored in that user's `~/.ssh` directory.
+
+```
+cd ~/.ssh
+ls
+```
+
+You're looking for a pair of files named something like `id_dsa` or `id_rsa` and a matching file with a `.pub` extension. If you don't have these files, you can create them by running a program called `ssh-keygen`.
+
+```
+ssh-keygen -o
+```
+
+First it confirms where you want to save the key `.ssh/id_rsa` and then it asks twice for a passphrase. If you do use a password, make sure to add the `-o` option; it saves the private key in a format that is more resistant to brute-force password cracking than is the default format.
+
+Now, each user that does this has to send their public key to you or whoever is administrating the Git server.
 
 
 
