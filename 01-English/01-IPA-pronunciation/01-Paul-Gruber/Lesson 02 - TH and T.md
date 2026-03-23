@@ -1,7 +1,25 @@
-#Lesson-02-TH-and-T #TH-and-T
+# Lesson-02-TH-and-T #TH-and-T
+
 ## TH - unvoiced and TH voiced
+
 To produce the TH sound correctly, you need to first stick your tough out between your teeth and bite down slightly, then blow. This create air friction. The sound comes from air friction should be very loud. Keep your tough flat and maintain min a steady flow air. Not stick your tough out a little bit, I am saying stick it way out at least while you practicing to get used to the feeling. The TH sound comes from the air and the friction.
+
+/θ/ is a voiceless consonant.
+
+- **Tongue position**: Lightly touch the tip of your tongue to the back of your top front teeth (or just behind them). Relaxed contact.
+- **Airflow**: Force air out sharply through the tiny gap between tongue and teeth, creating a crisp "thh" friction (like blowing out a candle softly).
+- **No voice**: Keep it breathy—no humming or buzzing. Pure exhale.
+- **Lip position**: Neutral and relaxed.
+
+/ð/ is a voice consonant.
+
+- **Tongue position**: Lightly touch the tip of your tongue to the back of your top front teeth (or just behind them). Don't press hard—keep it relaxed.
+- **Airflow**: Push air out gently through the small gap between your tongue and teeth, creating a soft buzzing/friction sound.
+- **Voice it**: Turn on your vocal cords (hum lightly) while doing this. It should feel like a vibrating "thuh" sound.
+- **Lip position**: Relaxed, neutral—no rounding or spreading needed.
+
 ## Practice with TH
+
 	 Example - TH unvoiced: Thanks, Thick, Thunder, Thursday, Think, Anything, Bathmat, Toothpick, Athletic, Mouthwash, Bath, North, Beneath, Fourth, South.
 	 Example - TH voiced: The, That, They, Them, There, This, Those, These, Clothing, Leather, Mother, Another, Weather, Northern, Smooth, Bathe, Breathe.
 	 Example:
@@ -11,6 +29,7 @@ To produce the TH sound correctly, you need to first stick your tough out betwee
 		 Which tablecloth shall we use for the party? That was the 33rd theatre to open.
 
 ## THR Blend
+
 First make the TH sound and then strongly, push out the R. 
 
 	Example: 
@@ -18,14 +37,17 @@ First make the TH sound and then strongly, push out the R.
 	Three more days. Yesterday, he threw the ball. The King sits on a throne.
 
 ## Practice
+
 	Example: 
 		Nurse THatcher was THankful, it was THursday. She knew that on THursday, she had to deliver 33 boxes of THermometers to the North American aTHletic Club.THey THought that THermometers were necessary for testing the hydroTHerapy baTHs. THis was thought to benefit the aTHletes wiTH arTHritis. THe aTHletic trainers required auTHorization to provide hydroTHerapy to the youTHful aTHletes, on THe 3 bulletin boards with THumbtacks, THroughout THe aTHletic club. RaTHer THan risk the healTH of THe aTHletes, THey THoroughly checked THe THousands of THermometers to ensure THeir worTHiness; oTHerwise, THey needed to be THrown away.
 
 ## TH exception - T
+
 	Example: 
 		Thomas, Thompson, Therasa, Thailand, Thames, Esther, Thyme
 
 ## T sound
+
 - If T is between two voiced vowels, speak like D.
 - Example: 
 	- Water - Wader,  Better - Bedder, Butter - Budder
