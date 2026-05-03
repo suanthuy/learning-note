@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f2cfa5757cb30963",
+        "id": "db4ecabb8b34bc82",
         "type": "tabs",
         "children": [
           {
-            "id": "0a1a897bb54677c6",
+            "id": "5a2aba35921a85c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "16-Git/00-ReadMe-Git.md",
+                "file": "14-C#/00-ReadMe-CSharp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-ReadMe-Git"
+              "title": "00-ReadMe-CSharp"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0b95dc5cd5c1eb81",
@@ -171,13 +170,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a1a897bb54677c6",
+  "active": "5a2aba35921a85c0",
   "lastOpenFiles": [
+    "Untitled 1.base",
+    "Untitled.base",
     "16-Git/00-ReadMe-Git.md~",
     "2025-12-04.md",
     "16-Git/00-ReadMe-Git.md",
-    "Untitled 1.base",
-    "Untitled.base",
     "14-C#/00-ReadMe-CSharp.md",
     "ReadME.md",
     "02-Machine-learning/00-ReadMe-Machine learning.md",

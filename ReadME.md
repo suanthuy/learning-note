@@ -27,7 +27,7 @@ vim.opt.foldmethod = 'expr'
 
 https://batdongsan.com.vn/ban-dat-phuong-an-hong/co-em-b-1-5x-ty-b-60m2-ngay-du-himlam-duong-t-oto-lh-pr44677113
 
-
+sudo systemctl restart NetworkManager
 
 
 
